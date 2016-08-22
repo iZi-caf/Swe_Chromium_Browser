@@ -74,5 +74,6 @@
     <integer name="enableexitonlasttab">0</integer>
 
     <!-- Prompt user to select WiFi access point or otherwise enable WLAN -->
-    <bool name="swe_feature_network_notifier">false</bool>
+    <bool name="swe_feature_network_notifier">true</bool>
 </resources>
+
