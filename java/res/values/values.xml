@@ -65,7 +65,7 @@
 
     <!-- QRD features -->
     <bool name="swe_feature_exit_dialog">false</bool>
-    <bool name="swe_feature_allow_media_downloads">false</bool>
+    <bool name="swe_feature_allow_media_downloads">true</bool>
 
     <!-- Partner customization -->
     <bool name="swe_force_enable_partner_customization">true</bool>
