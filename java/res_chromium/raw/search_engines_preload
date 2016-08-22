@@ -1,0 +1,15 @@
+    {
+        "version": "1.0",
+        "searchEngines": [{
+            "name": "Google",
+            "keyword": "google.com",
+            "searchUrl": "http://www.google.com/search?q={searchTerms}",
+            "faviconUrl": "http://www.google.com/favicon.ico"
+        }, {
+            "name": "Bing",
+            "keyword": "bing.com",
+            "searchUrl": "http://www.bing.com/search?q={searchTerms}",
+            "faviconUrl": "http://www.bing.com/s/favicon.ico"
+        }],
+        "default": 0
+    }
