@@ -45,7 +45,7 @@
 
     <string name="most_visited">"Most Frequent"</string>
 
-    <string name="default_homepage_url" translatable="false">""</string>
+    <string name="default_homepage_url" translatable="false">"https://google.com"</string>
     <string name="default_homepage">"Default Page"</string>
     <string name="most_visited_sites_homepage">"Most Visited Sites"</string>
     <string name="other_homepage">"Other"</string>
