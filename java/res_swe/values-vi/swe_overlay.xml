@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Khởi chạy Trình duyệt</string>
+  <string name="account_management_add_account_title">"Thêm tài khoản cho %1$s"</string>
+  <string name="account_management_title">"Tài khoản"</string>
+  <string name="android_permission_off">Bật thông báo cho Trình duyệt trong &lt;link&gt;Cài đặt Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Bật các thông báo cho Trình duyệt trong &lt;link&gt;Cài đặt Android&lt;/link&gt;.</string>
+  <string name="app_name">Trình duyệt</string>
+  <string name="background_audio_reload_tip_text">Bật nội dung video để tiếp tục phát âm thanh khi trang web không chạy bên trên nền.</string>
+  <string name="background_audio_title">Âm thanh nền</string>
+  <string name="block_screen_observers_summary">Cho phép hoặc chặn chụp màn hình trình duyệt từ các ứng dụng khác</string>
+  <string name="block_screen_observers_title">Chặn trình quan sát màn hình</string>
+  <string name="can_not_clear_browsing_history_toast">"Không thể xóa lịch sử duyệt web bằng tài khoản cho trẻ em"</string>
+  <string name="clear_cache_title">"Bộ nhớ cache"</string>
+  <string name="clear_cookies_and_site_data_title">"Cookie, dữ liệu trang web"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Bạn sẽ không bị đăng xuất khỏi &lt;link&gt;Tài khoản Google&lt;/link&gt; của mình"</string>
+  <string name="clear_data_delete">"Xóa"</string>
+  <string name="common_google_play_services_unknown_issue">"Sự cố không xác định với dịch vụ của Google Play."</string>
+  <string name="data_reduction_description">"Khi bạn bật tính năng này, Chrome sẽ sử dụng máy chủ Google để nén các trang mà bạn truy cập trước khi tải trang xuống. Trang ẩn danh và SSL sẽ không được bao gồm."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Đã phát hiện kết nối chậm."</string>
+  <string name="data_reduction_promo_summary">"Sử dụng ít dữ liệu hơn bằng cách sử dụng Google để tối ưu hóa các trang bạn truy cập. Google sẽ không tối ưu hóa hoặc thấy các trang được truy cập bằng HTTPS hoặc Chế độ ẩn danh."</string>
+  <string name="do_not_track_description">"Bật tính năng ‘Không theo dõi’ có nghĩa là một yêu cầu sẽ được đi kèm với lưu lượng duyệt web của bạn. Mọi ảnh hưởng đều phụ thuộc vào việc liệu trang web có phản hồi yêu cầu này không và cách thức diễn giải yêu cầu.
+
+Ví dụ: một số trang web có thể phản hồi yêu cầu này bằng cách hiển thị cho bạn các quảng cáo không dựa trên các trang web khác mà bạn đã truy cập. Nhiều trang web vẫn sẽ thu thập và sử dụng dữ liệu duyệt web của bạn - ví dụ: để cải thiện bảo mật, cung cấp nội dung, quảng cáo và các đề xuất về trang web của chúng và tạo số liệu thống kê báo cáo."</string>
+  <string name="do_not_track_title">"\'Không theo dõi\'"</string>
+  <string name="fre_send_report_check">Giúp cải thiện Trình duyệt bằng cách báo cáo số liệu sử dụng và báo cáo lỗi.</string>
+  <string name="fre_tos_and_privacy">Khi sử dụng ứng dụng này, bạn đồng ý với &lt;LINK1&gt;Điều khoản dịch vụ&lt;/LINK1&gt; và &lt;LINK2&gt;Thông báo về quyền riêng tư&lt;/LINK2&gt; của Trình duyệt.</string>
+  <string name="fre_welcome">Chào mừng đến với Trình duyệt</string>
+  <string name="fullscreen_api_notification">"Trang web này đã chuyển sang chế độ toàn màn hình.
+Nhấn nút quay lại để thoát."</string>
+  <string name="fullscreen_permission_title">"Toàn màn hình"</string>
+  <string name="infobar_missing_camera_permission_text">Trình duyệt cần quyền truy cập máy ảnh để chia sẻ với trang web này.</string>
+  <string name="infobar_missing_location_permission_text">Trình duyệt cần quyền truy cập vị trí để chia sẻ với trang web này.</string>
+  <string name="infobar_missing_microphone_permission_text">Trình duyệt cần quyền truy cập micro để chia sẻ với trang web này.</string>
+  <string name="infobar_missing_multiple_permissions_text">Trình duyệt cần quyền truy cập để chia sẻ với trang web này.</string>
+  <string name="kids_account">"Đây là tài khoản của trẻ em"</string>
+  <string name="menu_load_live_page_for_offline_page">Phát trực tuyến</string>
+  <string name="menu_open_in_chrome">Mở trong Trình duyệt</string>
+  <string name="most_visited">Thường xuyên nhất</string>
+  <string name="native_startup_failed">Trình duyệt không thể khởi động do một lỗi không mong đợi.</string>
+  <string name="network_predictions_title">"Tìm nạp trước tài nguyên trang"</string>
+  <string name="new_tab_incognito_header">"Bạn đã truy cập ẩn danh."</string>
+  <string name="night_mode_reload_tip_text">Sử dụng chế độ Ban đêm để mắt dễ chịu hơn khi xem trong bóng tối.</string>
+  <string name="night_mode_title">Chế độ Ban đêm</string>
+  <string name="passwords_auto_signin_description">"Tự động đăng nhập vào các trang web bằng thông tin đăng nhập được lưu trữ. Khi tính năng này tắt, bạn sẽ luôn được yêu cầu xác minh trước khi đăng nhập vào trang web."</string>
+  <string name="powered_by_chrome_message">Được hỗ trợ bởi Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Tăng cường tiết kiệm pin sẽ bật.</string>
+  <string name="powersave_mode_opt_out_confirmation">Tăng cường tiết kiệm pin sẽ tắt.</string>
+  <string name="powersave_mode_tip_text">Cài đặt chế độ tiết kiệm pin có thể ảnh hưởng đến trải nghiệm người dùng nhằm cải thiện thời lượng pin cho trình duyệt</string>
+  <string name="powersave_mode_title">Chế độ Tiết kiệm pin</string>
+  <string name="powersave_mode_turn_off_title">Tắt chế độ Tiết kiệm pin</string>
+  <string name="powersave_mode_turn_on_title">Bật chế độ Tiết kiệm pin</string>
+  <string name="prefs_about_chrome">Thông tin</string>
+  <string name="privacy_notice_title">Thông báo về quyền riêng tư của Trình duyệt</string>
+  <string name="sad_tab_suggestions">"Nếu bạn thường xuyên thấy thông báo này, hãy thử các &lt;link&gt;đề xuất&lt;/link&gt; sau."</string>
+  <string name="sign_in_to_chrome">"Đăng nhập Chrome"</string>
+  <string name="signout_message">"Dữ liệu đã lưu trên thiết bị này cũng như dữ liệu đã lưu trong tài khoản Google của bạn sẽ vẫn ở cả hai vị trí. Tuy nhiên, dữ liệu mới hoặc các thay đổi mà bạn thực hiện đối với dữ liệu sẽ không được đồng bộ hóa giữa hai vị trí."</string>
+  <string name="signout_title">"Đăng xuất khỏi Chrome"</string>
+  <string name="ssl_error">Trang web có chứng chỉ SSL không hợp lệ</string>
+  <string name="ssl_secure">Chứng chỉ SSL của trang web hợp lệ. Thông tin liên lạc được mã hóa và danh tính được xác thực</string>
+  <string name="ssl_warning">Chứng chỉ SSL của trang web có cảnh báo</string>
+  <string name="sync_custom_passphrase">"Chỉ những người có cụm mật khẩu mới có thể đọc dữ liệu được mã hóa của bạn. Cụm mật khẩu này không được gửi tới hoặc được lưu trữ bởi Google. Nếu bạn quên cụm mật khẩu, bạn cần đặt lại đồng bộ hóa."</string>
+  <string name="sync_passphrase_reset_instructions">"Nếu bạn đã quên cụm mật khẩu của mình, hãy dừng lại và đặt lại Đồng bộ hóa qua &lt;link&gt;Trang tổng quan của Google&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Mã hóa tất cả bằng cụm mật khẩu"</string>
+  <string name="tabs_and_apps_settings_description">"Xem các tab của bạn với các ứng dụng gần đây khác trên màn hình Tổng quan của điện thoại."</string>
+  <string name="terms_of_service_title">Điều khoản dịch vụ của Trình duyệt</string>
+  <string name="tooltip_favicon_change_search_engine">Chạm vào đây để thay đổi công cụ tìm kiếm.</string>
+  <string name="tooltip_favicon_change_site_settings">Chạm vào đây để thay đổi cài đặt cho trang web hiện tại, bao gồm chế độ lọc nội dung.</string>
+  <string name="tooltip_favicon_content_blocking_info">Lọc nội dung đang hoạt động. Chạm vào đây để biết thêm thông tin.</string>
+  <string name="tooltip_favicon_site_integrity_check">Lọc nội dung đang hoạt động. Nếu có vấn đề với trang web này, hãy chạm biểu tượng này và thử tắt chế độ lọc nội dung.</string>
+  <string name="translate_options_source_hint">"Ngôn ngữ trang: ^1"</string>
+  <string name="translate_options_target_hint">"Ngôn ngữ bản dịch: ^1"</string>
+  <string name="unsupported_number_of_windows">Số trường hợp của Trình duyệt không được hỗ trợ.</string>
+  <string name="web_defender_about_text">Bộ bảo vệ web sử dụng trí thông minh của máy để ngăn chặn trình theo dõi của bên thứ ba (bao gồm quảng cáo) thu thập thông tin về các trang web bạn truy cập và các thông tin cá nhân không thể nhận dạng. Nếu một trình quan sát bị phát hiện đang theo dõi hoạt động của bạn trên nhiều trang web, Bộ bảo vệ web sẽ tự động chặn trình quan sát này tải thêm nội dung vào trình duyệt của bạn.</string>
+  <string name="web_refiner_about_text">Bộ lọc web là một thành phần lọc nội dung cho phép bạn chặn quảng cáo, trình theo dõi và các domain độc hại. Với Bộ lọc web được bật, bạn sẽ ít bị làm phiền hơn khi truy cập internet. Trình duyệt web của bạn sẽ chạy nhanh hơn, bạn sẽ tốn ít băng thông hơn cho việc tải quảng cáo và bạn sẽ được bảo vệ khỏi các trình theo dõi và domain độc hại.</string>
+  <string name="webrefiner_ads">quảng cáo</string>
+  <string name="webrefiner_ads_plural">các quảng cáo</string>
+  <string name="webrefiner_malware">phần mềm độc hại</string>
+  <string name="webrefiner_one_message">Chúng tôi đã chặn %s.</string>
+  <string name="webrefiner_three_message">Chúng tôi đã chặn %1$s, %2$s và %3$s.</string>
+  <string name="webrefiner_trackers">trình theo dõi</string>
+  <string name="webrefiner_trackers_plural">các trình theo dõi</string>
+  <string name="webrefiner_two_message">Chúng tôi đã chặn %1$s và %2$s.</string>
+  <string name="website_settings_category_disabled">Đã tắt</string>
+  <string name="website_settings_category_enabled">Đã bật</string>
+  <string name="website_settings_fullscreen">"Toàn màn hình"</string>
+  <string name="website_settings_security_title">Thông tin bảo mật</string>
+  <string name="website_settings_webdefender_brief_message">Thông tin có thể theo dõi sẽ không bị rò rỉ ra %1$s domain được kết nối.</string>
+  <string name="website_settings_webdefender_cookie">Bộ nhớ cookie</string>
+  <string name="website_settings_webdefender_disabled">Bạn chưa được bảo vệ trước các domain theo dõi của bên thứ ba.</string>
+  <string name="website_settings_webdefender_disabled_count">Bạn chưa được bảo vệ trước %1$s domain theo dõi của bên thứ ba.</string>
+  <string name="website_settings_webdefender_enabled">Bộ bảo vệ web đã bật</string>
+  <string name="website_settings_webdefender_fingerprint">Tạo vân tay</string>
+  <string name="website_settings_webdefender_font_enum">Liệt kê font</string>
+  <string name="website_settings_webdefender_html5">Bộ nhớ HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Đồng hồ đo bảo mật</string>
+  <string name="website_settings_webdefender_tracking_list">Cài đặt domain được kết nối:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">không phát hiện</string>
+  <string name="website_settings_webdefender_tracking_vectors">Vector theo dõi trên domain được kết nối:</string>
+  <string name="website_settings_webdefender_vector_allow">Cho phép</string>
+  <string name="website_settings_webdefender_vector_not_connect">Không kết nối</string>
+  <string name="website_settings_webdefender_vector_strip">Loại bỏ vector và kết nối</string>
+  <string name="website_settings_webdefender_vector_system_default">Quyết định cho tôi</string>
+  <string name="website_settings_webrefiner_disabled">Đã tắt Chặn nội dung</string>
+  <string name="website_settings_webrefiner_enabled">Đã bật Chặn nội dung</string>
+</resources>

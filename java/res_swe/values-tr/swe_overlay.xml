@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Tarayıcıyı Başlat</string>
+  <string name="account_management_add_account_title">"%1$s için hesap ekle"</string>
+  <string name="account_management_title">"Hesaplar"</string>
+  <string name="added_to_homescreen">"%1$s Ana ekranınıza eklendi"</string>
+  <string name="android_permission_off">&lt;link&gt;Android Ayarları&lt;/link&gt; üzerinden Tarayıcı iznini açın.</string>
+  <string name="android_permission_off_plural">&lt;link&gt;Android Ayarları&lt;/link&gt; üzerinden Tarayıcı izinlerini açın.</string>
+  <string name="app_name">Tarayıcı</string>
+  <string name="background_audio_reload_tip_text">Web sayfası ön planda değilken video içeriğinin ses çalmaya devam etmesini sağlar.</string>
+  <string name="background_audio_title">Arka plan sesi</string>
+  <string name="block_screen_observers_summary">Diğer uygulamalardan alınan tarayıcı ekranına izin ver veya engelle</string>
+  <string name="block_screen_observers_title">Ekran gözlemcilerini engelle</string>
+  <string name="can_not_clear_browsing_history_toast">"Çocuklar için hesapların tarama geçmişi temizlenemez"</string>
+  <string name="clear_cache_title">"Önbellek"</string>
+  <string name="clear_cookies_and_site_data_title">"Çerezler, site verileri"</string>
+  <string name="clear_cookies_no_sign_out_summary">"&lt;link&gt;Google Hesaplarınızdaki&lt;/link&gt; oturumlarınız kapatılmaz"</string>
+  <string name="clear_data_delete">"Temizle"</string>
+  <string name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştir"</string>
+  <string name="common_google_play_services_install_button">"Google Play hizmetlerini edin"</string>
+  <string name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+  <string name="common_google_play_services_unknown_issue">"Google Play hizmetleriyle ilgili bilinmeyen sorun."</string>
+  <string name="common_google_play_services_update_title">"Google Play hizmetlerini güncelle"</string>
+  <string name="data_reduction_description">"Bu özellik açık olduğunda, Chrome, ziyaret ettiğiniz sayfaları indirmeden önce sıkıştırmak için Google sunucularını kullanır. SSL kullanan veya Gizli modda erişilen sayfalar dahil edilmez."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Yavaş bağlantı algılandı."</string>
+  <string name="data_reduction_promo_summary">"Ziyaret ettiğiniz sayfaları optimize etmek için Google\'ı kullanarak daha az veri harcayın. HTTPS veya gizli modla erişilen sayfalar Google tarafından optimize edilmez veya görülmez."</string>
+  <string name="do_not_track_description">"\"Do Not Track\" seçeneği etkinleştirildiğinde, göz atma trafiğinize bir istek eklenir. Bu isteğin etkisi, web sitelerinin isteğe yanıt verip vermediğine ve isteğin nasıl yorumlandığına göre değişir.
+
+Örneğin, bazı web siteleri, size ziyaret ettiğiniz başka web sitelerini temel almayan reklamlar göstererek bu isteğe yanıt verebilir. Pek çok web sitesi ise tarama verilerinizi toplamaya ve kullanmaya devam eder (örneğin, güvenliği iyileştirmek, web siteleriyle içerik, reklam, öneriler sağlamak ve raporlama istatistikleri oluşturmak için)."</string>
+  <string name="do_not_track_title">"\"Do Not Track\""</string>
+  <string name="fre_send_report_check">Kullanım istatistiklerini ve kilitlenme raporlarını bildirerek Tarayıcının iyileştirilmesine yardımcı olun.</string>
+  <string name="fre_tos_and_privacy">Bu uygulamayı kullanarak Tarayıcının &lt;LINK1&gt;Hizmet Koşullarını&lt;/LINK1&gt; ve &lt;LINK2&gt;Gizlilik Bildirimini&lt;/LINK2&gt; kabul etmiş olursunuz.</string>
+  <string name="fre_welcome">Tarayıcıya Hoş Geldiniz</string>
+  <string name="fullscreen_api_notification">"Bu site tam ekran moduna girdi.
+Çıkmak için geri düğmesine basın."</string>
+  <string name="fullscreen_permission_title">"Tam ekran"</string>
+  <string name="infobar_missing_camera_permission_text">Tarayıcının bu site ile paylaşım yapabilmesi için kamera erişimine ihtiyacı var.</string>
+  <string name="infobar_missing_location_permission_text">Tarayıcının bu site ile paylaşım yapabilmesi için konum erişimine ihtiyacı var.</string>
+  <string name="infobar_missing_microphone_permission_text">Tarayıcının bu site ile paylaşım yapabilmesi için mikrofon erişimine ihtiyacı var.</string>
+  <string name="infobar_missing_multiple_permissions_text">Tarayıcının bu site ile paylaşım yapabilmesi için izne ihtiyacı var.</string>
+  <string name="kids_account">"Bu bir çocuk hesabıdır"</string>
+  <string name="menu_load_live_page_for_offline_page">Yayına al</string>
+  <string name="menu_open_in_chrome">Tarayıcıda aç</string>
+  <string name="most_visited">En Sık</string>
+  <string name="native_startup_failed">Tarayıcı, başlatma sırasında beklenmeyen bir hata nedeniyle başarısız oldu.</string>
+  <string name="network_predictions_title">"Sayfa kaynaklarını önceden getir"</string>
+  <string name="new_tab_incognito_header">"Gizli sekme açtınız."</string>
+  <string name="night_mode_reload_tip_text">Karanlıkta gezinirken gözlerinizi yormamak için Gece modunu kullanın.</string>
+  <string name="night_mode_title">Gece modu</string>
+  <string name="passwords_auto_signin_description">"Depolanmış kimlik bilgileriyle web sitelerinde otomatik olarak oturum açın. Bu özellik kapatıldığında, bir web sitesinde oturum açmadan önce her defasında doğrulama yapmanız istenir."</string>
+  <string name="powered_by_chrome_message">Krom ile güçlendirilmiştir</string>
+  <string name="powersave_mode_opt_in_confirmation">Güç tasarrufu iyileştirmeleri açılacak.</string>
+  <string name="powersave_mode_opt_out_confirmation">Güç tasarrufu iyileştirmeleri kapatılacak.</string>
+  <string name="powersave_mode_tip_text">Güç tasarrufu modu ayarı, tarayıcınızın pil ömrünü geliştirmek için kullanıcı deneyimini potansiyel olarak etkiler</string>
+  <string name="powersave_mode_title">Güç tasarrufu modu</string>
+  <string name="powersave_mode_turn_off_title">Güç tasarrufu modunu devre dışı bırak</string>
+  <string name="powersave_mode_turn_on_title">Güç tasarrufu modunu etkinleştir</string>
+  <string name="prefs_about_chrome">Hakkında</string>
+  <string name="privacy_notice_title">Tarayıcı Gizlilik Bildirimi</string>
+  <string name="recently_closed">"Yeni kapatılan"</string>
+  <string name="sad_tab_suggestions">"Bunu çok sık görüyorsanız bu &lt;link&gt;önerileri&lt;/link&gt; deneyin."</string>
+  <string name="sign_in_to_chrome">"Chrome\'da oturum aç"</string>
+  <string name="signout_message">"Bu cihazda ve Google Hesabınızda depolanan veriler her iki yerde de kalır. Ancak, yeni veriler veya verilerinizde yapacağınız değişiklikler bu ikisi arasında senkronize edilmez."</string>
+  <string name="signout_title">"Chrome oturumunu kapatma"</string>
+  <string name="ssl_error">Sitenin SSL sertifikası geçersiz</string>
+  <string name="ssl_secure">Sitenin SSL sertifikası geçerli. İletişim şifrelendi ve kimlik doğrulandı</string>
+  <string name="ssl_warning">Sitenin SSL sertifikası uyarı veriyor</string>
+  <string name="sync_custom_passphrase">"Şifrelenmiş verileriniz yalnızca parolanıza sahip bir kişi tarafından okunabilir. Bu parola Google tarafından gönderilmez veya saklanmaz. Parolanızı unutursanız, senkronizasyonu sıfırlamanız gerekir."</string>
+  <string name="sync_passphrase_reset_instructions">"Parolanızı unuttuysanız, Senkronizasyonu &lt;link&gt;Google Hesap Özeti&lt;/link&gt; üzerinden durdurun ve sıfırlayın."</string>
+  <string name="sync_passphrase_type_custom">"Tümünü parola ile şifrele"</string>
+  <string name="tabs_and_apps_settings_description">"Telefonunuzun Genel Bakış ekranında, son kullanılan diğer uygulamalarla birlikte sekmelerinizi görün."</string>
+  <string name="terms_of_service_title">Tarayıcı Hizmet Koşulları</string>
+  <string name="tooltip_favicon_change_search_engine">Arama motorunu değiştirmek için buraya dokunun.</string>
+  <string name="tooltip_favicon_change_site_settings">İçerik filtrelemenin yanı sıra mevcut web sitesi tercihlerini değiştirmek için buraya dokunun.</string>
+  <string name="tooltip_favicon_content_blocking_info">İçerik filtreleme etkin. Daha fazla bilgi için buraya dokunun.</string>
+  <string name="tooltip_favicon_site_integrity_check">İçerik filtreleme etkin. Bu web sitesinde sorunla karşılaşırsanız bu simgeye dokunun ve içerik filtreleme özelliğini devre dışı bırakmaya çalışın.</string>
+  <string name="translate_options_source_hint">"Sayfanın Dili: ^1"</string>
+  <string name="translate_options_target_hint">"Çeviri Dili: ^1"</string>
+  <string name="unsupported_number_of_windows">Desteklenmeyen Tarayıcı örneği sayısı.</string>
+  <string name="web_defender_about_text">Web Defender, üçüncü parti izleyicilerin (reklamcılar da dahil) ziyaret ettiğiniz web siteleri ve kimlik tanımlama ile ilgili bilgi toplamasını önlemek için yapay zeka kullanır. Web Defender çeşitli web sitelerinde eylemlerinizi izleyen bir gözlemci yakalarsa bu gözlemcinin sizin tarayıcınıza daha fazla içerik yüklemesini otomatik olarak engeller.</string>
+  <string name="web_refiner_about_text">Web Arıtıcı; reklamları, izleyicileri ve kötü amaçlı etki alanlarını engellemenizi sağlayan bir içerik filtreleme bileşenidir. Web Arıtıcı etkinken İnternette gezinme sırasında daha rahat edeceksiniz. Web tarayıcınız genellikle daha hızlı çalışacak, reklamları indirirken daha az bant genişliği harcayacak ve izleyiciler ile kötü amaçlı etki alanlarına karşı korunacaksınız.</string>
+  <string name="webrefiner_ads">reklam</string>
+  <string name="webrefiner_ads_plural">reklamlar</string>
+  <string name="webrefiner_malware">kötü amaçlı yazılım</string>
+  <string name="webrefiner_one_message">%s engellendi.</string>
+  <string name="webrefiner_three_message">%1$s, %2$s ve %3$s engellendi.</string>
+  <string name="webrefiner_trackers">izleyici</string>
+  <string name="webrefiner_trackers_plural">izleyiciler</string>
+  <string name="webrefiner_two_message">%1$s ve %2$s engellendi.</string>
+  <string name="website_settings_category_disabled">Devre dışı bırakıldı</string>
+  <string name="website_settings_category_enabled">Etkinleştirildi</string>
+  <string name="website_settings_fullscreen">"Tam ekran"</string>
+  <string name="website_settings_security_title">Güvenlik Bilgileri</string>
+  <string name="website_settings_webdefender_brief_message">İzlenebilir bilgiler, %1$s öğesine bağlı etki alanlarına sızdırılmayacak.</string>
+  <string name="website_settings_webdefender_cookie">Çerez Depolama</string>
+  <string name="website_settings_webdefender_disabled">Üçüncü parti izleme etki alanlarına karşı korunmuyorsunuz.</string>
+  <string name="website_settings_webdefender_disabled_count">%1$s üçüncü parti izleme etki alanlarına karşı korunmuyorsunuz.</string>
+  <string name="website_settings_webdefender_enabled">Web Defender etkinleştirildi</string>
+  <string name="website_settings_webdefender_fingerprint">Parmak izi</string>
+  <string name="website_settings_webdefender_font_enum">Yazı Tipi Listesi</string>
+  <string name="website_settings_webdefender_html5">HTML5 Depolama</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Gizlilik Ölçümü</string>
+  <string name="website_settings_webdefender_tracking_list">Bağlı etki alanı ayarları:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">algılanmadı</string>
+  <string name="website_settings_webdefender_tracking_vectors">Bağlı etki alanlarındaki izleme vektörleri:</string>
+  <string name="website_settings_webdefender_vector_allow">İzin ver</string>
+  <string name="website_settings_webdefender_vector_not_connect">Bağlanma</string>
+  <string name="website_settings_webdefender_vector_strip">Vektörleri boşalt ve bağlan</string>
+  <string name="website_settings_webdefender_vector_system_default">Benim yerime karar ver</string>
+  <string name="website_settings_webrefiner_disabled">İçerik engelleme devre dışı bırakıldı</string>
+  <string name="website_settings_webrefiner_enabled">İçerik engelleme etkinleştirildi</string>
+</resources>

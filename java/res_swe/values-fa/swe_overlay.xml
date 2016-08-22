@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="abc_action_mode_done">"انجام شد"</string>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">راه‌اندازی مرورگر</string>
+  <string name="accessibility_new_incognito_tab_page">"برگه ناشناس جدید"</string>
+  <string name="accessibility_pause">"توقف موقت"</string>
+  <string name="accessibility_toolbar_btn_new_incognito_tab">"برگه ناشناس جدید"</string>
+  <string name="account_management_add_account_title">"افزودن حساب برای %1$s"</string>
+  <string name="account_management_title">"حساب‌ها"</string>
+  <string name="android_permission_off">مجوز مرورگر را در &lt;link&gt;تنظیمات Android‏&lt;/link&gt; روشن کنید.</string>
+  <string name="android_permission_off_plural">مجوزهای مرورگر را در &lt;link&gt;تنظیمات Android‏&lt;/link&gt; روشن کنید.</string>
+  <string name="app_name">ﻡﺭﻭﺭگﺭ</string>
+  <string name="background_audio_reload_tip_text">برای ادامه پخش صدا وقتی صفحه وب در پیش‌زمینه نیست، محتوای ویدیو را فعال می‌کند.</string>
+  <string name="background_audio_title">صدای پس‌زمینه</string>
+  <string name="block_screen_observers_summary">اجازه/انسداد مرورگر برای گرفتن عکس از صفحهٔ برنامه‌های دیگر</string>
+  <string name="block_screen_observers_title">انسداد مشاهده صفحه</string>
+  <string name="bookmark_url">"URL"</string>
+  <string name="can_not_clear_browsing_history_toast">"با حساب کودکان نمی‌توان سابقه مرور را پاک کرد"</string>
+  <string name="clear_cache_title">"حافظه پنهان"</string>
+  <string name="clear_cookies_and_site_data_title">"کوکی‌ها، داده‌های سایت"</string>
+  <string name="clear_cookies_no_sign_out_summary">"‏از سیستم &lt;link&gt;حساب‌های Google&lt;/link&gt; خود خارج نمی‌شوید"</string>
+  <string name="clear_data_delete">"پاک کردن"</string>
+  <string name="close_all_incognito_notification">"بستن همه برگه‌های حالت ناشناس"</string>
+  <string name="common_google_play_services_enable_button">"‏فعال کردن خدمات Google Play"</string>
+  <string name="common_google_play_services_enable_text">"‏تا زمانی که سرویس‌های Google Play را فعال نکنید، </string>
+  <string name="common_google_play_services_enable_title">"‏فعال کردن خدمات Google Play"</string>
+  <string name="common_google_play_services_install_button">"‏دریافت خدمات Google Play"</string>
+  <string name="common_google_play_services_install_title">"‏دریافت خدمات Google Play"</string>
+  <string name="common_google_play_services_invalid_account_title">"حساب نامعتبر"</string>
+  <string name="common_google_play_services_network_error_text">"‏برای اتصال به خدمات Google Play اتصال داده لازم است."</string>
+  <string name="common_google_play_services_notification_ticker">"‏خطا در خدمات Google Play"</string>
+  <string name="common_google_play_services_sign_in_failed_text">"هنگام وارد شدن به سیستم حساب مشخص شده خطایی روی داد. لطفاً یک حساب دیگر انتخاب کنید."</string>
+  <string name="common_google_play_services_unknown_issue">"‏مشکل نامشخص در خدمات Google Play."</string>
+  <string name="common_google_play_services_unsupported_title">"‏خدمات Google Play"</string>
+  <string name="common_google_play_services_update_text">"‏تاز مانی که سرویس‌های Google Play را به‌روزرسانی نکنید، </string>
+  <string name="common_google_play_services_update_title">"‏به‌روزرسانی خدمات Google Play"</string>
+  <string name="common_google_play_services_updating_title">"‏سرویس‌‌های Google Play در حال به‌روزرسانی هستند"</string>
+  <string name="confirm_account_change_dialog_message">"%1$s وارد سیستم شد. ورود به سیستم با %2$s اطلاعات همگا‌م‌سازی شده‌ای مانند نشانک‌ها را بین حساب‌ها ادغام می‌کند. برای جدا نگه‌داشتن اطلاعات، اطلاعات مرور را در &lt;link&gt;تنظیمات&lt;/link&gt; پاک کنید."</string>
+  <string name="contextual_search_no_thanks_button">"خیر، سپاسگزارم"</string>
+  <string name="data_reduction_caveats_description">"ممکن است این قابلیت با دسترسی به سرویس‌های اطلاعاتی برتر ارائه شده توسط شرکت مخابراتی شما تداخل داشته باشد."</string>
+  <string name="data_reduction_description">"‏وقتی این قابلیت روشن است، Chrome از سرورهای Google استفاده می‌کند تا صفحاتی را که بازدید می‌کنید قبل از دانلود آنها فشرده کند. این قابلیت شامل صفحات حالت ناشناس و SSL نمی‌شود."</string>
+  <string name="data_reduction_enable_button">"فعال کرن صرفه‌جویی در مصرف داده"</string>
+  <string name="data_reduction_enabled_toast">"«صرفه‌جویی در مصرف داده» روشن است. آن را در تنظیمات مدیریت کنید."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"اتصال آهسته شناسایی شد."</string>
+  <string name="data_reduction_menu_item_summary">"%1$s صرفه‌جویی در مصرف داده"</string>
+  <string name="data_reduction_promo_summary">"‏با استفاده از Google، صفحه‌هایی را که بازدید می‌کنید بهینه کنید تا داده کمتری مصرف شود. صفحه‌هایی که از طریق HTTPS یا ناشناس به آن‌ها دسترسی پیدا می‌کنید توسط Google بهینه‌سازی یا مشاهده نمی‌شوند."</string>
+  <string name="data_reduction_promo_title">"مرور بیشتر با مصرف داده کمتر"</string>
+  <string name="data_reduction_proxy_unreachable_warn">"‏Chrome نمی‌تواند برای فشرده کردن داده‌ها به سرورهای Google دسترسی پیدا کند. ممکن است صرفه‌جویی در مصرف داده محدود شود."</string>
+  <string name="data_reduction_stats_title">"صرفه‌جویی در مصرف داده"</string>
+  <string name="data_reduction_title">"صرفه‌جویی در مصرف داده"</string>
+  <string name="do_not_track_description">"فعال کردن «ردیابی نشود» به این معناست که درخواستی در ترافیک مرور شما لحاظ می‌شود. هر گونه اثری به این بستگی دارد که وب‌سایت به درخواست‌ پاسخ می‌دهد یا خیر و درخواست چگونه تفسیر می‌شود.
+
+مثلاً ممکن است برخی از وب‌سایت‌ها با نمایش آگهی‌هایی که براساس سایر وب‌سایت‌های بازدید شده توسط شما نیستند، به این درخواست پاسخ دهند. بسیاری از وب‌سایت‌ها همچنان داده‌های مرور شما را جمع‌آوری و استفاده می‌کنند - به عنوان مثال برای بهبود امنیت، ارائه محتوا، آگهی و توصیه‌ها در وب‌سایت‌هایشان و برای ایجاد آمارهای گزارش‌دهی."</string>
+  <string name="do_not_track_title">"«ردیابی نشود»"</string>
+  <string name="download_notification_failed">"دانلود نشد."</string>
+  <string name="download_pending">"در حال دانلود…"</string>
+  <string name="fre_send_report_check">با ارسال گزارش آمارهای استفاده و گزارشات خرابی، به عملکرد بهتر مرورگر کمک کنید.</string>
+  <string name="fre_skip_text">"خیر، سپاسگزارم"</string>
+  <string name="fre_tos_and_privacy">با استفاده از این برنامه، در واقع با &lt;LINK1&gt;شرایط سرویس&lt;/LINK1&gt; و &lt;LINK2&gt;اطلاعیه حریم خصوصی&lt;/LINK2&gt; موافقت می‌کنید.</string>
+  <string name="fre_welcome">به مرورگر خوش آمدید</string>
+  <string name="fullscreen_api_notification">"این سایت تمام‌صفحه شده است.
+برای خروج دکمه برگشت را فشار دهید."</string>
+  <string name="fullscreen_permission_title">"تمام صفحه"</string>
+  <string name="infobar_missing_camera_permission_text">مرورگر برای اشتراک‌گذاری دوربین با این سایت باید به آن دسترسی داشته باشد.</string>
+  <string name="infobar_missing_location_permission_text">مرورگر برای اشتراک‌گذاری مکان با این سایت باید به آن دسترسی داشته باشد.</string>
+  <string name="infobar_missing_microphone_permission_text">مرورگر برای اشتراک‌گذاری میکروفن با این سایت باید به آن دسترسی داشته باشد.</string>
+  <string name="infobar_missing_multiple_permissions_text">مرورگر برای اشتراک‌گذاری مجوزها با این سایت باید به آنها دسترسی داشته باشد.</string>
+  <string name="kids_account">"این یک حساب کودک است"</string>
+  <string name="menu_load_live_page_for_offline_page">پخش زنده</string>
+  <string name="menu_open_in_chrome">بازکردن در مرورگر</string>
+  <string name="most_visited">پربازدیدترین</string>
+  <string name="native_startup_failed">مرورگر در حین راه‌اندازی با یک خطای غیرمنتظره متوقف شد.</string>
+  <string name="network_predictions_title">"واکشی اولیه منابع صفحه"</string>
+  <string name="new_tab_incognito_header">"در حالت ناشناس هستید."</string>
+  <string name="night_mode_reload_tip_text">برای آنکه مرور در محیط تاریک آسان‌تر باشد، از حالت شب استفاده کنید.</string>
+  <string name="night_mode_title">حالت شب</string>
+  <string name="no_thanks">"خیر سپاسگزارم"</string>
+  <string name="oma_download_failed">"هنگام دانلود محتوا خطایی روی داد."</string>
+  <string name="oma_download_insufficient_memory">"حافظه برای دانلود محتوای انتخابی کافی نیست."</string>
+  <string name="oma_download_non_acceptable_content">"دستگاه نمی‌تواند محتوا را برای دانلود کردن باز کند."</string>
+  <string name="open_url_post_oma_download">"نشانی وب مشخص شده در محتوای دانلود شده باز شود؟"</string>
+  <string name="origin_settings_storage_usage_brief">"%1$s اطلاعات ذخیره شده"</string>
+  <string name="page_info_copy_url_button">"‏کپی URL"</string>
+  <string name="passwords_auto_signin_description">"با استفاده از اطلاعات کاربری ذخیره شده، به‌طور خودکار به سیستم وب‌سایت‌ها وارد شوید. وقتی این قابلیت خاموش است، هر بار قبل از وارد شدن به سیستم وب‌سایت از شما خواسته می‌شود اطلاعات را تأیید کنید."</string>
+  <string name="policy_dialog_message">"‏این حساب توسط %1$s مدیریت می‌شود. شما با یک حساب مدیریت شده وارد سیستم شده‌اید و به سرپرست این حساب اجازه کنترل نمایه Chrome خود را می‌دهید. اطلاعات Chrome شما به صورت دائم با این حساب مرتبط می‌شود. با قطع ارتباط از این حساب، کلیه اطلاعات Chrome شما در دستگاه حذف می‌شود."</string>
+  <string name="powered_by_chrome_message">تحت پوشش Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">ذخیره نیرو روشن خواهد شد.</string>
+  <string name="powersave_mode_opt_out_confirmation">ذخیره نیرو خاموش خواهد شد.</string>
+  <string name="powersave_mode_tip_text">تنظیم حالت ذخیره نیرو بر تجربه کاربر در افزایش طول عمر باتری برای کار با مرورگر تأثیر می‌گذارد</string>
+  <string name="powersave_mode_title">حالت ذخیره نیرو</string>
+  <string name="powersave_mode_turn_off_title">غیرفعال کردن حالت ذخیره نیرو</string>
+  <string name="powersave_mode_turn_on_title">فعال کردن حالت ذخیره نیرو</string>
+  <string name="prefs_about_chrome">درباره</string>
+  <string name="privacy_notice_title">اطلاعیه حریم خصوصی مرورگر</string>
+  <string name="protected_content_reset_message">"شاید دیگر محتوای دانلود شده (فیلم‌ها، موسیقی و غیره) در برنامه‌های دیگر قابل پخش نباشد، مگر آنکه آن برنامه‌ها مجدداً مجوزها را براساس اعتبارنامه دستگاه جدید بدست آورند.
+
+برای بدست آوردن مجوزهای جدید، به اینترنت وصل شوید و محتوای دانلود شده خودتان را پخش کنید."</string>
+  <string name="sad_tab_suggestions">"درصورتی‌که این مورد را به تکرار مشاهده می‌کنید، این &lt;link&gt;پیشنهادات&lt;/link&gt; را امتحان کنید."</string>
+  <string name="safe_browsing_description">"‏همچنین از سیستم مرور ایمن Chrome برای تشخیص صفحات مخرب و محافظت از شما در برابر فیشینگ، بدافزار و دانلودهای خطرناک استفاده می‌شود."</string>
+  <string name="sign_in_to_chrome">"‏ورود به Chrome"</string>
+  <string name="signout_message">"‏داده‌های ذخیره‌شده در این دستگاه و داده‌های ذخیره‌شده در حساب Google شما همچنان در هر دو مکان خواهند بود. اما داده‌های جدید یا تغییراتی که در داده‌هایتان ایجاد می‌کنید بین آنها همگام‌سازی نمی‌شود."</string>
+  <string name="signout_title">"‏خروج از سیستم Chrome"</string>
+  <string name="ssl_error">سایت یک گواهی SSL نامعتبر دارد</string>
+  <string name="ssl_secure">گواهی SSL سایت نامعتبر است. ارتباط رمزگذاری شده و شناسه تأیید می‌شود</string>
+  <string name="ssl_warning">گواهی SSL سایت هشدارهایی دارد</string>
+  <string name="sync_custom_passphrase">"‏فقط با عبارت عبور شما می‌توان داده‌های رمزگذاری‌شده شما را خواند. این عبارت عبور توسط Google دریافت یا ذخیره نمی‌شود. اگر عبارت عبورتان را فراموش کنید، باید همگام‌سازی را بازنشانی کنید."</string>
+  <string name="sync_error_ga">"لطفاً جزئیات ورود به سیستمتان را به‌روز کنید."</string>
+  <string name="sync_manage_data">"مدیریت اطلاعات همگام‌سازی شده"</string>
+  <string name="sync_passphrase_reset_instructions">"‏اگر عبارت عبورتان را فراموش کرده‌اید، همگام‌سازی را در &lt;link&gt;داشبورد Google&lt;/link&gt; متوقف کرده و بازنشانی کنید."</string>
+  <string name="sync_passphrase_type_custom">"رمزگذاری همه با عبارت عبور"</string>
+  <string name="tabs_and_apps_settings_description">"برگه‌ها را همراه سایر برنامه‌های اخیرتان در صفحه نمای کلی تلفنتان ببینید."</string>
+  <string name="terms_of_service_title">شرایط سرویس مرورگر</string>
+  <string name="tooltip_favicon_change_search_engine">برای تغییر موتور جستجو اینجا را لمس کنید.</string>
+  <string name="tooltip_favicon_change_site_settings">برای تغییر موارد برگزیده وب‌سایت فعلی، از جمله فیلتر کردن محتوا، اینجا را لمس کنید.</string>
+  <string name="tooltip_favicon_content_blocking_info">فیلتر کردن محتوا فعال است. برای اطلاعات بیشتر اینجا را لمس کنید.</string>
+  <string name="tooltip_favicon_site_integrity_check">فیلتر کردن محتوا فعال است. اگر مشکلی در وب‌سایت وجود دارد، این نماد را لمس کرده و فیلتر کردن محتوا را غیرفعال کنید.</string>
+  <string name="translate_options_source_hint">"زبان صفحه: ^1"</string>
+  <string name="translate_options_target_hint">"زبان ترجمه: ^1"</string>
+  <string name="unsupported_number_of_windows">چند مورد از مرورگر پشتیبانی نمی‌شود.</string>
+  <string name="web_defender_about_text">مدافع وب از هوشمندی دستگاه استفاده کرده و به ردیاب‌های شخص ثالث (از جمله تبلیغات) اجازه نمی‌دهد اطلاعات را از وب‌سایت‌هایی که بازدید می‌کنید و اطلاعاتی که هویت شما را مشخص می‌کنند، جمع‌آوری نمایند. اگر مشاهده‌گری در حین ردیابی فعالیت‌های شما در چند وب‌سایت شناسایی شد، مدافع وب به طور خودکار آن را مسدود کرده و دیگر مشاهده‌گر نمی‌تواند هیچ محتوایی در مرورگر شما بارگیری نماید.</string>
+  <string name="web_refiner_about_text">اصلاح‌کننده وب یک مؤلفهٔ فیلتر کردن محتوا است که به شما امکان می‌دهد تبلیغات، ردیاب‌ها و بدافزارها را مسدود کنید. با فعال کردن اصلاح‌کننده وب دیگر از موارد آزاردهنده در حین پیمایش اینترنت رنج نخواهید برد. مرورگر وب سریع‌تر از قبل عمل می‌کند و پهنای باند کمتری برای دانلود تبلیغات هدر خواهد رفت و در عین حال در برابر بدافزارها و ردیاب‌ها محافظت خواهید شد.</string>
+  <string name="webrefiner_ads">تبلیغ</string>
+  <string name="webrefiner_ads_plural">تبلیغات</string>
+  <string name="webrefiner_malware">بدافزار</string>
+  <string name="webrefiner_one_message">%s را مسدود کردیم.</string>
+  <string name="webrefiner_three_message">%1$s،‏ %2$s و %3$s را مسدود کردیم.</string>
+  <string name="webrefiner_trackers">ردیاب</string>
+  <string name="webrefiner_trackers_plural">ردیاب‌ها</string>
+  <string name="webrefiner_two_message">%1$s و %2$s را مسدود کردیم.</string>
+  <string name="website_settings_category_disabled">غیرفعال</string>
+  <string name="website_settings_category_enabled">فعال</string>
+  <string name="website_settings_fullscreen">"تمام صفحه"</string>
+  <string name="website_settings_security_title">اطلاعات امنیتی</string>
+  <string name="website_settings_webdefender_brief_message">اطلاعات قابل ردیابی وارد محدودهٔ متصل %1$s نمی‌شود.</string>
+  <string name="website_settings_webdefender_cookie">محل ذخیره کوکی‌ها</string>
+  <string name="website_settings_webdefender_disabled">شما در برابر محدوده‌های ردیابی شخص ثالث محافظت شده نیستید.</string>
+  <string name="website_settings_webdefender_disabled_count">شما در برابر محدوده‌های ردیابی شخص ثالث %1$s محافظت شده نیستید.</string>
+  <string name="website_settings_webdefender_enabled">مدافع وب فعال است</string>
+  <string name="website_settings_webdefender_fingerprint">اثر انگشت</string>
+  <string name="website_settings_webdefender_font_enum">تعیین شماره فونت</string>
+  <string name="website_settings_webdefender_html5">محل ذخیره HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">تعیین کننده حریم خصوصی</string>
+  <string name="website_settings_webdefender_tracking_list">تنظیمات دامنه متصل:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">شناسایی نشد</string>
+  <string name="website_settings_webdefender_tracking_vectors">مسیر ردیابی در دامنه‌های متصل:</string>
+  <string name="website_settings_webdefender_vector_allow">اجازه</string>
+  <string name="website_settings_webdefender_vector_not_connect">متصل نشود</string>
+  <string name="website_settings_webdefender_vector_strip">مسیر ردیابی و اتصال</string>
+  <string name="website_settings_webdefender_vector_system_default">برای من انتخاب شود</string>
+  <string name="website_settings_webrefiner_disabled">انسداد محتوا غیرفعال است</string>
+  <string name="website_settings_webrefiner_enabled">انسداد محتوا فعال است</string>
+  <string name="wiping_profile_data_title">"پاکسازی اطلاعات حساب"</string>
+</resources>

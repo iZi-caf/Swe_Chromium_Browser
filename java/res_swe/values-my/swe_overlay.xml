@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">ဘေရာက္ဇာ ဖြင့္ပါ</string>
+  <string name="android_permission_off">ဘေရာက္ဇာအတြက္ ခြင့္ျပဳခ်က္ကုိ &lt;link&gt;အန္းဒရြိဳက္ဆက္တင္&lt;/link&gt; ထဲတြင္ ဖြင့္ပါ။</string>
+  <string name="android_permission_off_plural">ဘေရာက္ဇာအတြက္ ခြင့္ျပဳခ်က္မ်ားကုိ &lt;link&gt;အန္းဒရြိဳက္ဆက္တင္&lt;/link&gt; ထဲတြင္ ဖြင့္ပါ။</string>
+  <string name="app_name">ဘေရာက္ဇာ</string>
+  <string name="background_audio_reload_tip_text">ဝက္ဘ္စာမ်က္ႏွာကုိ မဖြင့္ထားသည့္အခါ ဗီဒီယုိကုိ အသံ ဆက္ဖြင့္ခြင့္ေပးသည္။</string>
+  <string name="background_audio_title">ေနာက္ခံအသံ</string>
+  <string name="block_screen_observers_summary">အျခားအပလီေကးရွင္းမ်ားက ဘေရာက္ဇာ စခရင္ကုိ ဖမ္းယူျခင္းအား ခြင့္ျပဳပါ (သုိ႔) ပိတ္ဆုိ႔ပါ</string>
+  <string name="block_screen_observers_title">စခရင္ကုိ ေလ့လာေစာင့္ၾကည့္ေနသူမ်ားအား ပိတ္ဆုိ႔ပါ</string>
+  <string name="fre_send_report_check">အသံုးျပဳမႈႏွင့္ ပ်က္စီးမႈဆုိင္ရာ အစီရင္ခံစာမ်ားကုိ ေပးပုိ႔အစီရင္ခံျခင္းျဖင့္ ဘေရာက္ဇာကုိ ယခုထက္ပုိေကာင္းေစရန္ ကူညီေပးပါ။</string>
+  <string name="fre_tos_and_privacy">ဤအပလီေကးရွင္းကုိ သံုးျခင္းျဖင့္ ဘေရာက္ဇာ၏ &lt;LINK1&gt;ဝန္ေဆာင္မႈဆုိင္ရာ စည္းကမ္းခ်က္မ်ား&lt;/LINK1&gt; ႏွင့္ &lt;LINK2&gt;ကုိယ္ေရးလံုျခံဳမႈ သတိေပးခ်က္&lt;/LINK2&gt; ကုိ သင္ သေဘာတူသည္ဟု မွတ္ယူသည္။</string>
+  <string name="fre_welcome">ဘေရာက္ဇာက ႀကိဳဆုိပါသည္</string>
+  <string name="infobar_missing_camera_permission_text">ဤဝက္ဘ္ဆုိက္ႏွင့္အတူ မွ်ေဝရန္ ဘေရာက္ဇာက ကင္မရာဝင္သံုးခြင့္ကုိ လုိသည္။</string>
+  <string name="infobar_missing_location_permission_text">singhai rohit</string>
+  <string name="infobar_missing_microphone_permission_text">ဤဝက္ဘ္ဆုိက္ႏွင့္အတူ မွ်ေဝရန္ ဘေရာက္ဇာက မုိက္ကရုိဖုန္းဝင္သံုးခြင့္ကုိ လုိသည္။</string>
+  <string name="infobar_missing_multiple_permissions_text">ဤဝက္ဘ္ဆုိက္ႏွင့္အတူ မွ်ေဝရန္ ဘေရာက္ဇာက ခြင့္ျပဳခ်က္ ဝင္သံုးခြင့္ကုိ လုိသည္။</string>
+  <string name="menu_load_live_page_for_offline_page">တုိက္ရုိက္လႊင့္ပါ</string>
+  <string name="menu_open_in_chrome">ဘေရာက္ဇာထဲတြင္ ဖြင့္ပါ</string>
+  <string name="most_visited">လတ္တေလာအျဖစ္ဆံုး</string>
+  <string name="native_startup_failed">စတင္လုပ္ေဆာင္ေနစဥ္အတြင္း ေမွ်ာ္လင့္မထားေသာ အမွားအယြင္းေၾကာင့္ ဘေရာက္ဇာကုိ ဖြင့္လုိ႔မရပါ။</string>
+  <string name="night_mode_reload_tip_text">အေမွာင္ထဲတြင္ ပုိ၍ အဆင္ေျပေျပၾကည့္ရႈရန္ ညမုဒ္ကုိ သံုးပါ။</string>
+  <string name="night_mode_title">ည မုဒ္</string>
+  <string name="powered_by_chrome_message">Chromium က ပံ့ပုိးေပးထားသည္</string>
+  <string name="powersave_mode_opt_in_confirmation">ပါဝါေခြ်တာေပးသည့္အရာကုိ ဖြင့္ထားသည္။</string>
+  <string name="powersave_mode_opt_out_confirmation">ပါဝါေခြ်တာေပးသည့္အရာကုိ ပိတ္ထားသည္။</string>
+  <string name="powersave_mode_tip_text">သင့္ဘေရာက္ဇာအတြက္ ဘက္ထရီပုိခံေစရန္ ပါဝါေခြ်တာမုဒ္ဆက္တင္ကုိ အသံုးျပဳပါက အသံုးျပဳသူ အေတြ႕အၾကံဳကုိ ထိခုိက္ေစပါသည္</string>
+  <string name="powersave_mode_title">ပါဝါ ေခြ်တာမုဒ္</string>
+  <string name="powersave_mode_turn_off_title">ပါဝါ ေခြ်တာမုဒ္ကုိ ပိတ္ပါ</string>
+  <string name="powersave_mode_turn_on_title">ပါဝါ ေခြ်တာမုဒ္ကုိ ဖြင့္ပါ</string>
+  <string name="prefs_about_chrome">အေၾကာင္း</string>
+  <string name="privacy_notice_title">ဘေရာက္ဇာ ကုိယ္ေရးလံုျခံဳမႈသတိေပးခ်က္</string>
+  <string name="ssl_error">ဝက္ဘ္ဆုိက္တြင္ မမွန္ကန္သည့္ SSL အသိအမွတ္ျပဳလက္မွတ္ ရွိေနသည္</string>
+  <string name="ssl_secure">ဝက္ဘ္ဆုိက္၏ SSL အသိအမွတ္ျပဳလက္မွတ္သည္ မွန္ကန္သည္။ ဆက္သြယ္မႈကုိ လွ်ိဳ႕ဝွက္ကုဒ္ေျပာင္းၿပီး မည္သူမည္ဝါျဖစ္သည္ကုိ စစ္ေဆးအတည္ျပဳပါမည္</string>
+  <string name="ssl_warning">ဝက္ဘ္ဆုိက္၏ SSL အသိအမွတ္ျပဳလက္မွတ္တြင္ သတိေပးခ်က္မ်ား ရွိသည္</string>
+  <string name="terms_of_service_title">ဝန္ေဆာင္မႈဆုိင္ရာ စည္းကမ္းခ်က္မ်ား ၾကည့္ရႈပါ</string>
+  <string name="tooltip_favicon_change_search_engine">ရွာေဖြအင္ဂ်င္ကုိ ေျပာင္းရန္ ဤေနရာကုိ ထိပါ။</string>
+  <string name="tooltip_favicon_change_site_settings">လက္ရွိ စစ္ထုတ္ခ်က္မ်ား အပါအဝင္ လက္ရွိ ဝက္ဘ္ဆုိက္အတြက္ ဦးစားေပးမ်ားကုိ ေျပာင္းရန္ ဤေနရာကုိ ႏွိပ္ပါ။</string>
+  <string name="tooltip_favicon_content_blocking_info">ပါဝင္အေၾကာင္းအရာကုိ စစ္ထုတ္ေနသည္။ အေသးစိတ္ သိရွိလုိပါက ဤေနရာကုိ ထိပါ။</string>
+  <string name="tooltip_favicon_site_integrity_check">ပါဝင္အေၾကာင္းအရာကုိ စစ္ထုတ္ေနသည္။ ဤဝက္ဘ္ဆုိက္ကုိ သံုးရာ၌ ျပႆနာမ်ား ရွိေနလွ်င္ ဤအုိင္ကြန္ကုိ ပိတ္ၿပီး အေၾကာင္းအရာစစ္ထုတ္ျခင္းကုိ ပိတ္ၾကည့္ပါ။</string>
+  <string name="unsupported_number_of_windows">အသံုးျပဳရန္ ခြင့္မျပဳထားေသာ ဘေရာက္ဇာတဘ္အေရအတြက္သုိ႔ ေရာက္ေနၿပီ။</string>
+  <string name="web_defender_about_text">ဝက္ဘ္ကာကြယ္အက္ပ္က သင္ၾကည့္ရႈသည့္ ဝက္ဘ္ဆုိက္မ်ားႏွင့္ ပတ္သက္ေသာ အခ်က္အလက္မ်ားႏွင့္ သင္ မည္သူမည္ဝါျဖစ္သည္ကုိ ေဖာ္ထုတ္ႏုိင္ေသာ ကုိယ္ေရးအခ်က္အလက္မ်ားကုိ ျပင္ပမွ ေျခရာခံသူမ်ား (ေၾကာ္ျငာရွင္မ်ားအပါအဝင္) က စုစည္း ရယူျခင္းမွ တားဆီးရန္ စက္ေထာက္လွမ္းေရးစနစ္ကုိ အသံုးျပဳသည္။ ေစာင့္ၾကည့္သူက ဝက္ဘ္ဆုိက္မ်ားတြင္ သင္ လႈပ္ရွားေဆာင္ရြက္သူမ်ားကုိ ေျခရာခံေနသည္ဟု ဖမ္းမိပါက ဝက္ဘ္ကာကြယ္အက္ပ္က သင့္ဘေရာက္ဇာတြင္ ပါဝင္အေၾကာင္းအရာမ်ားကုိ ထုိေစာင့္ၾကည့္သူက ဖြင့္ေနျခင္းကုိ အလိုအေလ်ာက္ ပိတ္ဆုိ႔လုိက္ပါသည္။</string>
+  <string name="web_refiner_about_text">ဝက္ဘ္ဆုိက္ ျပန္လည္သန္႔စင္ကိရိယာက ေၾကာ္ျငာမ်ား၊ ေျခရာခံသူမ်ားႏွင့္ မဲလ္ဝဲဒုိမိန္းမ်ားကုိ သင့္အား ပိတ္ဆုိ႔ခြင့္ျပဳေသာ အေၾကာင္းအရာစစ္ထုတ္ေပးသည့္အရာျဖစ္သည္။ ဝက္ဘ္ဆုိက္ ျပန္လည္သန္႔စင္ကိရိယာကုိ ဖြင့္ထားပါက အင္တာနက္ၾကည့္ရႈေနစဥ္ အေႏွာင့္အယွက္ေပးခံရျခင္းမွ ေလ်ာ့နည္းသြားပါမည္။ သင့္ဝက္ဘ္ဘေရာက္ဇာက ပုိ၍ ျမန္ဆန္စြာ လုပ္ေဆာင္ႏုိင္မည္ျဖစ္ၿပီး ေၾကာ္ျငာမ်ားကုိ ေဒါင္းလုဒ္လုပ္သည့္အတြက္ ကုန္က်စရိတ္ ေလ်ာ့နည္းသြားမည္ျဖစ္ကာ သင့္အား ေျခရာခံသူမ်ားႏွင့္ မဲလ္ဝဲ ဒုိမိန္းမ်ားရန္မွ ကာကြယ္ေပးပါမည္။</string>
+  <string name="webrefiner_ads">ေၾကာ္ျငာ</string>
+  <string name="webrefiner_ads_plural">ေၾကာ္ျငာမ်ား</string>
+  <string name="webrefiner_malware">မဲလ္ဝဲ</string>
+  <string name="webrefiner_one_message">%s ကုိပိတ္ဆုိ႔ထားသည္။</string>
+  <string name="webrefiner_three_message">%1$s၊ %2$s ႏွင့္ %3$s ကုိ ပိတ္ဆုိ႔ထားသည္</string>
+  <string name="webrefiner_trackers">ေျခရာခံကိရိယာ</string>
+  <string name="webrefiner_trackers_plural">ေျခရာခံကိရိယာမ်ား</string>
+  <string name="webrefiner_two_message">%1$s ႏွင့္ %2$s ကုိ ပိတ္ဆုိ႔ထားသည္။</string>
+  <string name="website_settings_category_disabled">ပိတ္ထားသည္</string>
+  <string name="website_settings_category_enabled">ဖြင့္ထားသည္</string>
+  <string name="website_settings_security_title">လံုျခံဳေရး အခ်က္အလက္</string>
+  <string name="website_settings_webdefender_brief_message">ေျခရာခံႏုိင္ေသာ အခ်က္အလက္မ်ားကုိ %1$s ႏွင့္ခ်ိတ္ဆက္ထားေသာ ဒုိမိန္းမ်ားထံ ေပါက္ၾကားေစမည္မဟုတ္ပါ။</string>
+  <string name="website_settings_webdefender_cookie">ကြတ္ကီး သိမ္းဆည္းရာေနရာ</string>
+  <string name="website_settings_webdefender_disabled">ျပင္ပ ေျခရာခံဒုိမိန္းမ်ားရန္မွ သင့္အား ကာကြယ္ေပးထားျခင္းမရွိပါ။</string>
+  <string name="website_settings_webdefender_disabled_count">%1$s ျပင္ပ ေျခရာခံဒုိမိန္းမ်ားရန္မွ သင့္အား ကာကြယ္ေပးထားျခင္းမရွိပါ။</string>
+  <string name="website_settings_webdefender_enabled">ဝက္ဘ္ကာကြယ္အက္ပ္ကုိ ဖြင့္ထားသည္</string>
+  <string name="website_settings_webdefender_fingerprint">လက္ေဗြမွတ္ေနသည္</string>
+  <string name="website_settings_webdefender_font_enum">ေဖာင့္စာရင္း</string>
+  <string name="website_settings_webdefender_html5">HTML5 သုိေလွာင္ခန္း</string>
+  <string name="website_settings_webdefender_privacy_meter_title">ကုိယ္ေရးလံုျခံဳမႈ မီတာ</string>
+  <string name="website_settings_webdefender_tracking_list">ခ်ိတ္ဆက္ထားေသာ ဒုိမိန္းဆက္တင္မ်ား-</string>
+  <string name="website_settings_webdefender_tracking_not_detected">ရွာမေတြ႕ပါ</string>
+  <string name="website_settings_webdefender_tracking_vectors">ခ်ိတ္ဆက္ထားသည့္ ဒုိမိန္းမ်ားေပၚရွိ ေျခရာခံဗက္တာမ်ား-</string>
+  <string name="website_settings_webdefender_vector_allow">ခြင့္ျပဳပါ</string>
+  <string name="website_settings_webdefender_vector_not_connect">မခ်ိတ္ဆက္ပါႏွင့္</string>
+  <string name="website_settings_webdefender_vector_strip">ေျခရာခံဗက္တာမ်ားကုိ ပိတ္ဆုိ႔ထားၿပီး ခိ်တ္ဆက္ပါ</string>
+  <string name="website_settings_webdefender_vector_system_default">ကြ်ႏ္ုပ္အတြက္ ဆံုးျဖတ္ပးပါ</string>
+  <string name="website_settings_webrefiner_disabled">ပါဝင္အေၾကာင္းအရာပိတ္ဆုိ႔ျခင္းကုိ ပိတ္ထားသည္</string>
+  <string name="website_settings_webrefiner_enabled">ပါဝင္အေၾကာင္းအရာပိတ္ဆုိ႔ျခင္းကုိ ဖြင့္ထားသည္</string>
+</resources>

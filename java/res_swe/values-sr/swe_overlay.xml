@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Покрени прегледач</string>
+  <string name="account_management_add_account_title">"Додај налог за %1$s"</string>
+  <string name="account_management_title">"Налози"</string>
+  <string name="android_permission_off">Укључи дозволу за прегледач у &lt;link&gt;подешавањима за Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Укључи дозволе за прегледач у &lt;link&gt;подешавањима за Android&lt;/link&gt;.</string>
+  <string name="app_name">Прегледач</string>
+  <string name="background_audio_reload_tip_text">Омогућава видео садржају да настави с репродукцијом звука док веб-страница није у првом плану.</string>
+  <string name="background_audio_title">Позадински звук</string>
+  <string name="block_screen_observers_summary">Блокирај или омогући прегледачу да снима екран других апликација</string>
+  <string name="block_screen_observers_title">Блокирање пратиоца екрана</string>
+  <string name="can_not_clear_browsing_history_toast">"Историја прегледања не може да се брише помоћу налога за децу"</string>
+  <string name="clear_cache_title">"Кеш"</string>
+  <string name="clear_cookies_and_site_data_title">"Колачићи, подаци о сајтовима"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Нећете бити одјављени са &lt;link&gt;Google налога&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"Обриши"</string>
+  <string name="common_google_play_services_enable_title">"Омогућавање Google Play услуга"</string>
+  <string name="common_google_play_services_install_title">"Преузимање Google Play услуга"</string>
+  <string name="common_google_play_services_invalid_account_text">"Наведени налог не постоји на овом уређају. Одаберите други налог."</string>
+  <string name="common_google_play_services_unknown_issue">"Непознат проблем са Google Play услугама."</string>
+  <string name="common_google_play_services_update_title">"Ажурирање Google Play услуга"</string>
+  <string name="common_signin_button_text_long">"Пријави ме преко Google-а"</string>
+  <string name="contextmenu_open_in_new_tab">"Отвори у новој &amp;картици"</string>
+  <string name="data_reduction_description">"Када укључите ову функцију, Chrome користи Google сервере да би компримовао странице које посећујете пре него што их преузме. То неће обухватити SSL и странице Без архивирања."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Откривена је спора веза."</string>
+  <string name="data_reduction_promo_summary">"Трошите мање података тако што ћете помоћу Google-а оптимизовати странице које посећујете. Google неће оптимизовати нити видети странице којима се приступа помоћу HTTPS-а или у режиму без архивирања."</string>
+  <string name="do_not_track_description">"Омогућавање опције „Не прати“ значи да ће захтев бити уврштен у саобраћај прегледања. Било какав ефекат зависи од тога да ли веб-сајт одговара на захтев и како се захтев тумачи.
+
+На пример, неки веб-сајтови могу да одговарају на овај захтев тако што ће вам приказивати огласе који нису засновани на другим веб-сајтовима које сте посетили. Многи веб-сајтови ће ипак прикупљати и користити податке прегледања, на пример, ради побољшања безбедности, пружања садржаја, огласа и препорука на тим веб-сајтовима, као и ради генерисања статистикe извештавања."</string>
+  <string name="do_not_track_title">"„Не прати“"</string>
+  <string name="fre_send_report_check">Помозите да се прегледач побољша тако што ћете пријавити статистику о коришћењу и извештаје о рушењу.</string>
+  <string name="fre_tos_and_privacy">Коришћењем ове апликације, прихватате и &lt;LINK1&gt;Услове коришћења услуге&lt;/LINK1&gt; и &lt;LINK2&gt;Политику приватности&lt;/LINK2&gt; који се односе на прегледач.</string>
+  <string name="fre_welcome">Добро дошли у прегледач</string>
+  <string name="fullscreen_api_notification">"Овај сајт је ушао у режим целог екрана.
+Притисните дугме Назад да бисте изашли."</string>
+  <string name="fullscreen_permission_title">"Цеo екран"</string>
+  <string name="infobar_missing_camera_permission_text">Прегледачу је потребан приступ камери да би могао да је дели са овим сајтом.</string>
+  <string name="infobar_missing_location_permission_text">Прегледачу је потребан приступ локацији да би могао да је дели са овим сајтом.</string>
+  <string name="infobar_missing_microphone_permission_text">Прегледачу је потребан приступ микрофону да би могао да га дели са овим сајтом.</string>
+  <string name="infobar_missing_multiple_permissions_text">Прегледачу је потребан приступ дозволама да би могао да их дели са овим сајтом.</string>
+  <string name="kids_account">"Ово је дететов налог"</string>
+  <string name="menu_load_live_page_for_offline_page">Емитуј уживо</string>
+  <string name="menu_open_in_chrome">Отвори у прегледачу</string>
+  <string name="most_visited">Најчешће</string>
+  <string name="native_startup_failed">Није успело покретање прегледача јер је дошло до неочекиване грешке.</string>
+  <string name="network_predictions_title">"Припреми учитавање ресурса странице"</string>
+  <string name="new_tab_incognito_header">"Прешли сте на режим без архивирања."</string>
+  <string name="night_mode_reload_tip_text">Користите ноћни режим како бисте олакшали прегледање за своје очи у тами.</string>
+  <string name="night_mode_title">Ноћни режим</string>
+  <string name="passwords_auto_signin_description">"Аутоматски се пријављујте на веб-сајтове помоћу сачуваних акредитива. Када је ова функција искључена, захтеваћемо верификацију сваки пут пре него што се пријавите на веб-сајт."</string>
+  <string name="powered_by_chrome_message">Користи технологију Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Укључиће се побољшања у уштеди енергије.</string>
+  <string name="powersave_mode_opt_out_confirmation">Искључиће се побољшања у уштеди енергије.</string>
+  <string name="powersave_mode_tip_text">Могуће је да ће подешавање режима за уштеду енергије утицати на кориснички доживљај како би се смањила потрошња батерије за прегледач</string>
+  <string name="powersave_mode_title">Режим за уштеду енергије</string>
+  <string name="powersave_mode_turn_off_title">Онемогући режим за уштеду енергије</string>
+  <string name="powersave_mode_turn_on_title">Омогући режим за уштеду енергије</string>
+  <string name="prefs_about_chrome">Више информација</string>
+  <string name="privacy_notice_title">Обавештење о приватности прегледача</string>
+  <string name="sad_tab_suggestions">"Ако вам се ово често приказује, испробајте ове &lt;link&gt;предлоге&lt;/link&gt;."</string>
+  <string name="sign_in_to_chrome">"Пријављивање у Chrome"</string>
+  <string name="signout_message">"Подаци сачувани на овом уређају, као и на Google налогу, остаће на оба места. Међутим, нови подаци или промене података неће бити синхронизовани."</string>
+  <string name="signout_title">"Одјављивање из Chrome-а"</string>
+  <string name="ssl_error">Сајт има неважећи SSL сертификат</string>
+  <string name="ssl_secure">SSL сертификат сајта је важећи. Комуникација је шифрована и идентитет је проверен</string>
+  <string name="ssl_warning">Упозорења сајта SSL сертификата</string>
+  <string name="sync_custom_passphrase">"Само особа са приступном фразом може да чита шифроване податке. Приступна фраза се не шаље Google-у нити је он чува. Ако заборавите приступну фразу, биће потребно да ресетујете синхронизацију."</string>
+  <string name="sync_passphrase_reset_instructions">"Ако сте заборавили приступну фразу, зауставите и ресетујте Синхронизацију преко &lt;link&gt;Google контролне табле&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Шифруј све помоћу приступне фразе"</string>
+  <string name="tabs_and_apps_settings_description">"Прегледајте картице са другим недавним апликацијама на екрану Преглед на телефону."</string>
+  <string name="terms_of_service_title">Услови коришћења прегледача</string>
+  <string name="tooltip_favicon_change_search_engine">Додирните овде да бисте променили претраживач.</string>
+  <string name="tooltip_favicon_change_site_settings">Додирните овде да бисте променили поставке тренутног веб сајта, укључујући филтрирање садржаја.</string>
+  <string name="tooltip_favicon_content_blocking_info">Филтрирање садржаја је активно. Додирните овде за више информација.</string>
+  <string name="tooltip_favicon_site_integrity_check">Филтрирање садржаја је активно. Ако постоје проблеми са овим веб-сајтом, додирните ову икону и покушајте да онемогућите филтрирање садржаја.</string>
+  <string name="translate_options_source_hint">"Језик странице: ^1"</string>
+  <string name="translate_options_target_hint">"Језик са ког се преводи: ^1"</string>
+  <string name="unsupported_number_of_windows">Неподржани број инстанце прегледача.</string>
+  <string name="web_defender_about_text">Програм заштите за веб користи вештачку интелигенцију у спречавању пратилаца трећих страна (укључујући оглашиваче) да прикупљају информације о веб-сајтовима које посетите и информације које могу да открију ваш идентитет. Ако неки посматрач буде ухваћен док прати ваше активности на неколико веб-сајтова, програм заштите за веб ће га аутоматски блокирати и спречити да учитава садржај на ваш прегледач.</string>
+  <string name="web_refiner_about_text">Сужавање обима претраге на вебу је компонента за филтрирање садржаја која вам омогућава да блокирате рекламе, пратиоце и домене са малвером. Ако је омогућено сужавање обима претраге на вебу, доживећете много мање ометања док сурфујете интернетом. Ваш веб прегледач ће радити брже, мање времена ћете губити на пропусни опсег преузимања реклама и бићете заштићени од пратилаца и домена с малвером.</string>
+  <string name="webrefiner_ads">оглас</string>
+  <string name="webrefiner_ads_plural">огласи</string>
+  <string name="webrefiner_malware">малвер</string>
+  <string name="webrefiner_one_message">Блокирали смо %s.</string>
+  <string name="webrefiner_three_message">Блокирали смо %1$s, %2$s и %3$s.</string>
+  <string name="webrefiner_trackers">пратилац</string>
+  <string name="webrefiner_trackers_plural">пратиоци</string>
+  <string name="webrefiner_two_message">Блокирали смо %1$s и %2$s.</string>
+  <string name="website_settings_category_disabled">Онемогућено</string>
+  <string name="website_settings_category_enabled">Омогућено</string>
+  <string name="website_settings_fullscreen">"Цеo екран"</string>
+  <string name="website_settings_security_title">Безбедносне информације</string>
+  <string name="website_settings_storage">"Складишни простор"</string>
+  <string name="website_settings_webdefender_brief_message">Информације које се могу пратити неће бити пропуштене на %1$s повезаних домена.</string>
+  <string name="website_settings_webdefender_cookie">Складиштење колачића</string>
+  <string name="website_settings_webdefender_disabled">Нисте заштићени од домена пратилаца трећих страна.</string>
+  <string name="website_settings_webdefender_disabled_count">Нисте заштићени од %1$s домена пратилаца трећих страна.</string>
+  <string name="website_settings_webdefender_enabled">Програм заштите за веб је омогућен</string>
+  <string name="website_settings_webdefender_fingerprint">Дигитални отисци</string>
+  <string name="website_settings_webdefender_font_enum">Набрајање фонтова</string>
+  <string name="website_settings_webdefender_html5">HTML5 складиштење</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Мерач приватности</string>
+  <string name="website_settings_webdefender_tracking_list">Подешавања повезаног домена:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">није детектовано</string>
+  <string name="website_settings_webdefender_tracking_vectors">Вектори за праћење на повезаним доменима:</string>
+  <string name="website_settings_webdefender_vector_allow">Дозволи</string>
+  <string name="website_settings_webdefender_vector_not_connect">Немојте се повезивати</string>
+  <string name="website_settings_webdefender_vector_strip">Уклоните векторе и повежите се</string>
+  <string name="website_settings_webdefender_vector_system_default">Одлучи уместо мене</string>
+  <string name="website_settings_webrefiner_disabled">Блокирање садржаја је онемогућено</string>
+  <string name="website_settings_webrefiner_enabled">Блокирање садржаја је омогућено</string>
+</resources>

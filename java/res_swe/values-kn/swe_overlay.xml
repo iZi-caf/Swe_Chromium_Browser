@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">ಬ್ರೌಸರ್ ಪ್ರಾರಂಭಿಸಿ</string>
+  <string name="android_permission_off">&lt;link&gt;Android ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ&lt;/link&gt; ಬ್ರೌಸರ್ ಅನುಮತಿಯನ್ನು ಆನ್ ಮಾಡಿ.</string>
+  <string name="android_permission_off_plural">&lt;link&gt;Android ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ&lt;/link&gt; ಬ್ರೌಸರ್ ಅನುಮತಿಗಳನ್ನು ಆನ್ ಮಾಡಿ.</string>
+  <string name="app_name">ಬೌಸರ್</string>
+  <string name="background_audio_reload_tip_text">ವೆಬ್‌ಪುಟಗಳು ಮುನ್ನೆಲೆಯಲ್ಲಿಲ್ಲದೇ ಇರುವಾಗ ಆಡಿಯೊ ಪ್ಲೇ ಮಾಡುವುದನ್ನು ಮುಂದುವರಿಸಲು ವೀಡಿಯೊ ವಿಷಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ.</string>
+  <string name="background_audio_title">ಹಿನ್ನೆಲೆ ಆಡಿಯೊ</string>
+  <string name="block_screen_observers_summary">ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಂದ ಬ್ರೌಸರ್ ಸ್ಕ್ರೀನ್ ಸೆರೆಯನ್ನು ಅನುಮತಿಸಿ ಅಥವಾ ನಿರ್ಬಂಧಿಸಿ</string>
+  <string name="block_screen_observers_title">ಸ್ಕ್ರೀನ್ ಪರಿವೀಕ್ಷಕರನ್ನು ನಿರ್ಬಂಧಿಸಿ</string>
+  <string name="fre_send_report_check">ಬಳಕೆದಾರ ಅಂಕಿಅಂಶಗಳು ಮತ್ತು ಕ್ರ್ಯಾಶ್ ವರದಿಗಳನ್ನು ವರದಿ ಮಾಡುವ ಮೂಲಕ ಬ್ರೌಸರ್ ಉತ್ತಮಗೊಳಿಸಲು ಸಹಾಯ ಮಾಡಿ.</string>
+  <string name="fre_tos_and_privacy">ಈ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸುವ ಮೂಲಕ, ನೀವು ಬ್ರೌಸರ್‌ನ &lt;LINK1&gt;ಸೇವಾ ನಿಯಮಗಳು&lt;/LINK1&gt; ಮತ್ತು &lt;LINK2&gt;ಗೌಪ್ಯತೆ ಸೂಚನೆಗೆ&lt;/LINK2&gt; ಒಪ್ಪಿಕೊಳ್ಳುವಿರಿ.</string>
+  <string name="fre_welcome">ಬ್ರೌಸರ್‌ಗೆ ಸುಸ್ವಾಗತ</string>
+  <string name="infobar_missing_camera_permission_text">ಈ ಸೈಟ್ ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಲು ಬ್ರೌಸರ್‌ಗೆ ಕ್ಯಾಮರಾ ಪ್ರವೇಶದ ಅಗತ್ಯವಿದೆ.</string>
+  <string name="infobar_missing_location_permission_text">ಈ ಸೈಟ್ ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಲು ಬ್ರೌಸರ್‌ಗೆ ಸ್ಥಳ ಪ್ರವೇಶದ ಅಗತ್ಯವಿದೆ.</string>
+  <string name="infobar_missing_microphone_permission_text">ಈ ಸೈಟ್ ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಲು ಬ್ರೌಸರ್‌ಗೆ ಮೈಕ್ರೋಫೋನ್ ಪ್ರವೇಶದ ಅಗತ್ಯವಿದೆ.</string>
+  <string name="infobar_missing_multiple_permissions_text">ಈ ಸೈಟ್ ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಲು ಬ್ರೌಸರ್‌ಗೆ ಅನುಮತಿಗಳ ಪ್ರವೇಶದ ಅಗತ್ಯವಿದೆ.</string>
+  <string name="menu_load_live_page_for_offline_page">ಲೈವ್ ಹೋಗಿ</string>
+  <string name="menu_open_in_chrome">ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆ</string>
+  <string name="most_visited">ಹೆಚ್ಚು ಆಗಾಗ್ಗೆ</string>
+  <string name="native_startup_failed">ಅನಿರೀಕ್ಷಿತ ದೋಷದ ಕಾರಣದಿಂದಾಗಿ ಬ್ರೌಸರ್ ಪ್ರಾರಂಭ ವಿಫಲಗೊಂಡಿದೆ.</string>
+  <string name="night_mode_reload_tip_text">ಕತ್ತಲು ಪ್ರದೇಶದಲ್ಲಿರುವಾಗ ನಿಮ್ಮ ಕಣ್ಣುಗಳಿಗೆ ಬ್ರೌಸಿಂಗ್ ಸುಲಭಗೊಳಿಸಲು ರಾತ್ರಿ ಮೋಡ್ ಬಳಸಿ.</string>
+  <string name="night_mode_title">ರಾತ್ರಿ ಮೋಡ್</string>
+  <string name="powered_by_chrome_message">Chromium ಸಂಚಾಲಿತ</string>
+  <string name="powersave_mode_opt_in_confirmation">ಪವರ್ ಸೇವಿಂಗ್ ಸುಧಾರಣೆಗಳನ್ನು ಆನ್ ಮಾಡಲಾಗುತ್ತದೆ.</string>
+  <string name="powersave_mode_opt_out_confirmation">ಪವರ್ ಸೇವಿಂಗ್ ಸುಧಾರಣೆಗಳನ್ನು ಆಫ್ ಮಾಡಲಾಗುತ್ತದೆ.</string>
+  <string name="powersave_mode_tip_text">ಪವರ್ ಸೇವಿಂಗ್ ಮೋಡ್ ಸೆಟ್ಟಿಂಗ್ ಬ್ಯಾಟರಿ ಬಾಳಿಕೆಯನ್ನು ಸುಧಾರಿಸುವ ಸಲುವಾಗಿ ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನ ಬಳಕೆದಾರ ಅನುಭವದ ಮೇಲೆ ಸಂಭಾವ್ಯವಾಗಿ ಪರಿಣಾಮ ಬೀರಬಹುದು</string>
+  <string name="powersave_mode_title">ಪವರ್ ಸೇವಿಂಗ್ ಮೋಡ್‌</string>
+  <string name="powersave_mode_turn_off_title">ಪವರ್ ಸೇವಿಂಗ್ ಮೋಡ್‌ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ</string>
+  <string name="powersave_mode_turn_on_title">ಪವರ್ ಸೇವಿಂಗ್ ಮೋಡ್‌ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+  <string name="prefs_about_chrome">ಕುರಿತು</string>
+  <string name="privacy_notice_title">ಬ್ರೌಸರ್ ಗೌಪ್ಯತೆ ನೋಟೀಸ್</string>
+  <string name="ssl_error">ಸೈಟ್ ಅಮಾನ್ಯ SSL ಪ್ರಮಾಣಪತ್ರವನ್ನು ಹೊಂದಿದೆ</string>
+  <string name="ssl_secure">ಸೈಟಿನ SSL ಪ್ರಮಾಣಪತ್ರ ಅಮಾನ್ಯವಾಗಿದೆ. ಸಂವಹನವನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಗುರುತಿಸುವಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿದೆ</string>
+  <string name="ssl_warning">ಸೈಟ್ SSL ಪ್ರಮಾಣಪತ್ರದಲ್ಲಿ ಎಚ್ಚರಿಕೆಗಳಿವೆ</string>
+  <string name="terms_of_service_title">ಬ್ರೌಸರ್ ಸೇವಾ ನಿಯಮಗಳು</string>
+  <string name="tooltip_favicon_change_search_engine">ಹುಡುಕಾಟ ಎಂಜಿನ್ ಬದಲಿಸಲು ಇಲ್ಲಿ ಸ್ಪರ್ಶಿಸಿ.</string>
+  <string name="tooltip_favicon_change_site_settings">ವಿಷಯದ ಫಿಲ್ಟರಿಂಗ್ ಸೇರಿದಂತೆ, ಸದ್ಯದ ವೆಬ್‌ಸೈಟ್‌ಗಾಗಿ ಆದ್ಯತೆಗಳನ್ನು ಬದಲಿಸಲು ಇಲ್ಲಿ ಸ್ಪರ್ಶಿಸಿ.</string>
+  <string name="tooltip_favicon_content_blocking_info">ವಿಷಯ ಫಿಲ್ಟರಿಂಗ್ ಸಕ್ರಿಯಗೊಂಡಿದೆ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಇಲ್ಲಿ ಸ್ಪರ್ಶಿಸಿ.</string>
+  <string name="tooltip_favicon_site_integrity_check">ವಿಷಯ ಫಿಲ್ಟರಿಂಗ್ ಸಕ್ರಿಯಗೊಂಡಿದೆ. ಈ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಸಮಸ್ಯೆಗಳು ಕಂಡುಬಂದರೆ, ಈ ಐಕಾನ್ ಸ್ಪರ್ಶಿಸಿ ಹಾಗೂ ವಿಷಯ ಫಿಲ್ಟರಿಂಗ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಪ್ರಯತ್ನಿಸಿ.</string>
+  <string name="unsupported_number_of_windows">ಬ್ರೌಸರ್ ನಿದರ್ಶನಗಳ ಸಂಖ್ಯೆ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ.</string>
+  <string name="web_defender_about_text">ನೀವು ಭೇಟಿ ನೀಡುವ ವೆಬ್‌ಸೈಟ್‌ಗಳು ಮತ್ತು ವೈಯಕ್ತಿಕವಾಗಿ ಗುರುತಿಸಬಹುದಾದ ಮಾಹಿತಿಯ ಬಗೆಗಿನ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸದಂತೆ, ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಟ್ರ್ಯಾಕರ್‌ಗಳನ್ನು (ಜಾಹೀರಾತುಗಳು ಸೇರಿದಂತೆ) ತಡೆಯಲು ಮೆಷಿನ್ ಇಂಟೆಲಿಜೆನ್ಸ್ ಅನ್ನು ವೆಬ್ ಡಿಫೆಂಡರ್ ಬಳಸುತ್ತದೆ. ಯಾವುದೇ ವೀಕ್ಷಕರು ಕೆಲವು ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ನಿಮ್ಮ ಚಟುವಟಿಕೆಗಳ ಮೇಲೆ ನಿಗಾವಹಿಸುತ್ತಿರುವುದನ್ನು ಪತ್ತೆಹಚ್ಚಿದರೆ, ಆ ವೀಕ್ಷಕರು ಇನ್ನು ಮುಂದೆ ನಿಮ್ಮ ಬ್ರೌಸರ್‌ಗೆ ಇನ್ಯಾವುದೇ ವಿಷಯವನ್ನು ಲೋಡ್ ಮಾಡದಂತೆ ವೆಬ್ ಡಿಪೆಂಡರ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿರ್ಬಂಧಿಸುತ್ತದೆ.</string>
+  <string name="web_refiner_about_text">ವೆಬ್ ರಿಫೈನಲ್ ಎಂಬುದು ವಿಷಯ ಫಿಲ್ಟರಿಂಗ್ ಕಾಂಪೊನೆಂಟ್ ಆಗಿದ್ದು, ಜಾಹೀರಾತುಗಳು, ಟ್ರ್ಯಾಕರ್‌ಗಳು ಮತ್ತು ಮಾಲ್‌ವೇರ್ ಡೊಮೇನ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲು ನಿಮಗೆ ಅವಕಾಶ ಕಲ್ಪಿಸುತ್ತದೆ. ವೆಬ್ ರಿಫೈನರ್ ಸಕ್ರಿಯಗೊಳಿಸಿದರೆ, ನೀವು ಇಂಟರ್ನೆಟ್‌ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡುತ್ತಿರುವಾಗ ಕೆಲವು ಕಿರಿಕಿರಿಗಲು ಎದುರಾಗಬಹುದು. ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ ಸಾಮಾನ್ಯವಾಗಿಯೇ ರನ್ ಆಗುತ್ತದೆ, ನೀವು ಜಾಹೀರಾತು ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗೆಂದು ಕಡಿಮೆ ಬ್ಯಾಂಡ್‌ವಿಡ್ತ್ ಬಳಸುತ್ತೀರಿ ಹಾಗೆಯೇ ಟ್ರ್ಯಾಕರ್‌ಗಳು ಮತ್ತು ಮಾಲ್‌ವೇರ್ ಡೊಮೇನ್‌ಗಳಿಂದ ನಿಮ್ಮನ್ನು ಸಂರಕ್ಷಿಸಲಾಗುತ್ತದೆ.</string>
+  <string name="webrefiner_ads">ಜಾಹೀರಾತು</string>
+  <string name="webrefiner_ads_plural">ಜಾಹೀರಾತುಗಳು</string>
+  <string name="webrefiner_malware">ಮಾಲ್‌ವೇರ್</string>
+  <string name="webrefiner_one_message">ನಾವು %s ನಿರ್ಬಂಧಿಸಿದ್ದೇವೆ.</string>
+  <string name="webrefiner_three_message">ನಾವು %1$s, %2$s ಮತ್ತು %3$s ನಿರ್ಬಂಧಿಸಿದ್ದೇವೆ.</string>
+  <string name="webrefiner_trackers">ಟ್ರ್ಯಾಕರ್</string>
+  <string name="webrefiner_trackers_plural">ಟ್ರ್ಯಾಕರ್‌ಗಳು</string>
+  <string name="webrefiner_two_message">ನಾವು %1$s ಮತ್ತು %2$s ನಿರ್ಬಂಧಿಸಿದ್ದೇವೆ.</string>
+  <string name="website_settings_category_disabled">ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ</string>
+  <string name="website_settings_category_enabled">ಸಕ್ರಿಯಗೊಂಡಿದೆ</string>
+  <string name="website_settings_security_title">ಸುರಕ್ಷತಾ ಮಾಹಿತಿ</string>
+  <string name="website_settings_webdefender_brief_message">ಗುರುತಿಸಬಹುದಾದ ಮಾಹಿತಿಯನ್ನು %1$s ಸಂಪರ್ಕಿತ ಡೊಮೇನ್‌ಗಳಿಗೆ ಬಹಿರಂಗಪಡಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+  <string name="website_settings_webdefender_cookie">ಕುಕೀ ಸಂಗ್ರಹಣೆ</string>
+  <string name="website_settings_webdefender_disabled">ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಟ್ರ್ಯಾಕಿಂಗ್ ಡೊಮೇನ್‌ಗಳ ವಿರುದ್ಧವಾಗಿ ನಿಮ್ಮನ್ನು ಸಂರಕ್ಷಿಸಲಾಗಿಲ್ಲ.</string>
+  <string name="website_settings_webdefender_disabled_count">%1$s ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಟ್ರ್ಯಾಕಿಂಗ್ ಡೊಮೇನ್‌ಗಳ ವಿರುದ್ಧವಾಗಿ ನಿಮ್ಮನ್ನು ಸಂರಕ್ಷಿಸಲಾಗಿಲ್ಲ.</string>
+  <string name="website_settings_webdefender_enabled">ವೆಬ್ ಡಿಫೆಂಡರ್ ಸಕ್ರಿಯಗೊಂಡಿದೆ</string>
+  <string name="website_settings_webdefender_fingerprint">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್</string>
+  <string name="website_settings_webdefender_font_enum">ಫಾಂಟ್ ಎನ್ಯುಮರೇಶನ್</string>
+  <string name="website_settings_webdefender_html5">HTML5 ಸಂಗ್ರಹಣೆ</string>
+  <string name="website_settings_webdefender_privacy_meter_title">ಗೌಪ್ಯತೆ ಮೀಟರ್</string>
+  <string name="website_settings_webdefender_tracking_list">ಸಂಪರ್ಕಿತ ಡೊಮೇನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">ಪತ್ತೆಯಾಗಿಲ್ಲ</string>
+  <string name="website_settings_webdefender_tracking_vectors">ಸಂಪರ್ಕಿತ ಡೊಮೇನ್‌ಗಳಲ್ಲಿ ವೆಕ್ಟರ್‌ಗಳನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡುವುದು:</string>
+  <string name="website_settings_webdefender_vector_allow">ಅನುಮತಿಸಿ</string>
+  <string name="website_settings_webdefender_vector_not_connect">ಸಂಪರ್ಕಗೊಂಡಿಲ್ಲ</string>
+  <string name="website_settings_webdefender_vector_strip">ವೆಕ್ಟರ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಸಂಪರ್ಕಿಸಿ</string>
+  <string name="website_settings_webdefender_vector_system_default">ನನಗೆಂದು ನಿರ್ಧರಿಸಿ</string>
+  <string name="website_settings_webrefiner_disabled">ವಿಷಯ ನಿರ್ಬಂಧ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+  <string name="website_settings_webrefiner_enabled">ವಿಷಯ ನಿರ್ಬಂಧ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+</resources>

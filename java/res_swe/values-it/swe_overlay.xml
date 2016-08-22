@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Avvia Browser</string>
+  <string name="account_management_add_account_title">"Aggiungi account per %1$s"</string>
+  <string name="account_management_title">"Account"</string>
+  <string name="added_to_homescreen">"Il dominio %1$s è stato aggiunto alla schermata Home"</string>
+  <string name="android_location_off">"Attiva la localizzazione nelle &lt;link&gt;Impostazioni Android&lt;/link&gt;."</string>
+  <string name="android_permission_off">Concedere l\'autorizzazione per Browser in &lt;link&gt;Impostazioni Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Concedere le autorizzazioni per Browser in &lt;link&gt;Impostazioni Android&lt;/link&gt;.</string>
+  <string name="app_name">Browser</string>
+  <string name="background_audio_reload_tip_text">Consente di attivare contenuti video per continuare a riprodurre l\'audio quando la pagina Web non è in primo piano.</string>
+  <string name="background_audio_title">Audio in sottofondo</string>
+  <string name="block_screen_observers_summary">Consentire o bloccare l\'acquisizione della schermata del browser da altre applicazioni</string>
+  <string name="block_screen_observers_title">Schermata di blocco osservatori</string>
+  <string name="can_not_clear_browsing_history_toast">"Impossibile cancellare la cronologia di navigazione con account di minori"</string>
+  <string name="clear_cache_title">"Cache"</string>
+  <string name="clear_cookies_and_site_data_title">"Cookie, dati dei siti"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Non uscirai dai tuoi &lt;link&gt;account Google&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"Cancella"</string>
+  <string name="common_google_play_services_unknown_issue">"Problema sconosciuto con Google Play Services."</string>
+  <string name="data_reduction_description">"Quando questa funzione è attiva, Chrome utilizza i server di Google per comprimere le pagine che visiti prima di scaricarle. Le pagine SSL e di navigazione in incognito non vengono incluse."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"È stata rilevata una connessione lenta."</string>
+  <string name="data_reduction_promo_summary">"Consuma meno dati utilizzando Google per ottimizzare le pagine visitate. Le pagine visualizzate in modalità di navigazione in incognito o HTTPS non saranno ottimizzate o visualizzate da Google."</string>
+  <string name="do_not_track_description">"Se attivi l\'opzione \"Non tenere traccia\", verrà inclusa una richiesta nel tuo traffico di navigazione. Gli effetti dipendono dall\'eventuale risposta da parte dei siti web alla richiesta e dall\'interpretazione di quest\'ultima.
+
+Ad esempio, alcuni siti web potrebbero rispondere alla richiesta mostrando annunci non basati su altri siti web visitati. Molti siti web continueranno tuttavia a raccogliere e a utilizzare i dati di navigazione (ad esempio per migliorare la sicurezza, fornire contenuti, annunci e consigli sui propri siti web, nonché per generare statistiche necessarie alla creazione di rapporti)."</string>
+  <string name="do_not_track_title">"\"Non tenere traccia\""</string>
+  <string name="fre_send_report_check">L\'invio delle statistiche di utilizzo e le segnalazioni degli arresti anomali consentono di migliorare Browser.</string>
+  <string name="fre_tos_and_privacy">Utilizzando questa applicazione, l\'utente accetta i &lt;LINK1&gt;Termini di servizio&lt;/LINK1&gt; e l\'&lt;LINK2&gt;Informativa sulla privacy&lt;/LINK2&gt; di Browser.</string>
+  <string name="fre_welcome">Benvenuto in Browser</string>
+  <string name="fullscreen_api_notification">"È stata attivata la modalità a schermo intero del sito.
+Per uscire premi il pulsante Indietro."</string>
+  <string name="fullscreen_permission_title">"Schermo intero"</string>
+  <string name="infobar_missing_camera_permission_text">Browser richiede l\'accesso alla fotocamera per la condivisione con il sito.</string>
+  <string name="infobar_missing_location_permission_text">Browser richiede l\'accesso alla posizione per la condivisione con il sito.</string>
+  <string name="infobar_missing_microphone_permission_text">Browser richiede l\'accesso al microfono per la condivisione con il sito.</string>
+  <string name="infobar_missing_multiple_permissions_text">Browser richiede l\'accesso alle autorizzazioni per la condivisione con il sito.</string>
+  <string name="kids_account">"Questo è l\'account di un bambino"</string>
+  <string name="menu_load_live_page_for_offline_page">Carica pagina live</string>
+  <string name="menu_open_in_chrome">Apri in Browser</string>
+  <string name="most_visited">Più frequente</string>
+  <string name="native_startup_failed">Browser ha riscontrato un errore imprevisto durante l\'avvio.</string>
+  <string name="network_predictions_title">"Precarica risorse delle pagine"</string>
+  <string name="new_tab_incognito_header">"Sei passato alla navigazione in incognito."</string>
+  <string name="night_mode_reload_tip_text">Utilizzare la modalità Notte per agevolare la navigazione al buio.</string>
+  <string name="night_mode_title">Modalità Notte</string>
+  <string name="passwords_auto_signin_description">"Accedi automaticamente ai siti web utilizzando credenziali memorizzate. Quando la funzione non è attiva, ti viene chiesta la verifica prima di ogni accesso ai siti web."</string>
+  <string name="powered_by_chrome_message">Supportato da Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">I miglioramenti del risparmio energetico verranno attivati.</string>
+  <string name="powersave_mode_opt_out_confirmation">I miglioramenti del risparmio energetico verranno disattivati.</string>
+  <string name="powersave_mode_tip_text">La modalità di risparmio energia potrebbe avere effetti sull\'esperienza utente migliorando la durata della batteria del browser in uso.</string>
+  <string name="powersave_mode_title">Modalità risparmio energia</string>
+  <string name="powersave_mode_turn_off_title">Disattiva modalità risparmio energia</string>
+  <string name="powersave_mode_turn_on_title">Attiva modalità risparmio energia</string>
+  <string name="prefs_about_chrome">Info su</string>
+  <string name="privacy_notice_title">Informativa sulla privacy di Browser</string>
+  <string name="recently_closed">"Chiusi di recente"</string>
+  <string name="sad_tab_suggestions">"Se il problema si verifica di frequente, prova questi &lt;link&gt;suggerimenti&lt;/link&gt;."</string>
+  <string name="search_engine_location_allowed">"La localizzazione è consentita"</string>
+  <string name="search_engine_location_blocked">"Localizzazione bloccata"</string>
+  <string name="sign_in_to_chrome">"Accedi a Chrome"</string>
+  <string name="signout_message">"I dati memorizzati su questo dispositivo e quelli memorizzati nel tuo account Google rimarranno nelle rispettive posizioni. Tuttavia, i nuovi dati o le modifiche apportate ai tuoi dati non verranno sincronizzati tra loro."</string>
+  <string name="signout_title">"Esci da Chrome"</string>
+  <string name="ssl_error">Il sito dispone di un certificato SSL non valido</string>
+  <string name="ssl_secure">Il certificato SSL del sito è valido. La comunicazione è crittografata e l\'identità viene verificata.</string>
+  <string name="ssl_warning">Il certificato SSL del sito contiene avvisi</string>
+  <string name="sync_custom_passphrase">"Solo chi conosce la tua passphrase può leggere i tuoi dati crittografati: la passphrase non viene inviata a o memorizzata da Google. Se dimentichi la passphrase, dovrai reimpostare la sincronizzazione."</string>
+  <string name="sync_passphrase_reset_instructions">"Se hai dimenticato la passphrase, interrompi e reimposta la sincronizzazione tramite &lt;link&gt;Google Dashboard&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Cripta tutto con passphrase"</string>
+  <string name="tabs_and_apps_settings_description">"Visualizza le tue schede insieme ad altre app recenti nella schermata Panoramica del telefono."</string>
+  <string name="terms_of_service_title">Termini di servizio di Browser</string>
+  <string name="tooltip_favicon_change_search_engine">Toccare qui per modificare il motore di ricerca.</string>
+  <string name="tooltip_favicon_change_site_settings">Toccare qui per modificare le preferenze per il sito Web, incluso il filtro dei contenuti.</string>
+  <string name="tooltip_favicon_content_blocking_info">Il filtro dei contenuti è attivo. Toccare qui per ulteriori informazioni.</string>
+  <string name="tooltip_favicon_site_integrity_check">Il filtro dei contenuti è attivo. Se si riscontrano problemi con questo sito Web, toccare questa icona e provare a disattivare il filtro dei contenuti.</string>
+  <string name="translate_options_source_hint">"Lingua della pagina: ^1"</string>
+  <string name="translate_options_target_hint">"Lingua della traduzione: ^1"</string>
+  <string name="unsupported_number_of_windows">Numero di istanze di Browser non supportato.</string>
+  <string name="web_defender_about_text">Il criterio di difesa Web utilizza l\'intelligenza artificiale per impedire che i sistemi di rilevazione di terze parti (inclusi gli inserzionisti) raccolgano informazioni sui siti Web visitati dall\'utente e i dati personali. Se viene individuato un osservatore che rileva le attività dell\'utente su più siti Web, il criterio di difesa Web blocca automaticamente l\'osservatore, impedendogli di caricare altri contenuti nel browser.</string>
+  <string name="web_refiner_about_text">Il criterio di affinamento Web è un componente del filtro dei contenuti che consente di bloccare annunci pubblicitari, sistemi di rilevazione e domini malware. Attivando il criterio di affinamento Web, l\'utente godrà di una navigazione su Internet senza seccature: l\'esecuzione del browser sarà più rapida, l\'utente risparmierà sulla larghezza di banda evitando il download degli annunci pubblicitari e sarà protetto dai sistemi di rilevazione e dai domini malware.</string>
+  <string name="webrefiner_ads">pubblicità</string>
+  <string name="webrefiner_ads_plural">pubblicità</string>
+  <string name="webrefiner_malware">malware</string>
+  <string name="webrefiner_one_message">%s bloccato.</string>
+  <string name="webrefiner_three_message">%1$s, %2$s e %3$s bloccati.</string>
+  <string name="webrefiner_trackers">sistema di rilevazione</string>
+  <string name="webrefiner_trackers_plural">sistemi di rilevazione</string>
+  <string name="webrefiner_two_message">%1$s e %2$s bloccati.</string>
+  <string name="website_settings_category_disabled">Disattivato</string>
+  <string name="website_settings_category_enabled">Attivato</string>
+  <string name="website_settings_fullscreen">"Schermo intero"</string>
+  <string name="website_settings_security_title">Informazioni di protezione</string>
+  <string name="website_settings_webdefender_brief_message">Le informazioni tracciabili non andranno disperse in %1$s domini connessi.</string>
+  <string name="website_settings_webdefender_cookie">Memorizzazione cookie</string>
+  <string name="website_settings_webdefender_disabled">L\'utente non è protetto dai domini dei sistemi di rilevazione di terze parti.</string>
+  <string name="website_settings_webdefender_disabled_count">L\'utente non è protetto da %1$s domini dei sistemi di rilevazione di terze parti.</string>
+  <string name="website_settings_webdefender_enabled">Il criterio di difesa Web è attivato</string>
+  <string name="website_settings_webdefender_fingerprint">Creazione impronta digitale</string>
+  <string name="website_settings_webdefender_font_enum">Enumerazione carattere</string>
+  <string name="website_settings_webdefender_html5">Memorizzazione HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Misuratore privacy</string>
+  <string name="website_settings_webdefender_tracking_list">Impostazioni dominio connesso:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">non rilevato</string>
+  <string name="website_settings_webdefender_tracking_vectors">Vettori di rilevazione nei domini connessi:</string>
+  <string name="website_settings_webdefender_vector_allow">Consenti</string>
+  <string name="website_settings_webdefender_vector_not_connect">Non connettere</string>
+  <string name="website_settings_webdefender_vector_strip">Eliminare i vettori ed eseguire la connessione</string>
+  <string name="website_settings_webdefender_vector_system_default">Decidi per me</string>
+  <string name="website_settings_webrefiner_disabled">Blocco dei contenuti disattivato</string>
+  <string name="website_settings_webrefiner_enabled">Blocco dei contenuti attivato</string>
+</resources>

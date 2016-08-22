@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">ເປີດໂປຣແກຣມທ່ອງເວັບ</string>
+  <string name="android_permission_off">ເປີດໃຊ້ການອະນຸຍາດສຳລັບ &lt;link&gt;ການຕັ້ງຄ່າ Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">ເປີດໃຊ້ການອະນຸຍາດສຳລັບ &lt;link&gt;ການຕັ້ງຄ່າ Android&lt;/link&gt;.</string>
+  <string name="app_name">ໂປຣແກຣມທ່ອງເວັບ</string>
+  <string name="background_audio_reload_tip_text">ເປີດໃຊ້ເນື້ອຫາວິດີໂອເພື່ອສືບຕໍ່ການຫຼິ້ນສຽງເມື່ອໜ້າເວັບຢູ່ໃນພື້ນຫຼັງ.</string>
+  <string name="background_audio_title">ສຽງພື້ນຫຼັງ</string>
+  <string name="block_screen_observers_summary">ອະນຸຍາດ ຫຼື ບລັອກການບັນທຶກໜ້າຈໍຈາກແອັບພລິເຄຊັນອື່ນ</string>
+  <string name="block_screen_observers_title">ບລັອກຜູ້ສັງເກດການໜ້າຈໍ</string>
+  <string name="fre_send_report_check">ຊ່ວຍເຮັດໃຫ້ໂປຣແກຣມທ່ອງເວັບດີຂຶ້ນໂດຍການລາຍງານສະຖິຕິການນຳໃຊ້ ແລະ ລາຍງານການເຮັດວຽກຜິດພາດ.</string>
+  <string name="fre_tos_and_privacy">ໂດຍການນຳໃຊ້ແອັບພລິເຄຊັນນີ້, ແມ່ນຖືວ່າທ່ານຍອມຮັບ &lt;LINK1&gt;ເງື່ອນໄຂການໃຫ້ບໍລິການ&lt;/LINK1&gt; ແລະ &lt;LINK2&gt;ປະກາດຄວາມເປັນສ່ວນຕົວ&lt;/LINK2&gt; ຂອງໂປຣແກຣມທ່ອງເວັບ.</string>
+  <string name="fre_welcome">ຍິນດີຕ້ອນຮັບສູ່ໂປຣແກຣມທ່ອງເວັບ</string>
+  <string name="infobar_missing_camera_permission_text">ໂປຣແກຣມທ່ອງເວັບຕ້ອງການເຂົ້າໃຊ້ກ້ອງເພື່ອແບ່ງປັນມັນກັບເວັບໄຊນີ້.</string>
+  <string name="infobar_missing_location_permission_text">ໂປຣແກຣມທ່ອງເວັບຕ້ອງການເຂົ້າໃຊ້ສະຖານທີ່ເພື່ອແບ່ງປັນມັນກັບເວັບໄຊນີ້.</string>
+  <string name="infobar_missing_microphone_permission_text">ໂປຣແກຣມທ່ອງເວັບຕ້ອງການເຂົ້າໃຊ້ໄມໂຄຣໂຟນເພື່ອແບ່ງປັນມັນກັບເວັບໄຊນີ້.</string>
+  <string name="infobar_missing_multiple_permissions_text">ໂປຣແກຣມທ່ອງເວັບຕ້ອງການເຂົ້າໃຊ້ສິດອະນຸຍາດເພື່ອແບ່ງປັນພວກມັນກັບເວັບໄຊນີ້.</string>
+  <string name="menu_load_live_page_for_offline_page">ເປີດໃຊ້</string>
+  <string name="menu_open_in_chrome">ເປີດຢູ່ໃນບຣາວເຊີ</string>
+  <string name="most_visited">ຖີ່ທີ່ສຸດ</string>
+  <string name="native_startup_failed">ໂປຣແກຣມທ່ອງເວັບລົ້ມເຫລວໃນລະຫວ່າງການເປີດເນື່ອງຈາກຄວາມຜິດພາດທີ່ບໍ່ຄາດຄິດ.</string>
+  <string name="night_mode_reload_tip_text">ໃຊ້ໂໝດກາງຄືນເພື່ອເຮັດໃຫ້ການທ່ອງເວັບງ່າຍຂຶ້ນເມື່ອເບິ່ງໃນບ່ອນມືດ.</string>
+  <string name="night_mode_title">ໂໝດກາງຄືນ</string>
+  <string name="powered_by_chrome_message">ຂັບເຄື່ອນໂດຍ Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">ການປັບປຸງການປະຢັດພະລັງງານຈະຖືກເປີດໃຊ້.</string>
+  <string name="powersave_mode_opt_out_confirmation">ການປັບປຸງການປະຢັດພະລັງງານຈະຖືກປິດໄວ້.</string>
+  <string name="powersave_mode_tip_text">ການຕັ້ງຄ່າໂໝດປະຢັດພະລັງງານອາດມີຜົນກະທົບກັບປະສົບການຜູ້ໃຊ້ເພື່ອປັບປຸງອາຍຸແບັດເຕີຣີສຳລັບໂປຣແກຣມທ່ອງເວັບຂອງທ່ານ</string>
+  <string name="powersave_mode_title">ໂໝດປະຢັດພະລັງງານ</string>
+  <string name="powersave_mode_turn_off_title">ປິດໂໝດປະຢັດພະລັງງານ</string>
+  <string name="powersave_mode_turn_on_title">ເປີດໃຊ້ໂໝດປະຢັດພະລັງງານ</string>
+  <string name="prefs_about_chrome">ກ່ຽວກັບ</string>
+  <string name="privacy_notice_title">ປະກາດຄວາມເປັນສ່ວນຕົວຂອງໂປຣແກຣມທ່ອງເວັບ</string>
+  <string name="ssl_error">ເວັບໄຊມີໃບຮັບຮອງ SSL ບໍ່ຖືກຕ້ອງ</string>
+  <string name="ssl_secure">ໃບຮັບຮອງ SSL ຂອງເວັບໄຊຖືກຕ້ອງ. ການສື່ສານແມ່ນເຂົ້າລະຫັດ ແລະ ການມີການຢືນຢັນຕົວຕົນແລ້ວ</string>
+  <string name="ssl_warning">ໃບຮັບຮອງຂອງເວັບໄຊມີຄຳເຕືອນ</string>
+  <string name="terms_of_service_title">ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງໂປຣແກຣມທ່ອງເວັບ</string>
+  <string name="tooltip_favicon_change_search_engine">ແຕະບ່ອນນີ້ເພື່ອປ່ຽນລະບົບການຊອກຫາ.</string>
+  <string name="tooltip_favicon_change_site_settings">ແຕະບ່ອນນີ້ເພື່ອປ່ຽນການຕັ້ງຄ່າສຳລັບເວັບໄຊປັດຈຸບັນ ເຊິ່ງຮວມເຖິງການກັ່ນຕອງເນື້ອຫານຳ.</string>
+  <string name="tooltip_favicon_content_blocking_info">ເປີດໃຊ້ການກັ່ນຕອງເນື້ອຫາຢູ່. ແຕະບ່ອນນີ້ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ.</string>
+  <string name="tooltip_favicon_site_integrity_check">ເປີດໃຊ້ການກັ່ນຕອງເນື້ອຫາຢູ່. ຫາກມີບັນຫາກັບເວັບໄຊນີ້, ໃຫ້ແຕະທີ່ໄອຄອນນີ້ ແລ້ວລອງປິດການກັ່ນຕອງເນື້ອຫາ.</string>
+  <string name="unsupported_number_of_windows">ບໍ່ຮອງຮັບຈຳນວນໂປຣແກຣມທ່ອງເວັບ.</string>
+  <string name="web_defender_about_text">ເວັບ ດີເຟນເດີ ໃຊ້ລະບົບສະໝອງກົນໃນການປ້ອງກັນຕົວຕິດຕາມຈາກພາກສ່ວນທີສາມ (ຮວມທັງຜູ້ລົງໂຄສະນານຳ) ຈາກການເກັບກຳຂໍ້ມູນກ່ຽວກັບເວັບໄຊທີ່ທ່ານເຂົ້າເບິ່ງ ແລະ ຂໍ້ມູນທີ່ຢືນຢັນຕົວຕົນໄດ້. ຫາກຜູ້ເຝົ້າເບິ່ງຖືກຈັບໄດ້ວ່າຕິດຕາມການເຄື່ອນໄຫວຂອງທ່ານໃນເວັບໄຊຕ່າງໆໄດ້, ເວັບ ດີເຟນເດີຈະບລັອກຜູ້ເຝົ້າເບິ່ງນັ້ນຈາກການໂຫລດເນື້ອຫາເພີ່ມເຕີມໃດໆຕໍ່ກັບໂປຣແກຣມທ່ອງເວັບຂອງທ່ານໂດຍອັດຕະໂນມັດ.</string>
+  <string name="web_refiner_about_text">ເວັບ ຣີຟາຍເນີ ແມ່ນອົງປະກອບການກັ່ນຕອງເນື້ອຫາທີ່ຊ່ວຍໃຫ້ທ່ານສາມາດບລັອກໂຄສະນາ, ຕົວຕິດຕາມ ແລະ ໂດເມນທີ່ເປັນອັນຕະລາຍໄດ້. ເມື່ອເປີດໃຊ້ ເວັບ ຣີຟາຍເນີ, ທ່ານຈະໄດ້ຮັບການລົບກວນໃນເວລາທ່ອງອິນເຕີເນັດໜ້ອຍລົງ. ໂປຣແກຣມທ່ອງເວັບຂອງທ່ານຈະເຮັດວຽກໄດ້ໄວຂຶ້ນ, ທ່ານຈະໃຊ້ແບນວິດໃນການດາວໂຫລດໂຄສະນາໜ້ອຍລົງ ແລະ ທ່ານຈະຖືກປົກປ້ອງຈາກຕົວຕິດຕາມ ແລະ ໂດເມນທີ່ເປັນອັນຕະລາຍຕ່າງໆ.</string>
+  <string name="webrefiner_ads">ການໂຄສະນາ</string>
+  <string name="webrefiner_ads_plural">ການໂຄສະນາ</string>
+  <string name="webrefiner_malware">ມັລແວ</string>
+  <string name="webrefiner_one_message">ພວກເຮົາບລັອກ %s ແລ້ວ.</string>
+  <string name="webrefiner_three_message">ພວກເຮົາບລັອກ %1$s, %2$s ແລະ %3$s ແລ້ວ.</string>
+  <string name="webrefiner_trackers">ແທຣັກເກີ</string>
+  <string name="webrefiner_trackers_plural">ແທຣັກເກີ</string>
+  <string name="webrefiner_two_message">ພວກເຮົາບລັອກ %1$s ແລະ %2$s ແລ້ວ.</string>
+  <string name="website_settings_category_disabled">ປິດນຳໃຊ້</string>
+  <string name="website_settings_category_enabled">ເປີດນຳໃຊ້</string>
+  <string name="website_settings_security_title">ຂໍ້ມູນຄວາມປອດໄພ</string>
+  <string name="website_settings_webdefender_brief_message">ຂໍ້ມູນທີ່ຕິດຕາມໄດ້ຈະບໍ່ຫຼຸດໄປໃຫ້ %1$s ໂດເມນທີ່ເຊື່ອມຕໍ່ຢູ່.</string>
+  <string name="website_settings_webdefender_cookie">ພື້ນທີ່ຈັດເກັບຄຸກກີ້</string>
+  <string name="website_settings_webdefender_disabled">ທ່ານບໍ່ໄດ້ຖືກປົກປ້ອງຈາກໂດເມນການຕິດຕາມຂອງພາກສ່ວນທີສາມ.</string>
+  <string name="website_settings_webdefender_disabled_count">ທ່ານບໍ່ໄດ້ຖືກປົກປ້ອງຈາກ %1$s ໂດເມນການຕິດຕາມຂອງພາກສ່ວນທີສາມ.</string>
+  <string name="website_settings_webdefender_enabled">ເປີດໃຊ້ ເວັບ ດີເຟນເດີ ແລ້ວ</string>
+  <string name="website_settings_webdefender_fingerprint">ລາຍ​ນີ້ວ​ມື</string>
+  <string name="website_settings_webdefender_font_enum">ການແຈກແຈງຟອນ</string>
+  <string name="website_settings_webdefender_html5">ພື້ນທີ່ຈັດເກັບຂໍ້ມູນ HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">ຕົວວັດແທກຄວາມເປັນສ່ວນຕົວ</string>
+  <string name="website_settings_webdefender_tracking_list">ການຕັ້ງຄ່າໂດເມນທີ່ເຊື່ອມຕໍ່ແລ້ວ:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">ບໍ່ພົບ</string>
+  <string name="website_settings_webdefender_tracking_vectors">ເວັກເຕີການຕິດຕາມໃນໂດເມນທີ່ເຊື່ອມຕໍ່ແລ້ວ:</string>
+  <string name="website_settings_webdefender_vector_allow">ອະນຸຍາດ</string>
+  <string name="website_settings_webdefender_vector_not_connect">ຢ່າເຊື່ອມຕໍ່</string>
+  <string name="website_settings_webdefender_vector_strip">ຖອດເວັກເຕີ ແລະ ເຊື່ອມຕໍ່</string>
+  <string name="website_settings_webdefender_vector_system_default">ຕັດສິນໃຈໃຫ້ຂ້ອຍ</string>
+  <string name="website_settings_webrefiner_disabled">ການບລັອກເນື້ອຫາຖືກປິດການນຳໃຊ້ໄວ້ແລ້ວ</string>
+  <string name="website_settings_webrefiner_enabled">ການບລັອກເນື້ອຫາຖືກເປີດການນຳໃຊ້ໄວ້ແລ້ວ</string>
+</resources>

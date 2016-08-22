@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Uruchom przeglądarkę</string>
+  <string name="account_management_add_account_title">"Dodaj konto – %1$s"</string>
+  <string name="account_management_title">"Konta"</string>
+  <string name="added_to_homescreen">"Domena %1$s została dodana do ekranu głównego"</string>
+  <string name="android_permission_off">Włącz uprawnienie dla przeglądarki w &lt;link&gt;Ustawieniach systemu Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Włącz uprawnienia dla przeglądarki w &lt;link&gt;Ustawieniach systemu Android&lt;/link&gt;.</string>
+  <string name="app_name">Przeglądarka</string>
+  <string name="background_audio_reload_tip_text">Pozwala zawartości wideo na kontynuowanie odtwarzania dźwięku, gdy strona internetowa znajduje się w tle.</string>
+  <string name="background_audio_title">Dźwięk w tle</string>
+  <string name="block_screen_observers_summary">Zezwalaj lub nie zezwalaj innym aplikacjom na przechwytywanie ekranu przeglądarki</string>
+  <string name="block_screen_observers_title">Zablokuj obserwację ekranu</string>
+  <string name="can_not_clear_browsing_history_toast">"Na kontach dla dzieci nie można usunąć historii przeglądania"</string>
+  <string name="clear_cache_title">"Pamięć podręczna"</string>
+  <string name="clear_cookies_and_site_data_title">"Pliki cookie i dane stron"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Nie spowoduje to wylogowania Cię z &lt;link&gt;kont Google&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"Wyczyść"</string>
+  <string name="common_google_play_services_invalid_account_text">"Podanego konta nie ma na tym urządzeniu. Wybierz inne konto."</string>
+  <string name="common_google_play_services_network_error_text">"Korzystanie z usług Google Play wymaga połączenia z internetem."</string>
+  <string name="common_google_play_services_sign_in_failed_text">"Błąd podczas logowania na określone konto. Wybierz inne."</string>
+  <string name="common_google_play_services_unknown_issue">"Nieznany problem z Usługami Google Play."</string>
+  <string name="common_google_play_services_update_title">"Aktualizuj Usługi Google Play"</string>
+  <string name="data_reduction_description">"Kiedy ta funkcja jest włączona, Chrome korzysta z serwerów Google, by kompresować strony przed ich pobraniem. Nie dotyczy to stron SSL ani trybu incognito."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Wykryto wolne połączenie."</string>
+  <string name="data_reduction_promo_summary">"Pozwól Google optymalizować strony, by ograniczyć transmisję danych. Google nie optymalizuje ani nie widzi stron, z którymi łączysz się przez HTTPS lub które przeglądasz w trybie incognito."</string>
+  <string name="do_not_track_description">"Włączenie opcji „Bez śledzenia” oznacza, że podczas przeglądania będzie wysyłane żądanie. Jego wynik zależy od tego, czy strona na nie odpowie oraz jak zostanie ono zinterpretowane.
+
+Na przykład niektóre strony mogą na nie zareagować, wyświetlając reklamy bez związku ze stronami odwiedzonymi przez Ciebie wcześniej. Wiele stron będzie nadal gromadzić dane przeglądarki i używać ich na przykład do poprawy bezpieczeństwa, dostarczania treści, reklam i rekomendacji oraz do generowania statystyk."</string>
+  <string name="do_not_track_title">"„Bez śledzenia”"</string>
+  <string name="fre_send_report_check">Pomóż usprawnić przeglądarkę, przesyłając statystyki użytkowania i raporty błędów.</string>
+  <string name="fre_tos_and_privacy">Korzystając z aplikacji, wyrażasz zgodę na &lt;LINK1&gt;Warunki użytkowania&lt;/LINK1&gt; przeglądarki oraz &lt;LINK2&gt;Zasady prywatności&lt;/LINK2&gt;.</string>
+  <string name="fre_welcome">Witamy w przeglądarce!</string>
+  <string name="fullscreen_api_notification">"Strona przeszła w tryb pełnoekranowy.
+Aby go wyłączyć, kliknij przycisk Wstecz."</string>
+  <string name="fullscreen_permission_title">"Pełny ekran"</string>
+  <string name="infobar_missing_camera_permission_text">Przeglądarka potrzebuje dostępu do aparatu, aby udostępnić go tej stronie.</string>
+  <string name="infobar_missing_location_permission_text">Przeglądarka potrzebuje dostępu do lokalizacji, aby udostępnić ją tej stronie.</string>
+  <string name="infobar_missing_microphone_permission_text">Przeglądarka potrzebuje dostępu do mikrofonu, aby udostępnić go tej stronie.</string>
+  <string name="infobar_missing_multiple_permissions_text">Przeglądarka potrzebuje dostępu do uprawnień, aby udostępnić je tej stronie.</string>
+  <string name="kids_account">"To jest konto dziecka"</string>
+  <string name="menu_load_live_page_for_offline_page">Wersja online</string>
+  <string name="menu_open_in_chrome">Otwórz w przeglądarce</string>
+  <string name="most_visited">Najczęstsze</string>
+  <string name="native_startup_failed">Awaria przeglądarki podczas uruchamiania z powodu nieoczekiwanego błędu.</string>
+  <string name="network_predictions_title">"Pobierz wstępnie zasoby strony"</string>
+  <string name="new_tab_incognito_header">"Jesteś w trybie incognito."</string>
+  <string name="night_mode_reload_tip_text">Użyj Trybu nocnego, aby zmniejszyć kontrast dla oczu w ciemności.</string>
+  <string name="night_mode_title">Tryb nocny</string>
+  <string name="passwords_auto_signin_description">"Automatycznie loguj się na stronach, używając zapisanych danych logowania. Gdy ta funkcja jest wyłączona, przed każdym zalogowaniem się zobaczysz prośbę o weryfikację."</string>
+  <string name="powered_by_chrome_message">Wykorzystuje Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Usprawnienia oszczędzania energii zostaną włączone.</string>
+  <string name="powersave_mode_opt_out_confirmation">Usprawnienia oszczędzania energii zostaną wyłączone.</string>
+  <string name="powersave_mode_tip_text">Tryb oszczędzania energii może wpływać na komfort obsługi użytkownika w celu zmniejszenia zużycia energii przez przeglądarkę.</string>
+  <string name="powersave_mode_title">Tryb oszczędzania energii</string>
+  <string name="powersave_mode_turn_off_title">Wyłącz Tryb oszczędzania energii</string>
+  <string name="powersave_mode_turn_on_title">Włącz Tryb oszczędzania energii</string>
+  <string name="prefs_about_chrome">Informacje</string>
+  <string name="privacy_notice_title">Zasady prywatności dla przeglądarki</string>
+  <string name="sad_tab_suggestions">"Jeśli często widzisz ten komunikat, przeczytaj te &lt;link&gt;wskazówki&lt;/link&gt;."</string>
+  <string name="sign_in_to_chrome">"Zaloguj się w Chrome"</string>
+  <string name="signout_message">"Dane przechowywane na tym urządzeniu oraz na Twoim koncie Google pozostaną w obu tych miejscach. Jednak nowe dane i przyszłe zmiany nie będą już synchronizowane z kontem."</string>
+  <string name="signout_title">"Wyloguj się z Chrome"</string>
+  <string name="ssl_error">Strona ma nieprawidłowy certyfikat SSL</string>
+  <string name="ssl_secure">Certyfikat SSL witryny jest prawidłowy. Komunikacja jest szyfrowana, a tożsamość witryny została potwierdzona</string>
+  <string name="ssl_warning">Certyfikat SSL witryny zawiera ostrzeżenia</string>
+  <string name="sync_custom_passphrase">"Tylko osoba znająca hasło może odczytać Twoje zaszyfrowane dane. Nie jest ono przesyłane do firmy Google ani przez nią przechowywane. Jeśli je zapomnisz, trzeba będzie zresetować synchronizację."</string>
+  <string name="sync_passphrase_reset_instructions">"Jeśli nie pamiętasz hasła, zatrzymaj i zresetuj synchronizację w &lt;link&gt;Panelu Google&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Zaszyfruj wszystko za pomocą hasła"</string>
+  <string name="tabs_and_apps_settings_description">"Pokazuj karty razem z ostatnio używanymi aplikacjami na ekranie Przegląd na telefonie."</string>
+  <string name="terms_of_service_title">Warunki użytkowania przeglądarki</string>
+  <string name="tooltip_favicon_change_search_engine">Dotknij tutaj, aby zmienić wyszukiwarkę.</string>
+  <string name="tooltip_favicon_change_site_settings">Dotknij tutaj, aby zmienić preferencje dla bieżącej witryny, w tym filtrowanie zawartości.</string>
+  <string name="tooltip_favicon_content_blocking_info">Włączono filtrowanie zawartości. Dotknij tutaj, aby uzyskać więcej informacji.</string>
+  <string name="tooltip_favicon_site_integrity_check">Włączono filtrowanie zawartości. W przypadku problemów z witryną, dotknij tej ikony i spróbuj wyłączyć filtrowanie zawartości.</string>
+  <string name="translate_options_source_hint">"Język strony: ^1"</string>
+  <string name="translate_options_target_hint">"Język tłumaczenia: ^1"</string>
+  <string name="unsupported_number_of_windows">Nieobsługiwana liczba instancji przeglądarki.</string>
+  <string name="web_defender_about_text">Zapora Sieciowa wykorzystuje inteligentne procesy, aby uniemożliwić innym podmiotom (w tym reklamodawcom) zbieranie informacji o odwiedzanych stronach oraz informacji pozwalających identyfikować użytkownika. Jeżeli obserwator zostanie przyłapany na śledzeniu działań użytkownika na kilku różnych witrynach, Zapora Sieciowa automatycznie uniemożliwi obserwatorowi ładowanie dodatkowej zawartości do przeglądarki użytkownika.</string>
+  <string name="web_refiner_about_text">Filtr Sieciowy to narzędzie do filtrowania zawartości umożliwiające blokowanie reklam, modułów śledzących oraz szkodliwych domen. Po włączeniu funkcji Filtr Sieciowy liczba irytujących elementów podczas przeglądania Internetu zmniejszy się. Przeglądarka będzie działać szybciej, zużywając mniejszą ilość danych na pobieranie reklam i korzystając z ochrony przed modułami śledzącymi i szkodliwymi domenami.</string>
+  <string name="webrefiner_ads">reklamę</string>
+  <string name="webrefiner_ads_plural">reklamy</string>
+  <string name="webrefiner_malware">szkodliwe oprogramowanie</string>
+  <string name="webrefiner_one_message">Zablokowano %s.</string>
+  <string name="webrefiner_three_message">Zablokowano %1$s, %2$s oraz %3$s.</string>
+  <string name="webrefiner_trackers">moduł śledzący</string>
+  <string name="webrefiner_trackers_plural">moduły śledzące</string>
+  <string name="webrefiner_two_message">Zablokowano %1$s i %2$s.</string>
+  <string name="website_settings_category_disabled">Wył.</string>
+  <string name="website_settings_category_enabled">Wł.</string>
+  <string name="website_settings_fullscreen">"Pełny ekran"</string>
+  <string name="website_settings_security_title">Informacje o zabezpieczeniach</string>
+  <string name="website_settings_webdefender_brief_message">Informacje podlegające śledzeniu nie zostaną przesłane do połączonych domen %1$s.</string>
+  <string name="website_settings_webdefender_cookie">Przechowywanie plików cookie</string>
+  <string name="website_settings_webdefender_disabled">Brak ochrony przed domenami śledzącymi stron trzecich.</string>
+  <string name="website_settings_webdefender_disabled_count">Brak ochrony przed domenami śledzącymi stron trzecich %1$s.</string>
+  <string name="website_settings_webdefender_enabled">Włączono funkcję Zapora Sieciowa</string>
+  <string name="website_settings_webdefender_fingerprint">Zbieranie odcisków cyfrowych</string>
+  <string name="website_settings_webdefender_font_enum">Lista czcionek</string>
+  <string name="website_settings_webdefender_html5">Pamięć HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Wskaźnik prywatności</string>
+  <string name="website_settings_webdefender_tracking_list">Ustawienia podłączonej domeny:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">nie wykryto</string>
+  <string name="website_settings_webdefender_tracking_vectors">Wektory śledzenia w podłączonych domenach:</string>
+  <string name="website_settings_webdefender_vector_allow">Zezwól</string>
+  <string name="website_settings_webdefender_vector_not_connect">Nie łącz</string>
+  <string name="website_settings_webdefender_vector_strip">Usuń wektory i połącz</string>
+  <string name="website_settings_webdefender_vector_system_default">Zdecyduj za mnie</string>
+  <string name="website_settings_webrefiner_disabled">Blokowanie zawartości jest wyłączone</string>
+  <string name="website_settings_webrefiner_enabled">Blokowanie zawartości jest włączone</string>
+</resources>

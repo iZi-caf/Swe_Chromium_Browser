@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Запустити переглядач</string>
+  <string name="account_management_add_account_title">"Новий облік. запис: %1$s"</string>
+  <string name="account_management_title">"Облікові записи"</string>
+  <string name="added_to_homescreen">"%1$s додано на головний екран"</string>
+  <string name="android_permission_off">Увімкніть дозвіл для переглядача у пункті &lt;link&gt;Налаштування Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Увімкніть дозволи для переглядача у пункті &lt;link&gt;Налаштування Android&lt;/link&gt;.</string>
+  <string name="app_name">Переглядач</string>
+  <string name="background_audio_reload_tip_text">Увімкнення відеовмісту для продовження відтворення аудіо, коли веб-сторінка не перебуває на передньому плані.</string>
+  <string name="background_audio_title">Фонове аудіо</string>
+  <string name="block_screen_observers_summary">Дозволити або блокувати знімання екрана переглядача в інших програмах</string>
+  <string name="block_screen_observers_title">Блокувати програми спостереження за екраном</string>
+  <string name="can_not_clear_browsing_history_toast">"В обліковому записі для дітей не можна видалити історію веб-перегляду"</string>
+  <string name="clear_cache_title">"Кеш"</string>
+  <string name="clear_cookies_and_site_data_title">"Файли cookie, дані сайтів"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Ви не вийдете з &lt;link&gt;облікових записів Google&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"Очистити"</string>
+  <string name="common_google_play_services_enable_title">"Увімкніть сервіси Google Play"</string>
+  <string name="common_google_play_services_install_title">"Установіть сервіси Google Play"</string>
+  <string name="common_google_play_services_invalid_account_text">"Указаний обліковий запис не існує на цьому пристрої. Виберіть інший обліковий запис."</string>
+  <string name="common_google_play_services_network_error_text">"Для під’єднання до сервісів Google Play потрібне з’єднання з мережею."</string>
+  <string name="common_google_play_services_unknown_issue">"Невідома проблема із сервісами Google Play."</string>
+  <string name="common_signin_button_text_long">"Увійти в обл.запис Google"</string>
+  <string name="data_reduction_description">"Якщо цю функцію ввімкнено, Chrome використовує сервери Google, щоб перед завантаженням стискати сторінки, які ви відвідуєте (це не стосується сторінок із підтримкою протоколу SSL і сторінок у режимі анонімного перегляду)."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Виявлено повільне з’єднання."</string>
+  <string name="data_reduction_promo_summary">"Щоб заощадити трафік, оптимізуйте відвідувані сторінки за допомогою Google. Google не зможе оптимізувати чи бачити сторінки, які відкриваються через HTTPS або в режимі анонімного перегляду."</string>
+  <string name="do_not_track_description">"Якщо ввімкнути параметр \"Не відстежувати\", запит додаватиметься в трафік веб-перегляду. Результат залежатиме від того, чи реагує веб-сайт на цей запит і як тлумачиться запит.
+
+Наприклад, деякі веб-сайти можуть реагувати на такий запит, показуючи вам рекламу, не пов’язану з іншими веб-сайтами, які ви відвідали. Багато веб-сайтів і надалі збиратимуть та використовуватимуть ваші дані веб-перегляду, наприклад, щоб покращувати систему безпеки, пропонувати вміст, рекламу й рекомендації, а також генерувати статистику для звітів."</string>
+  <string name="do_not_track_title">"\"Не відстежувати\""</string>
+  <string name="fre_send_report_check">Допоможіть покращити переглядач шляхом повідомлення статистики використання та подання звітів про збої.</string>
+  <string name="fre_tos_and_privacy">Якщо ви користуєтеся цією програмою, ви погоджуєтеся із  &lt;LINK1&gt;Умовами обслуговування&lt;/LINK1&gt; та &lt;LINK2&gt;Повідомленням про конфіденційність&lt;/LINK2&gt; переглядача.</string>
+  <string name="fre_welcome">Вас вітає переглядач</string>
+  <string name="fullscreen_api_notification">"Цей сайт розгорнуто на весь екран.
+Щоб вийти з повноекранного режиму, натисніть кнопку \"Назад\"."</string>
+  <string name="fullscreen_permission_title">"Повноекранний режим"</string>
+  <string name="infobar_missing_camera_permission_text">Щоб надіслати це на сайт, потрібно надати переглядачу доступ до камери.</string>
+  <string name="infobar_missing_location_permission_text">Щоб надіслати це на сайт, потрібно надати переглядачу доступ до даних про місцезнаходження.</string>
+  <string name="infobar_missing_microphone_permission_text">Щоб надіслати це на сайт, потрібно надати переглядачу доступ до мікрофона.</string>
+  <string name="infobar_missing_multiple_permissions_text">Щоб надіслати це на сайт, потрібно надати переглядачу дозволи на доступ.</string>
+  <string name="kids_account">"Це обліковий запис дитини"</string>
+  <string name="menu_load_live_page_for_offline_page">Перейти в онлайн</string>
+  <string name="menu_open_in_chrome">Відкрити у переглядачі</string>
+  <string name="most_visited">Найчастіші</string>
+  <string name="native_startup_failed">Збій переглядача під час запуску внаслідок неочікуваної помилки.</string>
+  <string name="network_predictions_title">"Попередня вибірка ресурсів сторінки"</string>
+  <string name="new_tab_incognito_header">"Ви перейшли в режим анонімного перегляду."</string>
+  <string name="night_mode_reload_tip_text">Використовуйте нічний режим, щоб зменшити втому очей під час користування переглядачем за відсутності освітлення.</string>
+  <string name="night_mode_title">Нічний режим</string>
+  <string name="passwords_auto_signin_description">"Автоматично входити в обліковий записи на веб-сайтах за допомогою збережених даних. Якщо цю функцію вимкнено, потрібно вводити облікові дані під часу кожного входу на сайтах."</string>
+  <string name="powered_by_chrome_message">За підтримки Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Буде ввімкнено вдосконалені функції заощадження енергії.</string>
+  <string name="powersave_mode_opt_out_confirmation">Буде вимкнено вдосконалені функції заощадження енергії.</string>
+  <string name="powersave_mode_tip_text">Налаштування режиму заощадження енергії може негативно вплинути на ефективність користування, оскільки подовжується ресурс акумулятора переглядача</string>
+  <string name="powersave_mode_title">Режим заощадження енергії</string>
+  <string name="powersave_mode_turn_off_title">Вимкнути режим заощадження енергії</string>
+  <string name="powersave_mode_turn_on_title">Увімкнути режим заощадження енергії</string>
+  <string name="prefs_about_chrome">Про програму</string>
+  <string name="privacy_notice_title">Повідомлення переглядача про конфіденційність</string>
+  <string name="sad_tab_suggestions">"Якщо ви бачите це часто, спробуйте ці &lt;link&gt;пропозиції&lt;/link&gt;."</string>
+  <string name="sign_in_to_chrome">"Вхід у Chrome"</string>
+  <string name="signout_message">"Дані, які зберігаються на цьому пристрої й у вашому обліковому записі Google, залишаться в обох місцях. Однак нові або змінені дані не синхронізуватимуться."</string>
+  <string name="signout_title">"Вихід із Chrome"</string>
+  <string name="ssl_error">Сайт має недійсний сертифікат SSL</string>
+  <string name="ssl_secure">Сертифікат SSL сайту дійсний. Обмін даними зашифровано, особу перевірено</string>
+  <string name="ssl_warning">Сертифікат SSL сайту має застереження</string>
+  <string name="sync_custom_passphrase">"Ваші зашифровані дані можуть переглядати лише користувачі, які знають вашу парольну фразу. Парольна фраза не надсилається й не зберігається в Google. Якщо ви забули її, скиньте синхронізацію."</string>
+  <string name="sync_passphrase_reset_instructions">"Якщо ви забули парольну фразу, зупиніть і скиньте синхронізацію на &lt;link&gt;інформаційній панелі Google&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Шифрувати все парольною фразою"</string>
+  <string name="tabs_and_apps_settings_description">"Переглядайте вкладки та нещодавно відкриті додатки на екрані огляду свого телефона."</string>
+  <string name="terms_of_service_title">Умови обслуговування переглядача</string>
+  <string name="tooltip_favicon_change_search_engine">Торкніть тут, щоб змінити пошукову систему.</string>
+  <string name="tooltip_favicon_change_site_settings">Торкніть тут, щоб змінити параметри для поточного веб-сайту, зокрема, для фільтрування вмісту.</string>
+  <string name="tooltip_favicon_content_blocking_info">Увімкнено фільтрування вмісту. Торкніть тут, щоб дізнатися докладніше.</string>
+  <string name="tooltip_favicon_site_integrity_check">Увімкнено фільтрування вмісту. Якщо із цим веб-сайтом виникають проблеми, торкніть цю піктограму та спробуйте вимкнути фільтрування вмісту.</string>
+  <string name="translate_options_source_hint">"Мова сторінки: ^1"</string>
+  <string name="translate_options_target_hint">"Мова перекладу: ^1"</string>
+  <string name="unsupported_number_of_windows">Непідтримувана кількість випадків використання переглядача.</string>
+  <string name="web_defender_about_text">Веб-захисник використовує машинний інтелект, щоб перешкодити програмам відстеження сторонніх осіб (зокрема, рекламодавців) збирати інформацію про сайти, які ви відвідуєте, а також інформацію, яка дає змогу визначити особу. Якщо буде виявлено, що певна програма спостереження відстежує ваші дії на низці веб-сайтів, Веб-захисник автоматично блокує завантаження програмою спостереження будь-якого іншого вмісту в переглядач.</string>
+  <string name="web_refiner_about_text">Веб-фільтр – це компонент для фільтрування вмісту, який дає змогу блокувати реклами, програми відстеження та домени зловмисних програм. Якщо ввімкнено Веб-фільтр, ви зможете уникнути надмірного турбування пі час користування Інтернетом. Ваш веб-переглядач працюватиме загалом швидше, ви втрачатимете менше пропускної спроможності через завантаження реклам та матимете захист від програм відстеження та доменів зловмисних програм.</string>
+  <string name="webrefiner_ads">Реклама</string>
+  <string name="webrefiner_ads_plural">реклами</string>
+  <string name="webrefiner_malware">зловмисна програма</string>
+  <string name="webrefiner_one_message">Ми блокували %s.</string>
+  <string name="webrefiner_three_message">Ми блокували %1$s, %2$s та %3$s.</string>
+  <string name="webrefiner_trackers">програма відстеження</string>
+  <string name="webrefiner_trackers_plural">програми відстеження</string>
+  <string name="webrefiner_two_message">Ми блокували %1$s та %2$s.</string>
+  <string name="website_settings_category_disabled">Вимкнено</string>
+  <string name="website_settings_category_enabled">Увімкнено</string>
+  <string name="website_settings_fullscreen">"Повноекранний режим"</string>
+  <string name="website_settings_security_title">Відомості про безпеку</string>
+  <string name="website_settings_webdefender_brief_message">Відстежувана інформація не передаватиметься %1$s підключених доменів.</string>
+  <string name="website_settings_webdefender_cookie">Сховище файлів сookie</string>
+  <string name="website_settings_webdefender_disabled">Ви не захищені від доменів відстеження третіх осіб.</string>
+  <string name="website_settings_webdefender_disabled_count">Ви не захищені від %1$s доменів відстеження третіх осіб.</string>
+  <string name="website_settings_webdefender_enabled">Веб-захисник ввімкнено</string>
+  <string name="website_settings_webdefender_fingerprint">Відбитки пальців</string>
+  <string name="website_settings_webdefender_font_enum">Перелік шрифтів</string>
+  <string name="website_settings_webdefender_html5">Сховище HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Лічильник конфіденційності</string>
+  <string name="website_settings_webdefender_tracking_list">Налаштування підключеного домену:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">не виявлено</string>
+  <string name="website_settings_webdefender_tracking_vectors">Відстеження векторів на підключених доменах:</string>
+  <string name="website_settings_webdefender_vector_allow">Дозволити</string>
+  <string name="website_settings_webdefender_vector_not_connect">Не під’єднувати</string>
+  <string name="website_settings_webdefender_vector_strip">Видалити вектори та з’єднатися</string>
+  <string name="website_settings_webdefender_vector_system_default">Вирішити за мене</string>
+  <string name="website_settings_webrefiner_disabled">Блокування вмісту вимкнено</string>
+  <string name="website_settings_webrefiner_enabled">Блокування вмісту ввімкнено</string>
+</resources>

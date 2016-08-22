@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">تشغيل المتصفح</string>
+  <string name="account_management_add_account_title">"إضافة حساب لـ %1$s"</string>
+  <string name="account_management_title">"الحسابات"</string>
+  <string name="added_to_homescreen">"تمت إضافة %1$s إلى شاشتك الرئيسية"</string>
+  <string name="android_permission_off">تشغيل الإذن للمتصفح في&lt;link&gt;إعدادات ‎.&lt;/link&gt;Android</string>
+  <string name="android_permission_off_plural">تشغيل الأذونات للمتصفح في&lt;link&gt;إعدادات ‎.&lt;/link&gt;Android</string>
+  <string name="app_name">ﺎﻠﻤﺘﺼﻔﺣ</string>
+  <string name="background_audio_reload_tip_text">تمكين محتوى الفيديو من متابعة تشغيل الصوت عندما لا تكون صفحة الويب في الواجهة الأمامية للشاشة.</string>
+  <string name="background_audio_title">صوت الخلفية</string>
+  <string name="block_screen_observers_summary">السماح بالتقاط شاشة المتصفح من تطبيقات أخرى أو حظر ذلك</string>
+  <string name="block_screen_observers_title">منع مراقبي الشاشة</string>
+  <string name="can_not_clear_browsing_history_toast">"لا يمكن محو سجل التصفح لحسابات الأطفال"</string>
+  <string name="clear_cache_title">"ذاكرة التخزين المؤقت"</string>
+  <string name="clear_cookies_and_site_data_title">"ملفات تعريف الارتباط، بيانات موقع الويب"</string>
+  <string name="clear_cookies_no_sign_out_summary">"‏لن يتم تسجيل خروجك من &lt;link&gt;حسابات Google&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"محو"</string>
+  <string name="common_google_play_services_invalid_account_text">"الحساب الذي تمّ تحديده غير موجود على الجهاز. يُرجى اختيار حساب آخر."</string>
+  <string name="common_google_play_services_network_error_title">"خطأ في الشبكة"</string>
+  <string name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+  <string name="common_google_play_services_unknown_issue">"‏حدثت مشكلة غير معروفة في خدمات Google Play."</string>
+  <string name="common_signin_button_text">"تسجيل الدخول"</string>
+  <string name="common_signin_button_text_long">"‏تسجيل الدخول باستخدام Google"</string>
+  <string name="data_reduction_description">"‏عند تشغيل هذه الميزة، سيستخدم Chrome خوادم Google لضغط الصفحات التي تزورها قبل تنزيلها. ولن يتضمن هذا صفحات وضعي SSL والتصفح المتخفي."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"تم اكتشاف اتصال بطيء بالإنترنت."</string>
+  <string name="data_reduction_promo_summary">"‏يمكنك استخدام بيانات أقل باستخدام Google لتحسين الصفحات التي تزورها. ولن يتم تحسين الصفحات التي يتم الدخول إليها باستخدام HTTPS أو التصفح المتخفي، ولن يكتشفها متصفح Google."</string>
+  <string name="do_not_track_description">"إن تمكين \"عدم التتبع\" يعني تضمين الطلب مع عدد زيارات التصفح. ويعتمد أي إجراء على استجابة موقع الويب للطلب من عدمه، بالإضافة إلى كيفية تفسير الطلب.
+
+فعلى سبيل المثال، قد تتمثل استجابة بعض مواقع الويب لهذا الطلب بعرض إعلانات غير موجودة في مواقع الويب الأخرى التي زرتها. وستستمر العديد من مواقع الويب في جمع معلومات التصفح واستخدامها، على سبيل المثال لتحسين الأمان، وتقديم المحتوى والإعلانات والمقترحات على مواقع الويب، وإنشاء تقارير الإحصاءات."</string>
+  <string name="do_not_track_title">"\"عدم التتبع\""</string>
+  <string name="fre_send_report_check">ساعد في تحسين المتصفح من خلال الإبلاغ عن إحصاءات الاستخدام وتقارير الأعطال.</string>
+  <string name="fre_tos_and_privacy">باستخدامك هذا التطبيق، توافق على &lt;LINK1&gt;شروط الخدمة&lt;/LINK1&gt; وعلى &lt;LINK2&gt;إشعار الخصوصية&lt;/LINK2&gt; الخاصين بالمتصفح.</string>
+  <string name="fre_welcome">مرحبًا بك في المتصفح</string>
+  <string name="fullscreen_api_notification">"تم عرض هذا الموقع في وضع ملء الشاشة.
+اضغط على زر الرجوع للخروج من هذا الوضع."</string>
+  <string name="fullscreen_permission_title">"ملء الشاشة"</string>
+  <string name="infobar_missing_camera_permission_text">يحتاج المتصفح إلى إمكانية الوصول إلى الكاميرا لمشاركتها مع هذا الموقع.</string>
+  <string name="infobar_missing_location_permission_text">يحتاج المتصفح إلى إمكانية الوصول إلى الموقع لمشاركته مع هذا الموقع.</string>
+  <string name="infobar_missing_microphone_permission_text">يحتاج المتصفح إلى إمكانية الوصول إلى الميكروفون لمشاركته مع هذا الموقع.</string>
+  <string name="infobar_missing_multiple_permissions_text">يحتاج المتصفح إلى إمكانية الوصول إلى الأذونات لمشاركتها مع هذا الموقع.</string>
+  <string name="kids_account">"هذا حساب طفل"</string>
+  <string name="menu_load_live_page_for_offline_page">بث مباشر</string>
+  <string name="menu_open_in_chrome">فتح في المتصفح</string>
+  <string name="most_visited">الأكثر زيارة</string>
+  <string name="native_startup_failed">فشل المتصفح خلال بدء التشغيل بسبب خطأ غير متوقع.</string>
+  <string name="network_predictions_title">"موارد صفحة الجلب المسبق"</string>
+  <string name="new_tab_incognito_header">"لقد انتقلت إلى وضع التصفح المتخفي."</string>
+  <string name="night_mode_reload_tip_text">استخدم الوضع الليلي لتسهيل عملية التصفح على عينيك في الظلام.</string>
+  <string name="night_mode_title">الوضع الليلي</string>
+  <string name="passwords_auto_signin_description">"سجّل الدخول تلقائيا إلى مواقع الويب باستخدام بيانات الاعتماد المخزنة. عند إيقاف الميزة، ستتم مطالبتك بالتحقق في كل مرة قبل تسجيل الدخول إلى موقع ويب."</string>
+  <string name="powered_by_chrome_message">مُشغّل بواسطة Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">سيتم تشغيل التحسينات لتوفير الطاقة.</string>
+  <string name="powersave_mode_opt_out_confirmation">سيتم إيقاف تشغيل التحسينات لتوفير الطاقة.</string>
+  <string name="powersave_mode_tip_text">من المحتمل أن يؤثر إعداد وضع توفير الطاقة على تجربة المستخدم بهدف تحسين عمر البطارية للمتصفح</string>
+  <string name="powersave_mode_title">وضع توفير الطاقة</string>
+  <string name="powersave_mode_turn_off_title">تعطيل وضع توفير الطاقة</string>
+  <string name="powersave_mode_turn_on_title">تمكين وضع توفير الطاقة</string>
+  <string name="prefs_about_chrome">حول</string>
+  <string name="privacy_notice_title">إشعار خصوصية المتصفح</string>
+  <string name="sad_tab_suggestions">"إذا كنت تشاهد هذا بكثرة، فجرّب هذه &lt;link&gt;الاقتراحات&lt;/link&gt;."</string>
+  <string name="sign_in_to_chrome">"‏تسجيل الدخول إلى Chrome"</string>
+  <string name="signout_message">"‏ستظل البيانات المخزنة على هذا الجهاز بالإضافة إلى البيانات المخزنة في حساب Google في كلا الموضعين. إلا أنه لن تتم مزامنة البيانات الجديدة أو التغييرات التي تجريها على بياناتك بينهما."</string>
+  <string name="signout_title">"‏الخروج من Chrome"</string>
+  <string name="ssl_error">الموقع مزود بشهادة SSL غير صالحة</string>
+  <string name="ssl_secure">إن شهادة SSL الخاصة بالموقع صالحة. تم تشفير الاتصال والتحقق من الهوية</string>
+  <string name="ssl_warning">إن شهادة SSL الخاصة بالموقع مزودة بتحذيرات</string>
+  <string name="sync_custom_passphrase">"‏لا يمكن لأحد قراءة بياناتك المشفرة سوى من لديه عبارة المرور التي تستخدمها. لا يتم إرسال عبارة المرور هذه إلى شركة Google ولا تخزينها. فإذا نسيت عبارة المرور، فيجب إعادة تعيين المزامنة."</string>
+  <string name="sync_passphrase_reset_instructions">"‏إذا كنت قد نسيت عبارة المرور، يمكنك إيقاف المزامنة وإعادة ضبطها عبر &lt;link&gt;لوحة تحكم Google&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"تشفير الكل باستخدام عبارة مرور"</string>
+  <string name="tabs_and_apps_settings_description">"اطلع على علامات التبويب مع تطبيقات أخرى حديثة على شاشة نظرة عامة على هاتفك."</string>
+  <string name="terms_of_service_title">شروط الخدمة الخاصة بالمتصفح</string>
+  <string name="tooltip_favicon_change_search_engine">المس هنا لتغيير محرك البحث.</string>
+  <string name="tooltip_favicon_change_site_settings">المس هنا لتغيير تفضيلات موقع الويب الحالي، بما في ذلك تصفية المحتوى.</string>
+  <string name="tooltip_favicon_content_blocking_info">إن تصفية المحتوى نشطة. المس هنا للحصول على مزيد من المعلومات.</string>
+  <string name="tooltip_favicon_site_integrity_check">إن تصفية المحتوى نشطة. إذا كان موقع الويب هذا يواجه مشاكل، فالمس هذا الرمز وحاول تعطيل تصفية المحتوى.</string>
+  <string name="translate_options_source_hint">"لغة الصفحة: ^1"</string>
+  <string name="translate_options_target_hint">"لغة الترجمة: ^1"</string>
+  <string name="unsupported_number_of_windows">عدد من مثيلات المتصفح غير معتمد.</string>
+  <string name="web_defender_about_text">يستخدم برنامج الحماية على الويب ذكاء الآلة لمنع أجهزة التعقب التابعة لجهات خارجية (بما في ذلك المعلنين) من جمع معلومات تتعلق بمواقع الويب التي تزورها ومعلومات تعرف عنك شخصيًا. في حال تم اكتشاف مراقب يتعقب نشاطاتك عبر مواقع ويب متعددة، يحظر برنامج الحماية على الويب تلقائيًا على هذا المراقب تحميل المزيد من المحتوى إلى المتصفح الخاص بك.</string>
+  <string name="web_refiner_about_text">إن مدقق الويب هو مكون لتصفية المحتوى يسمح لك بحظر الإعلانات وأجهزة التعقب والمجالات التي تستخدم البرامج الضارة. من خلال تمكين مدقق الويب، ستواجه مصادر إزعاج أقل عندما تستخدم الإنترنت. سيعمل المتصفح بشكل أسرع بالإجمال، وستستخدم مقدارًا أقل من النطاق الترددي لتنزيل الإعلانات وستضمن حمايتك من أجهزة التعقب والمجالات التي تستخدم البرامج الضارة.</string>
+  <string name="webrefiner_ads">إعلان</string>
+  <string name="webrefiner_ads_plural">إعلانات</string>
+  <string name="webrefiner_malware">برامج ضارة</string>
+  <string name="webrefiner_one_message">تم حظر %s.</string>
+  <string name="webrefiner_three_message">تم حظر %1$s و‏%2$s و‏%3$‎.s</string>
+  <string name="webrefiner_trackers">جهاز تعقب</string>
+  <string name="webrefiner_trackers_plural">أجهزة تعقب</string>
+  <string name="webrefiner_two_message">تم حظر %1$s و%2$s.</string>
+  <string name="website_settings_category_disabled">معطلة</string>
+  <string name="website_settings_category_enabled">ممكنة</string>
+  <string name="website_settings_fullscreen">"ملء الشاشة"</string>
+  <string name="website_settings_security_title">معلومات الأمان</string>
+  <string name="website_settings_webdefender_brief_message">لن تتسرب المعلومات القابلة للتعقب إلى مجالات %1$s المتصلة.</string>
+  <string name="website_settings_webdefender_cookie">وحدة تخزين ملف تعريف الارتباط</string>
+  <string name="website_settings_webdefender_disabled">لست محميًا من مجالات الجهات الخارجية التي تتعقبك.</string>
+  <string name="website_settings_webdefender_disabled_count">لست محميًا من مجالات الجهات الخارجية %1$s التي تتعقبك.</string>
+  <string name="website_settings_webdefender_enabled">برنامج الحماية على الويب ممكن</string>
+  <string name="website_settings_webdefender_fingerprint">تسجيل بصمة الإصبع</string>
+  <string name="website_settings_webdefender_font_enum">تعداد الخطوط</string>
+  <string name="website_settings_webdefender_html5">وحدة تخزين لغة HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">مقياس الخصوصية</string>
+  <string name="website_settings_webdefender_tracking_list">إعدادات المجال المتصل:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">لم يتم اكتشافه</string>
+  <string name="website_settings_webdefender_tracking_vectors">تعقب المتجهات في المجالات المتصلة:</string>
+  <string name="website_settings_webdefender_vector_allow">السماح</string>
+  <string name="website_settings_webdefender_vector_not_connect">عدم الاتصال</string>
+  <string name="website_settings_webdefender_vector_strip">ايقاف استخدام المتجهات والاتصال</string>
+  <string name="website_settings_webdefender_vector_system_default">أترك الخيار لك</string>
+  <string name="website_settings_webrefiner_disabled">حظر المحتوى معطل</string>
+  <string name="website_settings_webrefiner_enabled">حظر المحتوى ممكن</string>
+</resources>

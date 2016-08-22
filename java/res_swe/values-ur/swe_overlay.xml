@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">براؤزر لانچ کریں</string>
+  <string name="android_permission_off">&lt;link&gt;انڈرائیڈ ترتیبات&lt;/link&gt; میں براؤزر کرنے کے لیے اجازت آن کریں۔</string>
+  <string name="android_permission_off_plural">&lt;link&gt;انڈرائیڈ ترتیبات&lt;/link&gt; میں براؤزر کرنے کے لیے اجازتیں آن کریں۔</string>
+  <string name="app_name">ﺏﺭﺍﺅژﺭ</string>
+  <string name="background_audio_reload_tip_text">ویب صفحہ کے پیش منظر نہ ہونے پر آڈیو چلانا جاری رکھنے کے لیے ویڈیو فعال کریں۔</string>
+  <string name="background_audio_title">پیش منظر آڈیو</string>
+  <string name="block_screen_observers_summary">دیگر ایپلیکیشنز سے براؤژر اسکرین کیپچر کرنے کی اجازت یا بلاک کریں</string>
+  <string name="block_screen_observers_title">اسکرین مشاہدہ کار کو بلاک کریں</string>
+  <string name="fre_send_report_check">استعمال کے اعدادوشمار اور کریش رپورٹس کی رپورٹ کرکے بہتر براؤژر بنانے میں مدد کریں۔</string>
+  <string name="fre_tos_and_privacy">اس ایپلیکیشن کو استعمال کرکے، آپ براؤژر کے &lt;LINK1&gt;خدمت کی شرائط&lt;/LINK1&gt; اور &lt;LINK2&gt;رازداری کی نوٹس&lt;/LINK2&gt; سے اتفاق کرتے ہیں۔</string>
+  <string name="fre_welcome">براؤژر میں خوش آمدید</string>
+  <string name="infobar_missing_camera_permission_text">براؤژر کو اس سائٹ کے ساتھ شراکت کرنے کے لیے کیمرہ تک رسائی ضرورت ہے۔</string>
+  <string name="infobar_missing_location_permission_text">براؤژر کو اس سائٹ کے ساتھ شراکت کرنے کے لیے محل وقوع تک رسائی ضرورت ہے۔</string>
+  <string name="infobar_missing_microphone_permission_text">براؤژر کو اس سائٹ کے ساتھ شراکت کرنے کے لیے مائیکروفون تک رسائی ضرورت ہے۔</string>
+  <string name="infobar_missing_multiple_permissions_text">براؤژر کو اس سائٹ کے ساتھ شراکت کرنے کے لیے اجازتوں کی رسائی ضرورت ہے۔</string>
+  <string name="menu_load_live_page_for_offline_page">لائیو جائیں</string>
+  <string name="menu_open_in_chrome">براؤژر میں کھولیں</string>
+  <string name="most_visited">سب سے عام</string>
+  <string name="native_startup_failed">براؤژر ایک غیر متوقع غلطی کے ساتھ شروع کرنے کے دوران ناکام ہوگیا۔</string>
+  <string name="night_mode_reload_tip_text">تاریکی میں اپنی آنکھوں پر براؤژنگ زیادہ آسان بنانے کے لیے نائٹ موڈ استعمال کریں۔</string>
+  <string name="night_mode_title">نائٹ موڈ</string>
+  <string name="powered_by_chrome_message">Chromium کے ذریعہ پاور شدہ</string>
+  <string name="powersave_mode_opt_in_confirmation">پاور بچت کی بہتری آن کردیا جائے گا۔</string>
+  <string name="powersave_mode_opt_out_confirmation">پاور بچت کی بہتری آف کردیا جائے گا۔</string>
+  <string name="powersave_mode_tip_text">پاور بچت موڈ کی ترتیب ممکنہ طورپر آپ کے براؤژر کے بیٹری کی زندگی کو بہتر کرنے کی ترتیب میں صارف کے تجربہ پر مؤثر ہوگا</string>
+  <string name="powersave_mode_title">پاور بچت موڈ</string>
+  <string name="powersave_mode_turn_off_title">پاور بچت موڈ کو غیر فعال کریں</string>
+  <string name="powersave_mode_turn_on_title">پاور بچت موڈ کو فعال کریں</string>
+  <string name="prefs_about_chrome">بارے میں</string>
+  <string name="privacy_notice_title">براؤژر کی رازداری نوٹس</string>
+  <string name="ssl_error">سائٹ کا SSL سرٹیفکیٹ غیرمجاز ہے</string>
+  <string name="ssl_secure">سائٹ کا SSL سرٹیفیکیٹ مجاز ہے۔ مواصلت خفیہ کاری کردی گئی ہے اور شناخت کی تصدیق کی گئی ہے</string>
+  <string name="ssl_warning">سائٹ SSL سرٹیفکیٹ میں انتباہات ہیں</string>
+  <string name="terms_of_service_title">خدمت کی شرائط براؤژر کریں</string>
+  <string name="tooltip_favicon_change_search_engine">تلاش انجن تبدیل کرنے کے لئے یہاں ٹچ کریں۔</string>
+  <string name="tooltip_favicon_change_site_settings">حالیہ ویب سائٹ کی ترجیحات کو تبدیل کرنے کے لیے، بشمول مواد فلٹر کرکے یہاں تھپکی دیں۔</string>
+  <string name="tooltip_favicon_content_blocking_info">مواد فلٹر کاری فعال ہے۔ مزید معلومات کے لیے یہاں ٹچ کریں۔</string>
+  <string name="tooltip_favicon_site_integrity_check">مواد فلٹرنگ فعال ہے۔ اگر اس ویب سائٹ پر مسائل ہیں، تو اس آئیکن کو ٹچ کریں اور مواد فلٹرکاری غیرفعال کرنے کی کوشش کریں۔</string>
+  <string name="unsupported_number_of_windows">مثال کے طورپر براؤژر کی تعداد غیر تعاون یافتہ ہے۔</string>
+  <string name="web_defender_about_text">ویب دفاع کنندہ آپ کی ویزٹ کردہ اور ذاتی طورپر قابل شناخت معلومات ویب سائٹ کے متعلق معلومات جمع کرنے سے تیسری فریق ٹریکرز (بشمول مشتہرین) کو بچانے کے لیے انٹیلی جینس مشین استعمال کرتا ہے۔ اگر ایک براؤژر آپ کی سرگرمیاں بہت سے ویب سائٹ میں ٹریکنگ کررہا ہے، تو ویب دفاع کنندہ خودبخود مشاہدہ کار کو آپ کے براؤژر میں کہیں زیادہ مواد کو لوڈ کرنے سے بلاک کردے تا ہے۔</string>
+  <string name="web_refiner_about_text">ویب ریفائنر اس مواد فلٹرکاری کا جزو ہے جو آپ کو اشتہارات، ٹریکرز اور مال ویئر ڈومینز بلاک کرنے کی اجازت دیتا ہے۔ ویب ریفائنر کے ساتھ فعال کردہ ہے، آپ انٹرنیٹ نیویگیشن کے وقت کم الجھنوں کے شکار ہوں گے۔ آپ کا ویب براؤژر عام طورپر تیز چلے گا، آپ کم بینڈوتھ ڈاؤن لوڈ اشتہارات ضائع کریں گے، اور آپ کو ٹریکرز اور مال ویئر ڈومینز سے محفوظ کیا جائے گا۔</string>
+  <string name="webrefiner_ads">اشتہار</string>
+  <string name="webrefiner_ads_plural">اشتہارات</string>
+  <string name="webrefiner_malware">مال ویئر</string>
+  <string name="webrefiner_one_message">ہم نے %s بلاک کردیا ہے۔</string>
+  <string name="webrefiner_three_message">ہم نے %1$s, %2$s اور %3$s کو بلاک کردیا ہے۔</string>
+  <string name="webrefiner_trackers">ٹریکر</string>
+  <string name="webrefiner_trackers_plural">ٹریکرز</string>
+  <string name="webrefiner_two_message">ہم نے %1$s اور %2$s کو بلاک کیا ہے۔</string>
+  <string name="website_settings_category_disabled">غیرفعال شدہ</string>
+  <string name="website_settings_category_enabled">فعال کردہ</string>
+  <string name="website_settings_security_title">سیکیورٹی کی معلومات</string>
+  <string name="website_settings_webdefender_brief_message">موجود معلومات کو %1$s سے مربوط ڈومینز کو لیک نہیں کیا جائے گا۔</string>
+  <string name="website_settings_webdefender_cookie">کوکی اسٹوریج</string>
+  <string name="website_settings_webdefender_disabled">آپ تیسری فریق ٹریکنگ ڈومینز کے خلاف محفوظ نہیں ہیں۔</string>
+  <string name="website_settings_webdefender_disabled_count">آپ %1$s تیسری فریق ٹریکنگ ڈومینز کے خلاف محفوظ نہیں ہیں۔</string>
+  <string name="website_settings_webdefender_enabled">ویب دفاع کنندہ فعال کردہ ہے</string>
+  <string name="website_settings_webdefender_fingerprint">فنگر پرنٹنگ</string>
+  <string name="website_settings_webdefender_font_enum">فونٹ شمار</string>
+  <string name="website_settings_webdefender_html5">HTML5 اسٹوریج</string>
+  <string name="website_settings_webdefender_privacy_meter_title">رازداری معاملہ</string>
+  <string name="website_settings_webdefender_tracking_list">مربوط ڈومین ترتیبات:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">دریافت نہیں کیا گیا</string>
+  <string name="website_settings_webdefender_tracking_vectors">مربوط ڈومینز پر ٹریکنگ وکٹرز:</string>
+  <string name="website_settings_webdefender_vector_allow">اجازت دیں</string>
+  <string name="website_settings_webdefender_vector_not_connect">نہ جڑیں</string>
+  <string name="website_settings_webdefender_vector_strip">اسٹرپ وکٹرز اور رابطہ</string>
+  <string name="website_settings_webdefender_vector_system_default">میرے لیے فیصلہ کریں</string>
+  <string name="website_settings_webrefiner_disabled">مواد بلاک کرنا غیرفعال شدہ ہے</string>
+  <string name="website_settings_webrefiner_enabled">مواد بلاک کرنا فعال کردہ ہے</string>
+</resources>

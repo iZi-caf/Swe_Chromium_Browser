@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">ចាប់​ផ្ដើមកម្មវិធី​រុករក?</string>
+  <string name="android_permission_off">បើក​សិទ្ធិ​សម្រាប់​កម្មវិ​ធី​រុករក​ក្នុង &lt;link&gt;ការ​កំណត់ Android&lt;/link&gt;។</string>
+  <string name="android_permission_off_plural">បើក​សិទ្ធិ​សម្រាប់​កម្មវិធី​រុករក​ក្នុង &lt;link&gt;ការ​កំណត់ Android&lt;/link&gt;។</string>
+  <string name="app_name">កម្មវិធីអ៊ីនធឺណិត</string>
+  <string name="background_audio_reload_tip_text">បើក​មាតិកា​វីដេអូ​ដើម្បី​បន្ត​លេង​អូឌីយ៉ូ​នៅ​ពេល​ទំព័រ​បណ្ដាញ​មិន​​ស្ថិត​ក្នុង​ផ្ទៃ​ខាង​មុខ។</string>
+  <string name="background_audio_title">អូឌីយ៉ូ​ក្នុង​ផ្ទៃ​ខាង​ក្រោយ</string>
+  <string name="block_screen_observers_summary">អនុញ្ញាត ឬ​ទប់ស្កាត់​​ការ​ថត​អេក្រង់​កម្មវិធី​រុករក​ពី​កម្មវិធី​ផ្សេង</string>
+  <string name="block_screen_observers_title">ទប់ស្កាត់​កម្មវិធី​សង្កេត​មើល​អេក្រង់</string>
+  <string name="fre_send_report_check">ជួយ​ធ្វើ​ឲ្យ​កម្មវិធី​រុករក​កាន់តែ​ប្រសើរ​ដោយ​រាយការណ៍​ស្ថិតិ​ប្រើ និង​របាយការណ៍​គាំង។</string>
+  <string name="fre_tos_and_privacy">ដោយ​ប្រើ​កម្មវិធី​នេះ អ្នក​យល់​ស្រប​នឹង &lt;LINK1&gt;លក្ខខណ្ឌ​ប្រើប្រាស់&lt;/LINK1&gt; និង &lt;LINK2&gt;ការ​ជូន​ដំណឹង​ភាព​ឯកជន&lt;/LINK2&gt;របស់​កម្មវិធី​រុករក។</string>
+  <string name="fre_welcome">សូមស្វាគមន៍​មក​កាន់​កម្មវិធី​រុករក</string>
+  <string name="infobar_missing_camera_permission_text">កម្មវិធី​រុករក​ត្រូវ​ការ​ចូល​ប្រើ​កាមេរ៉ា ដើម្បី​ចែករំលែក​វា​ជា​មួយ​វេបសាយ​នេះ។</string>
+  <string name="infobar_missing_location_permission_text">កម្មវិធី​រុករក​ត្រូវ​ការ​ចូល​ប្រើ​ទីតាំង​ដើម្បី​ចែករំលែកជា​​មួយ​វេបសាយ​នេះ។</string>
+  <string name="infobar_missing_microphone_permission_text">កម្មវិធី​រុករក​ត្រូវ​ការ​ចូល​ប្រើ​​មីក្រូហ្វូន ​ដើម្បី​ចែករំលែកជា​​មួយ​វេបសាយ​នេះ។</string>
+  <string name="infobar_missing_multiple_permissions_text">កម្មវិធី​រុករក​ត្រូវ​ការ​​សិទ្ធិ​​ចូល​ដំណើរការ ​ដើម្បី​ចែករំលែកជា​​មួយ​វេបសាយ​នេះ។</string>
+  <string name="menu_load_live_page_for_offline_page">​ចូល​ទៅការ​ផ្សាយ​ផ្ទាល់</string>
+  <string name="menu_open_in_chrome">បើក​ក្នុង​កម្មវិធី​រុករក</string>
+  <string name="most_visited">ញឹកញាប់​បំផុត</string>
+  <string name="native_startup_failed">កម្មវិធី​រុករក​បាន​បរាជ័យ​អំឡុង​ពេល​ចាប់ផ្ដើម​ជា​មួយ​កំហុស​ដែល​មិន​រំពឹង​ទុក។</string>
+  <string name="night_mode_reload_tip_text">ប្រើ​ទម្រង់​ពេលយប់ ដើម្បី​ធ្វើ​ឲ្យ​កម្មវិធី​រុករក​កាន់តែងាយស្រួល​សម្រាប់ភ្នែក​របស់​អ្នក​នៅ​ទី​ងងឹត។</string>
+  <string name="night_mode_title">ទម្រង់ពេល​​យប់</string>
+  <string name="powered_by_chrome_message">បាន​ផ្ដល់​ដោយ Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">ការ​កែលម្អ​ការ​សន្សំ​ថាមពល​នឹង​ត្រូវ​បាន​បើក។</string>
+  <string name="powersave_mode_opt_out_confirmation">ការ​កែលម្អ​ការ​សន្សំ​ថាមពល​នឹង​ត្រូវ​បាន​បិទ។</string>
+  <string name="powersave_mode_tip_text">ការ​កំណត់​ទម្រង់​សន្សំ​ថាមពល​​នឹង​ប៉ះពាល់​ដល់​បទ​ពិសោធន៍​អ្នក​ប្រើ​ ដើម្បី​កែលម្អ​អាយុ​ថ្ម​សម្រាប់​កម្មវិធី​រុករក​របស់​​អ្នក</string>
+  <string name="powersave_mode_title">ទម្រង់​សន្សំ​​ថាមពល</string>
+  <string name="powersave_mode_turn_off_title">បិទ​ទម្រង់​​សន្សំ​​ថាមពល</string>
+  <string name="powersave_mode_turn_on_title">បើក​​ទម្រង់​​សន្សំ​​ថាមពល</string>
+  <string name="prefs_about_chrome">អំពី</string>
+  <string name="privacy_notice_title">កា​រជូន​ដំណឹង​ភាព​ឯកជន​របស់​កម្មវិធី​រុករក</string>
+  <string name="ssl_error">វេបសាយ​មាន​វិញ្ញាបនបត្រ SSL មិន​ត្រឹមត្រូវ។</string>
+  <string name="ssl_secure">វិញ្ញាបនបត្រ​ SSL របស់​វេបសាយ​គឺ​ត្រឹមត្រូវ។ ការ​ប្រាស្រ័យ​ទាក់ទង​ត្រូ​វបាន​ដាក់​លេខ​កូដ និង​អត្តសញ្ញាណ​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់</string>
+  <string name="ssl_warning">វិញ្ញាបនបត្រ​ SSL វេបសាមាន​ការ​ព្រមាន។</string>
+  <string name="terms_of_service_title">លក្ខខណ្ឌ​​ប្រើប្រាស់​កម្មវិធី​រុករក</string>
+  <string name="tooltip_favicon_change_search_engine">ប៉ះ​ដើម្បី​ប្ដូរ​ម៉ាស៊ីន​ស្វែងរក។</string>
+  <string name="tooltip_favicon_change_site_settings">ប៉ះ​ទីនេះ ដើម្បី ប្ដូរ​ចំណូល​ចិត្ត​សម្រាប់​វេបសាយ​បច្ចុប្បន្ន រួមមាន​ការ​ច្រោះ​​មាតិកា។</string>
+  <string name="tooltip_favicon_content_blocking_info">ការ​ច្រោះ​មាតិកា​​សកម្ម។ ប៉ះ​ទីនេះ​សម្រាប់​ព័ត៌មាន​ប​ន្ថែម។</string>
+  <string name="tooltip_favicon_site_integrity_check">ការ​ច្រោះ​មាតិកា​សកម្ម។ បើ​មាន​បញ្ហា​លើ​វេបសាយ​នេះ ប៉ះ​រូប​តំណាង​នេះ​ ហើយ​ព្យាយាម​បិទ​ការ​ច្រោះ​មាតិកា។</string>
+  <string name="unsupported_number_of_windows">ចំនួន​ធាតុ​កម្មវិធី​រុករក​មិន​បាន​គាំទ្រ។</string>
+  <string name="web_defender_about_text">កម្មវិធី​ការពារ​បណ្ដាញ​ប្រើ​ភាព​វៃឆ្លាត​របស់​ម៉ាស៊ីន​ដើម្បី​ការពារ​កម្មវិធី​តាមដានរបស់​ភាគី​ទីបី (រួមមាន​អ្នក​ផ្សព្វផ្សាយ​ពាណិជ្ជកម្ម) ពី​ការ​ប្រមូល​ព័ត៌មាន​អំពី​វេបសាយ​ដែល​អ្នក​មើមល និង​ព័ត៌មាន​អត្តសញ្ញាណ​ផ្ទាល់​ខ្លួន។ បើ​កម្មវិធី​សង្កេត​ត្រូវ​បាន​ចាប់​ការ​តាមដាន​សកម្មភាព​របស់​អ្នក​លើ​វេបសាយ​ជា​ច្រើន កម្មវិធី​ការពារ​បណ្ដាញ​ទប់ស្កាត់​កម្មវិធី​សង្កេត​មើល​នោះ​ដោយ​ស្វ័យ​ប្រវត្តិ​ពី​ការ​ផ្ទុក​មាតិកា​ច្រើន​ទៀត​ក្នុង​កម្មវិធី​រុករក​របស់​អ្នក។</string>
+  <string name="web_refiner_about_text">កម្មវិធី​​សម្អាត​បណ្ដាញ​គឺ​ជា​សមាសធាតុ​ច្រោះ​មាតិកា​ដែល​អនុញ្ញាត​ឲ្យ​ទប់ស្កាត់​ពាណិជ្ជកម្ម, កម្មវិធី​តាមដាន និងដែន​កម្មវិធី​មេរោគ។ ដោយ​បើក​កម្មវិធី​សម្អាត​បណ្ដាញ អ្នកនឹង​​មិន​ទទួល​ការ​រំខាន​ច្រើន​នៅ​ពេល​រកមើល​លើ​អ៊ីនធឺណិត​ទេ។ កម្មវិធី​រុករក​បណ្ដាញ​របស់​អ្នក​ដំណើរការ​​កាន់តែ​លឿន អ្នក​នឹង​ចំណាយ​​​កម្រិត​បញ្ជូន​តិច​ក្នុងការ​ទាញយក​ពាណិជ្ជកម្ម ហើយ​អ្នកនឹង​ត្រូ​វបានការពារ​ពី​កម្មវិធី​តាមដាន និង​ដែន​មេរោគ។</string>
+  <string name="webrefiner_ads">ការ​ផ្សាយ​ពាណិជ្ជកម្ម</string>
+  <string name="webrefiner_ads_plural">ការ​ផ្សាយ​ពាណិជ្ជកម្ម</string>
+  <string name="webrefiner_malware">មេរោគ</string>
+  <string name="webrefiner_one_message">យើង​បាន​ទប់ស្កាត់ %s។</string>
+  <string name="webrefiner_three_message">យើង​បាន​ទប់ស្កាត់ %1$s, %2$s និង %3$s។</string>
+  <string name="webrefiner_trackers">កម្មវិធី​តាមដាន</string>
+  <string name="webrefiner_trackers_plural">កម្មវិធីតាមដាន</string>
+  <string name="webrefiner_two_message">យើង​បាន​ទប់ស្កាត់ %1$s និង %2$s។</string>
+  <string name="website_settings_category_disabled">បាន​បិទ</string>
+  <string name="website_settings_category_enabled">បាន​បើក</string>
+  <string name="website_settings_security_title">ព័ត៌មានសុវត្ថិភាព</string>
+  <string name="website_settings_webdefender_brief_message">ព័ត៌មាន​ដែល​អាច​តាមដាន​បាន​នឹង​មិន​ត្រូវ​បាន​លេច​ធ្លាយដល់​​ដែន​ដែល​បាន​ប្រមូល %1$s ទេ។</string>
+  <string name="website_settings_webdefender_cookie">ការ​រក្សាទុក​ខូគី</string>
+  <string name="website_settings_webdefender_disabled">អ្នក​មិន​ត្រូវ​បាន​ការពារ​ប្រឆាំង​នឹង​ដែន​តាមដាន​ភាគី​ទីបី​ទេ។</string>
+  <string name="website_settings_webdefender_disabled_count">អ្នកមិន​ត្រូវ​បាន​ការពារ​ប្រឆាំង​នឹងដែនតាមដាន​ភាគីទីបី​ %1$s។</string>
+  <string name="website_settings_webdefender_enabled">កម្មវិធី​ការពារ​បណ្ដាញ​​ត្រូវ​បាន​បើក</string>
+  <string name="website_settings_webdefender_fingerprint">ស្នាមម្រាមដៃ</string>
+  <string name="website_settings_webdefender_font_enum">កា​រាយ​ពុម្ពអក្សរ</string>
+  <string name="website_settings_webdefender_html5">ការ​រក្សាទុក HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">ម៉ែត្រ​វាស់​ភាព​ឯកជន</string>
+  <string name="website_settings_webdefender_tracking_list">ការ​កំណត់​ដែន​ដែល​បាន​ប្រមូល៖</string>
+  <string name="website_settings_webdefender_tracking_not_detected">រក​មិន​ឃើញ</string>
+  <string name="website_settings_webdefender_tracking_vectors">វ៉ិចទ័រ​តាមដាន​លើ​ដែន​បាន​តភ្ជាប់៖</string>
+  <string name="website_settings_webdefender_vector_allow">អនុញ្ញាត​</string>
+  <string name="website_settings_webdefender_vector_not_connect">មិន​បានត​ភ្ជាប់</string>
+  <string name="website_settings_webdefender_vector_strip">វ៉ិចទ័រដកហូត និងតភ្ជាប់</string>
+  <string name="website_settings_webdefender_vector_system_default">សម្រេចចិត្ត​សម្រាប់​ខ្ញុំ</string>
+  <string name="website_settings_webrefiner_disabled">ការ​ទប់ស្កាត់​មាតិកា​ត្រូ​វបាន​បិទ</string>
+  <string name="website_settings_webrefiner_enabled">ការ​ទប់ស្កាត់​មាតិកា​ត្រូវ​បាន​បើក</string>
+</resources>

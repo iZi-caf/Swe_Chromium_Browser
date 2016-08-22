@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Ilunsad ang Browser</string>
+  <string name="account_management_add_account_title">"Idagdag account kay %1$s"</string>
+  <string name="account_management_title">"Mga Account"</string>
+  <string name="android_permission_off">I-on ang pahintulot para sa Browser sa &lt;link&gt;Mga Setting ng Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">I-on ang mga pahintulot para sa Browser sa &lt;link&gt;Mga Setting ng Android&lt;/link&gt;.</string>
+  <string name="app_name">Browser</string>
+  <string name="background_audio_reload_tip_text">Nagbibigay-daan sa content na video na magpatuloy sa pag-play ng audio kapag wala sa harap ang webpage.</string>
+  <string name="background_audio_title">Audio sa background</string>
+  <string name="block_screen_observers_summary">Payagan o i-block ang pagkuha ng screen ng browser mula sa iba pang mga application</string>
+  <string name="block_screen_observers_title">I-block ang mga observer ng screen</string>
+  <string name="can_not_clear_browsing_history_toast">"Hindi maki-clear ang history ng pagba-browse gamit ang mga account para sa mga bata"</string>
+  <string name="clear_cache_title">"Cache"</string>
+  <string name="clear_cookies_and_site_data_title">"Cookies, data ng site"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Hindi ka masa-sign out sa iyong &lt;link&gt;Mga Google Account&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"I-clear"</string>
+  <string name="common_google_play_services_enable_button">"Enable Google Play services"</string>
+  <string name="common_google_play_services_enable_title">"Paganahin ang Google Play services"</string>
+  <string name="common_google_play_services_install_button">"Kumuha ng Google Play services"</string>
+  <string name="common_google_play_services_install_title">"Kumuha ng mga serbisyo ng Google Play"</string>
+  <string name="common_google_play_services_invalid_account_text">"Hindi umiiral ang tinukoy na account sa device na ito. Mangyaring pumili ng ibang account."</string>
+  <string name="common_google_play_services_invalid_account_title">"Di-wasto ang Account"</string>
+  <string name="common_google_play_services_network_error_title">"May Error sa Network"</string>
+  <string name="common_google_play_services_notification_ticker">"Error sa Mga Serbisyo ng Google Play"</string>
+  <string name="common_google_play_services_sign_in_failed_text">"Error sa pagsa-sign in sa tinukoy na account. Pakipili ng ibang account."</string>
+  <string name="common_google_play_services_unknown_issue">"May hindi alam na isyu sa mga serbisyo ng Google Play."</string>
+  <string name="common_google_play_services_unsupported_text">"Sumasalalay ang </string>
+  <string name="common_signin_button_text">"Sign in"</string>
+  <string name="data_reduction_description">"Kapag naka-on ang feature na ito, gagamitin ng Chrome ang mga server ng Google para i-compress ang mga binibisita mong page bago sila i-download. Hindi isasama ang mga page na gumagamit ng SSL at incognito mode."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Na-detect ang mabagal na koneksyon."</string>
+  <string name="data_reduction_promo_summary">"Gumamit ng mas kaunting data sa pamamagitan ng paggamit sa Google upang i-optimize ang mga page na binibisita mo. Ang mga page na ina-access gamit ang HTTPS o Incognito ay hindi mao-optimize o makikita ng Google."</string>
+  <string name="do_not_track_description">"Kapag na-enable ang ‘Huwag Subaybayan’, nangangahulugan iyon na magsasama ng kahilingan sa iyong trapiko sa pagba-browse. Ang anumang epekto ay nakadepende sa kung tutugon ang isang website sa kahilingan, at kung paano bibigyang-kahulugan ang kahilingan.
+
+Halimbawa, maaaring tumugon ang ilang website sa kahilingang ito sa pamamagitan ng pagpapakita sa iyo ng mga ad na hindi batay sa iba pang mga website na binisita mo. Kukunin at gagamitin pa rin ng maraming website ang iyong data mula sa pagba-browse - halimbawa, upang paigtingin ang seguridad, upang magbigay ng content, mga ad at mga rekomendasyon sa kanilang mga website, at upang bumuo ng mga istatistika sa pag-uulat."</string>
+  <string name="do_not_track_title">"‘Huwag Subaybayan’"</string>
+  <string name="fre_send_report_check">Tumulong na pahusayin ang Browser sa pamamagitan ng pag-uulat ng mga istatistika ng paggamit at mga ulat ng pag-crash.</string>
+  <string name="fre_tos_and_privacy">Sa pamamagitan ng paggamit sa application na ito, sumasang-ayon ka sa &lt;LINK1&gt;Mga Tuntunin ng Serbisyo&lt;/LINK1&gt; at &lt;LINK2&gt;Abiso sa Privacy&lt;/LINK2&gt; ng Browser.</string>
+  <string name="fre_welcome">Welcome sa Browser</string>
+  <string name="fullscreen_api_notification">"Naging fullscreen na ang site na ito.
+Pindutin ang button na bumalik upang lumabas."</string>
+  <string name="fullscreen_permission_title">"Fullscreen"</string>
+  <string name="infobar_missing_camera_permission_text">Kailangan ng Browser ng access sa camera upang maibahagi ito sa site na ito.</string>
+  <string name="infobar_missing_location_permission_text">Kailangan ng Browser ng access sa lokasyon upang maibahagi ito sa site na ito.</string>
+  <string name="infobar_missing_microphone_permission_text">Kailangan ng Browser ng access sa mikropono upang maibahagi ito sa site na ito.</string>
+  <string name="infobar_missing_multiple_permissions_text">Kailangan ng Browser ng access sa mga pahintulot upang maibahagi ang mga iyon sa site na ito.</string>
+  <string name="kids_account">"Isa itong account ng bata"</string>
+  <string name="menu_load_live_page_for_offline_page">Gawing live</string>
+  <string name="menu_open_in_chrome">Buksan sa Browser</string>
+  <string name="most_visited">Pinakamadalas</string>
+  <string name="native_startup_failed">Hindi nasimulan ang Browser habang nag-ii-startup dahil sa hindi inaasahang error.</string>
+  <string name="network_predictions_title">"I-prefetch ang mga mapagkukunan ng page"</string>
+  <string name="new_tab_incognito_header">"Naging incognito ka."</string>
+  <string name="night_mode_reload_tip_text">Gamitin ang Night mode upang mas madali kang makapag-browse sa dilim.</string>
+  <string name="night_mode_title">Night mode</string>
+  <string name="passwords_auto_signin_description">"Awtomatikong mag-sign sa mga website gamit ang mga naimbak na kredensyal. Kapag naka-off ang feature, hihiling sa iyo ng pag-verify sa bawat pagkakataon bago ka mag-sign sa website."</string>
+  <string name="powered_by_chrome_message">Pinapagana ng Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Io-on ang mga pagpapahusay ng power saving.</string>
+  <string name="powersave_mode_opt_out_confirmation">Io-off ang mga pagpapahusay ng power saving.</string>
+  <string name="powersave_mode_tip_text">Maaaring maapektuhan ng setting ng Power saving mode ang karanasan ng user upang mapatagal ang baterya para sa iyong browser</string>
+  <string name="powersave_mode_title">Power saving mode</string>
+  <string name="powersave_mode_turn_off_title">I-disable ang Power-saving mode</string>
+  <string name="powersave_mode_turn_on_title">I-enable ang Power-saving mode</string>
+  <string name="prefs_about_chrome">Tungkol dito</string>
+  <string name="privacy_notice_title">Abiso sa Privacy ng Browser</string>
+  <string name="sad_tab_suggestions">"Kung madalas mo itong makita, subukan ang &lt;link&gt;mga suhestyon&lt;/link&gt; na ito."</string>
+  <string name="sign_in_to_chrome">"Mag-sign in sa Chrome"</string>
+  <string name="signout_message">"Ang data na nakaimbak sa device na ito pati na rin ang data na nakaimbak sa iyong Google Account ay mananatili sa dalawang lugar. Gayunpaman, hindi isi-synchronize sa pagitan ng mga ito ang bagong data o mga pagbabagong gagawin mo sa iyong data."</string>
+  <string name="signout_title">"Mag-sign out sa Chrome"</string>
+  <string name="ssl_error">May hindi wastong SSL certificate ang site</string>
+  <string name="ssl_secure">Wasto ang SSL certificate ng site. Naka-encrypt ang komunikasyon at nakumpirma ang pagkakakilanlan</string>
+  <string name="ssl_warning">May mga babala ang SSL certificate ng site</string>
+  <string name="sync_custom_passphrase">"Ang taong may passphrase mo lang ang makakabasa sa iyong na-encrypt na data. Hindi ipinadadala o iniimbak ng Google ang passphrase. Kung makakalimutan mo ang passphrase, kailangan mong i-reset ang pag-sync."</string>
+  <string name="sync_passphrase_reset_instructions">"Kung nakalimutan mo ang iyong passphrase, ihinto at i-reset ang Pag-sync sa pamamagitan ng &lt;link&gt;Dashboard ng Google&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"I-encrypt ang lahat gamit ang passphrase"</string>
+  <string name="tabs_and_apps_settings_description">"Tingnan ang iyong mga tab sa iba pang mga kamakailang app sa screen ng Pangkalahatang-ideya ng iyong telepono."</string>
+  <string name="terms_of_service_title">Mga Tuntunin ng Serbisyo ng Browser</string>
+  <string name="tooltip_favicon_change_search_engine">Pumindot dito upang palitan ang search engine.</string>
+  <string name="tooltip_favicon_change_site_settings">Pumindot dito upang palitan ang mga kagustuhan para sa kasalukuyang website, kabilang ang pag-filter ng content.</string>
+  <string name="tooltip_favicon_content_blocking_info">Aktibo ang pag-filter ng content. Pumindot dito para sa higit pang impormasyon.</string>
+  <string name="tooltip_favicon_site_integrity_check">Aktibo ang pag-filter ng content. Kung mayroong mga isyu sa website na ito, pindutin ang icon na ito at subukang i-disable ang pag-filter ng content.</string>
+  <string name="translate_options_source_hint">"Wika ng Page: ^1"</string>
+  <string name="translate_options_target_hint">"Wika ng Pagsasalin: ^1"</string>
+  <string name="unsupported_number_of_windows">Hindi sinusuportahang bilang ng instance ng Browser.</string>
+  <string name="web_defender_about_text">Ginagamit ng Web Defender ang husay ng machine upang pigilan ang mga third-party na tracker (kabilang ang mga advertiser) sa pagkolekta ng impormasyon tungkol sa mga website na binibisita mo at personal na nakakapagpakilalang impormasyon. Kung may mahuling observer na sumusubaybay sa iyong mga aktibidad sa maraming website, awtomatikong iba-block ng Web Defender ang observer na iyon sa paglo-load ng anumang iba pang content sa iyong browser.</string>
+  <string name="web_refiner_about_text">Ang Web Refiner ay isang a component na nagfi-filter ng content na nagbibigay-daan sa iyong mag-block ng mga ad, tracker at domain ng malware. Kapag naka-enable ang Web Refiner, mas kaunti ang mararanasan mong sagabal habang nagna-navigate ka sa Internet. Sa pangkalahatan, mas mabilis gagana ang iyong web browser, mas kaunting bandwidth ang magagamit mo sa pagda-download ng mga ad, at mapoprotektahan ka mula sa mga tracker at domain ng malware.</string>
+  <string name="webrefiner_ads">advertisement</string>
+  <string name="webrefiner_ads_plural">mga advertisement</string>
+  <string name="webrefiner_malware">malware</string>
+  <string name="webrefiner_one_message">Na-block namin ang %s.</string>
+  <string name="webrefiner_three_message">Na-block namin ang %1$s, %2$s at %3$s.</string>
+  <string name="webrefiner_trackers">tracker</string>
+  <string name="webrefiner_trackers_plural">mga tracker</string>
+  <string name="webrefiner_two_message">Na-block namin ang %1$s at %2$s.</string>
+  <string name="website_settings_category_disabled">Naka-disable</string>
+  <string name="website_settings_category_enabled">Naka-enable</string>
+  <string name="website_settings_fullscreen">"Fullscreen"</string>
+  <string name="website_settings_security_title">Impormasyon ng Seguridad</string>
+  <string name="website_settings_webdefender_brief_message">Hindi ilalabas sa %1$s (na) nakakonektang domain ang natutuntong impormasyon.</string>
+  <string name="website_settings_webdefender_cookie">Storage ng Cookie</string>
+  <string name="website_settings_webdefender_disabled">Hindi ka napoprotektahan laban sa third party na mga tracking domain.</string>
+  <string name="website_settings_webdefender_disabled_count">Hindi ka napoprotektahan laban sa %1$s (na) third party na mga tracking domain.</string>
+  <string name="website_settings_webdefender_enabled">Naka-enable ang Web Defender</string>
+  <string name="website_settings_webdefender_fingerprint">Pagkuha ng Fingerprint</string>
+  <string name="website_settings_webdefender_font_enum">Pag-aayos ng Font</string>
+  <string name="website_settings_webdefender_html5">Storage ng HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Sukatan ng Privacy</string>
+  <string name="website_settings_webdefender_tracking_list">Mga setting ng nakakonektang domain:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">hindi natunton</string>
+  <string name="website_settings_webdefender_tracking_vectors">Mga tracking vector sa mga nakakonektang domain:</string>
+  <string name="website_settings_webdefender_vector_allow">Payagan</string>
+  <string name="website_settings_webdefender_vector_not_connect">Huwag kumonekta</string>
+  <string name="website_settings_webdefender_vector_strip">Tanggalin ang mga vector at kumonekta</string>
+  <string name="website_settings_webdefender_vector_system_default">Magpasya para sa akin</string>
+  <string name="website_settings_webrefiner_disabled">Naka-disable ang pagba-block ng content</string>
+  <string name="website_settings_webrefiner_enabled">Naka-enable ang pagba-block ng content</string>
+</resources>

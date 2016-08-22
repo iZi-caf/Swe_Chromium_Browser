@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">ব্রাউজার চালু করুন</string>
+  <string name="android_permission_off">&lt;link&gt;Android সেটিংস&lt;/link&gt;-এ ব্রাউজারের জন্য অনুমতি চালু করুন।</string>
+  <string name="android_permission_off_plural">&lt;link&gt;Android সেটিংস&lt;/link&gt;-এ ব্রাউজারের জন্য অনুমতিগুলি চালু করুন।</string>
+  <string name="app_name">ব্রাউজার</string>
+  <string name="background_audio_reload_tip_text">ফোরগ্রাউন্ডে ওয়েবপৃষ্ঠা না থাকলে অডিও বাজিয়ে যাওয়া অবিরত রাখতে ভিডিও সামগ্রী সক্ষম করে।</string>
+  <string name="background_audio_title">ব্যাকগ্রাউন্ড অডিও</string>
+  <string name="block_screen_observers_summary">ব্রাউজারকে অন্যান্য অ্যাপ্লিকেশনগুলি থেকে স্ক্রিন ক্যাপচারিংয়ের অনুমতি দিন বা অবরুদ্ধ করুন</string>
+  <string name="block_screen_observers_title">স্ক্রিন পর্যবেক্ষকদের অবরুদ্ধ করুন</string>
+  <string name="fre_send_report_check">ব্যবহারের পরিসংখ্যান এবং ক্র্যাশ প্রতিবেদনগুলির রিপোর্ট করে ব্রাউজারকে আরো ভাল করে তুলতে সহায়তা করুন।</string>
+  <string name="fre_tos_and_privacy">এই অ্যাপ্লিকেশনটি ব্যবহার করে, আপনি ব্রাউজারের &lt;LINK1&gt;পরিষেবার শর্তাবলী&lt;/LINK1&gt; এবং &lt;LINK2&gt;গোপনীয়তা বিজ্ঞপ্তি&lt;/LINK2&gt;র সাথে সম্মত।</string>
+  <string name="fre_welcome">ব্রাউজারে স্বাগতম</string>
+  <string name="infobar_missing_camera_permission_text">ব্রাউজারের এটি এই সাইটটির সাথে শেয়ার করতে ক্যামেরায় অ্যাক্সেস প্রয়োজন।</string>
+  <string name="infobar_missing_location_permission_text">ব্রাউজারের এটি এই সাইটটির সাথে শেয়ার করতে অবস্থানে অ্যাক্সেস প্রয়োজন।</string>
+  <string name="infobar_missing_microphone_permission_text">ব্রাউজারের এটি এই সাইটটির সাথে শেয়ার করতে মাইক্রোফোনে অ্যাক্সেস প্রয়োজন।</string>
+  <string name="infobar_missing_multiple_permissions_text">ব্রাউজারের এটি এই সাইটটির সাথে শেয়ার করতে অনুমতিগুলিতে অ্যাক্সেস প্রয়োজন।</string>
+  <string name="menu_load_live_page_for_offline_page">লাইভে যান</string>
+  <string name="menu_open_in_chrome">ব্রাউজারে খুলুন</string>
+  <string name="most_visited">সর্বাধিক ঘনঘন</string>
+  <string name="native_startup_failed">একটি অপ্রত্যাশিত ত্রুটি সহ ব্রাউজার শুরুর সময় ব্যর্থ হয়েছে।</string>
+  <string name="night_mode_reload_tip_text">অন্ধকারে আপনার চোখের পক্ষে ব্রাউজিং আরো সহজ করতে রাত্রিকালীন মোড ব্যবহার করুন।</string>
+  <string name="night_mode_title">রাত্রিকালীন মোড</string>
+  <string name="powered_by_chrome_message">Chromium দ্বারা পরিচালিত</string>
+  <string name="powersave_mode_opt_in_confirmation">পাওয়ার সাশ্রয় উন্নতিগুলি চালু হবে।</string>
+  <string name="powersave_mode_opt_out_confirmation">পাওয়ার সাশ্রয় উন্নতিগুলি বন্ধ হবে।</string>
+  <string name="powersave_mode_tip_text">পাওয়ার সাশ্রয় মোডের সেটিং আপনার ব্রাউজারের জন্য ব্যাটারির আয়ুষ্কাল বাড়াতে সম্ভাব্য রূপে ব্যবহারকারীর অভিজ্ঞতাকে প্রভাবিত করবে</string>
+  <string name="powersave_mode_title">পাওয়ার সাশ্রয় মোড</string>
+  <string name="powersave_mode_turn_off_title">পাওয়ার সাশ্রয় মোড অক্ষম করুন</string>
+  <string name="powersave_mode_turn_on_title">পাওয়ার সাশ্রয় মোড সক্ষম করুন</string>
+  <string name="prefs_about_chrome">সম্বন্ধে</string>
+  <string name="privacy_notice_title">ব্রাউজার গোপনীয়তা বিজ্ঞপ্তি</string>
+  <string name="ssl_error">সাইটটিতে একটি অবৈধ SSL শংসাপত্র আছে।</string>
+  <string name="ssl_secure">সাইটের SSL শংসাপত্র অকার্যকর। কমিউনিকেশন এনক্রিপ্ট আছে এবং পরিচয় যাচাইকৃত।</string>
+  <string name="ssl_warning">সাইটের SSL শংসাপত্রে সতর্কতা আছে</string>
+  <string name="terms_of_service_title">ব্রাউজারের পরিষেবার শর্তাবলী</string>
+  <string name="tooltip_favicon_change_search_engine">অনুসন্ধান ইঞ্জিনটি পরিবর্তন করতে এখানে স্পর্শ করুন৷</string>
+  <string name="tooltip_favicon_change_site_settings">সামগ্রী ফিল্টারিং সহ বর্তমান ওয়েবসাইটের জন্য অগ্রাধিকারগুলি পরিবর্তন করতে এখানে স্পর্শ করুন।</string>
+  <string name="tooltip_favicon_content_blocking_info">সামগ্রী ফিল্টারিং সক্রিয়। আরো তথ্যের জন্য এখানে স্পর্শ করুন।</string>
+  <string name="tooltip_favicon_site_integrity_check">সামগ্রী ফিল্টারিং সক্রিয়। এই ওয়েবসাইটটিতে সমস্যা থেকে থাকলে এই আইকনটি স্পর্শ করুন এবং সামগ্রী ফিল্টারিংয়ের চেষ্টা করুন।</string>
+  <string name="unsupported_number_of_windows">অসমর্থিত সংখ্যক ব্রাউজারের নমুনা</string>
+  <string name="web_defender_about_text">ওয়েব ডিফেন্ডার তৃতীয় পক্ষের সামগ্রী ট্র্যাকারগুলিকে (তৎসহ বিজ্ঞাপনদাতাগণ) আপনার দেখা ওয়েবসাইটগুলি সম্বন্ধে তথ্য সংগ্রহ করা থেকে প্রতিরোধ করতে ইন্টেলিজেন্স মেশিন ব্যবহার করে। যদি কোনো পর্যবেক্ষক বিবিধ ওয়েবসাইট জুড়ে আপনার ক্রিয়াকলাপে নজরদারি রাখতে ধরা পড়ে তবে ওয়েব ডিফেন্ডার স্বয়ংক্রিয় ভাবে আপনার ব্রাউজার আর কোনো সামগ্রী লোড হওয়া থেকে অবরুদ্ধ করে।</string>
+  <string name="web_refiner_about_text">ওয়েব পরিশোধকারী হল একটি সামগ্রী ফিল্টারিং উপাদান, এটি আপনাকে বিজ্ঞাপনগুলি, ট্র্যাকারগুলি এবং ম্যালওয়্যার ডোমেনগুলি অবরুদ্ধ করতে অনুমতি দেয়। এই ওয়েব পরিশোধকারী সক্ষম সহ আপনি ইন্টারনেট নেভিগেট করার সময় স্বল্পতর উদ্বেগের সম্মুখীন হবেন। আপনার ওয়েব ব্রাউজার সাধারণ ভাবে আরো দ্রুত চালনা হবে, আপনি বিজ্ঞাপনগুলি ডাউনলোড করে স্বল্প ব্যান্ডউইথ অপব্যয় করবেন এবং আপনাকে ট্র্যাকারগুলি এবং ম্যালওয়্যার ডোমেনগুলি থেকে সুরক্ষিত রাখা হবে।</string>
+  <string name="webrefiner_ads">বিজ্ঞাপন</string>
+  <string name="webrefiner_ads_plural">বিজ্ঞাপনগুলি</string>
+  <string name="webrefiner_malware">ম্যালওয়্যার</string>
+  <string name="webrefiner_one_message">ওয়েব %s অবরুদ্ধ করেছে।</string>
+  <string name="webrefiner_three_message">ওয়েব %1$s, %2$s, এবং %3$s অবরুদ্ধ করেছে।</string>
+  <string name="webrefiner_trackers">ট্র্যাকার</string>
+  <string name="webrefiner_trackers_plural">ট্র্যাকারগুলি</string>
+  <string name="webrefiner_two_message">ওয়েব %1$s এবং %2$s অবরুদ্ধ করেছে।</string>
+  <string name="website_settings_category_disabled">অক্ষম করা হয়েছে</string>
+  <string name="website_settings_category_enabled">সক্ষম করা হয়েছে</string>
+  <string name="website_settings_security_title">সুরক্ষা তথ্য</string>
+  <string name="website_settings_webdefender_brief_message">নির্ধারণযোগ্য তথ্য %1$sটি সংযুক্ত ডোমেনে লিক হবে না।</string>
+  <string name="website_settings_webdefender_cookie">কুকি সঞ্চয়স্থান</string>
+  <string name="website_settings_webdefender_disabled">আপনি তৃতীয় পক্ষের ট্র্যাক করা ডোমেনগুলি থেকে সুরক্ষিত নন।</string>
+  <string name="website_settings_webdefender_disabled_count">আপনি %1$s তৃতীয় পক্ষের ট্র্যাক করা ডোমেনগুলি থেকে সুরক্ষিত নন।</string>
+  <string name="website_settings_webdefender_enabled">ওয়েব ডিফেন্ডার সক্ষম আছে</string>
+  <string name="website_settings_webdefender_fingerprint">ফিঙ্গারপ্রিন্ট</string>
+  <string name="website_settings_webdefender_font_enum">হরফ এনুমেরাশন</string>
+  <string name="website_settings_webdefender_html5">HTML5 সঞ্চয়স্থান</string>
+  <string name="website_settings_webdefender_privacy_meter_title">গোপনীয়্তার মিটার</string>
+  <string name="website_settings_webdefender_tracking_list">সংযুক্ত ডোমেন সেটিংস:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">শনাক্ত হয়নি</string>
+  <string name="website_settings_webdefender_tracking_vectors">সংযুক্ত ডোমেনগুলিতে ভেক্টরগুলিতে নজর রাখা:</string>
+  <string name="website_settings_webdefender_vector_allow">অনুমতি দিন</string>
+  <string name="website_settings_webdefender_vector_not_connect">সংযোগ করবেন না</string>
+  <string name="website_settings_webdefender_vector_strip">ভেক্টরগুলি উন্মুক্ত করে সংযুক্ত করুন</string>
+  <string name="website_settings_webdefender_vector_system_default">আমার জন্য স্থির করুন</string>
+  <string name="website_settings_webrefiner_disabled">সামগ্রী অবরোধ করা অক্ষম আছে</string>
+  <string name="website_settings_webrefiner_enabled">সামগ্রী অবরোধ করা সক্ষম আছে</string>
+</resources>

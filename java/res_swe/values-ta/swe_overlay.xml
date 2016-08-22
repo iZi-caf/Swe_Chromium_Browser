@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">உலாவியைத் துவக்கு</string>
+  <string name="android_permission_off">உலாவிக்கான அனுமதியை &lt;link&gt;ஆண்ட்ராய்டு அமைப்புகளில்&lt;/link&gt; இயக்கலாம்.</string>
+  <string name="android_permission_off_plural">உலாவிக்கான அனுமதிகளை &lt;link&gt;ஆண்ட்ராய்டு அமைப்புகளில்&lt;/link&gt; இயக்கலாம்.</string>
+  <string name="app_name">உலாவி</string>
+  <string name="background_audio_reload_tip_text">வலைப்பக்கம் முன்புலத்தில் இல்லாத போது தொடர்ந்து ஆடியோவை இயக்க, வீடியோ உள்ளடக்கத்தை இயக்குகிறது.</string>
+  <string name="background_audio_title">பின்னணி ஆடியோ</string>
+  <string name="block_screen_observers_summary">மற்ற பயன்பாடுகள் உலாவியின் திரையைப் படுமெடுப்பதைத் அனுமதித்தல் அல்லது தடுத்தல்</string>
+  <string name="block_screen_observers_title">திரை நோக்கர்களைத் தடுத்தல்</string>
+  <string name="fre_send_report_check">உபயோகப் புள்ளிவிவரங்களையும் சிதைவு அறிக்கைகளையும் குறித்து தெரிவிப்பதன் மூலம் உலாவியைச் சிறப்பானதாக்க உதவும்.</string>
+  <string name="fre_tos_and_privacy">இந்தப் பயன்பாட்டைப் பயன்படுத்துவதன் மூலம், நீங்கள் உலாவியின் &lt;LINK1&gt;சேவை விதிமுறைகள்&lt;/LINK1&gt; மற்றும் &lt;LINK2&gt;தனியுரிமை அறிவிப்பை&lt;/LINK2&gt; ஏற்றுக்கொள்கிறீர்கள்.</string>
+  <string name="fre_welcome">உலாவிக்கு வரவேற்கிறோம்</string>
+  <string name="infobar_missing_camera_permission_text">இந்தத் தளத்தில் பகிர்ந்துகொள்ள உலாவிக்கு கேமரா அணுகல் தேவை.</string>
+  <string name="infobar_missing_location_permission_text">இந்தத் தளத்தில் பகிர்ந்துகொள்ள உலாவிக்கு இருப்பிட அணுகல் தேவை.</string>
+  <string name="infobar_missing_microphone_permission_text">இந்தத் தளத்தில் பகிர்ந்துகொள்ள உலாவிக்கு மைக்ரோஃபோன் அணுகல் தேவை.</string>
+  <string name="infobar_missing_multiple_permissions_text">இந்தத் தளத்தில் பகிர்ந்துகொள்ளும் அனுமதிகள் உலாவிக்குத் தேவை.</string>
+  <string name="menu_load_live_page_for_offline_page">நேரலைக்குச் செல்க</string>
+  <string name="menu_open_in_chrome">உலாவியில் திற</string>
+  <string name="most_visited">மிகவும் அடிக்கடி</string>
+  <string name="native_startup_failed">எதிர்பாராத பிழையினால் உலாவியைத் துவக்குவதில் தோல்வி.</string>
+  <string name="night_mode_reload_tip_text">இருளான நேரத்தில் எளிதாக உலாவ, இரவுப் பயன்முறையைப் பயன்படுத்தவும்.</string>
+  <string name="night_mode_title">இரவு பயன்முறை</string>
+  <string name="powered_by_chrome_message">குரோமியம் தொழில்நுட்பத்தின் மூலம் வழங்கப்படுகிறது</string>
+  <string name="powersave_mode_opt_in_confirmation">பவர் சேமிப்பு மேம்பாடுகள் இயக்கப்படும்.</string>
+  <string name="powersave_mode_opt_out_confirmation">பவர் சேமிப்பு மேம்பாடுகள் அணைக்கப்படும்.</string>
+  <string name="powersave_mode_tip_text">உங்கள் உலாவியின் பேட்டரி ஆயுளை மேம்படுத்துவதற்காக, பவர் சேமிப்பு பயன்முறையானது பயனரின் உபயோக அனுபவத்தைப் பாதிக்கும் சாத்தியமுள்ளது</string>
+  <string name="powersave_mode_title">பவர் சேமிப்பு பயன்முறை</string>
+  <string name="powersave_mode_turn_off_title">பவர் சேமிப்பு பயன்முறையை முடக்கவும்</string>
+  <string name="powersave_mode_turn_on_title">பவர் சேமிப்பு பயன்முறையை இயக்கவும்</string>
+  <string name="prefs_about_chrome">அறிமுகம்</string>
+  <string name="privacy_notice_title">உலாவியின் தனியுரிமை அறிக்கை</string>
+  <string name="ssl_error">தளமானது செல்லாத SSL சான்றிதழைக் கொண்டுள்ளது</string>
+  <string name="ssl_secure">தளத்தின் SSL சான்றிதழ் செல்லுபடியானது. தகவல்தொடர்பு குறியாக்கப்பட்டது மற்றும் அடையாளம் சரிபார்க்கப்பட்டது</string>
+  <string name="ssl_warning">தளத்தின் SSL சான்றிதழ் எச்சரிக்கைகளைக் கொண்டுள்ளது</string>
+  <string name="terms_of_service_title">உலாவி சேவை விதிமுறைகள்</string>
+  <string name="tooltip_favicon_change_search_engine">தேடு பொறியை மாற்ற, இங்கு தொடவும்.</string>
+  <string name="tooltip_favicon_change_site_settings">உள்ளடக்க வடிகட்டல் உட்பட தற்போதைய வலைத்தளத்திற்கான விருப்பங்களை மாற்ற, இங்கு தொடவும்.</string>
+  <string name="tooltip_favicon_content_blocking_info">உள்ளடக்க வடிகட்டல் செயலில் உள்ளது. மேலும் தகவல்களுக்கு இங்கு தொடவும்.</string>
+  <string name="tooltip_favicon_site_integrity_check">உள்ளடக்க வடிகட்டல் செயலில் உள்ளது. இந்த வலைத்தளத்தில் சிக்கல்கள் இருந்தால், இந்த ஐகானைத் தட்டி, உள்ளடக்க வடிகட்டலை முடக்கி முயற்சிக்கவும்.</string>
+  <string name="unsupported_number_of_windows">ஆதரிக்கப்படாத உலாவி நிகழ்வுகள்.</string>
+  <string name="web_defender_about_text">வெப் டிஃபென்டர் ஆனது நீங்கள் பார்க்கும் வலைத்தளங்கள் மற்றும் உங்களைத தனிப்பட்ட முறையில் அடையாளம் காணும் தகவல்களைச் சேகரிப்பதிலிருந்து மூன்றாம் தரப்பு டிராக்கர்களைத் (விளம்பரதாரர்கள் உட்பட) தடுபப்தற்கு கணினி செயற்கை அறிவைப் பயன்படுத்துகிறது. பல வலைத்தளங்களில் ஒரு கண்காணிப்பான் உங்கள் செயல்பாடுகளைக் கண்காணிப்பதைக் கண்டறிந்தால், வெப் டிஃபென்டர் ஆனது தானாகவே அந்தக் கண்காணிப்பானை வேறு எந்த உள்ளடக்கத்தையும் உங்கள் உலாவியில் ஏற்றுவதைத் தடுக்கிறது.</string>
+  <string name="web_refiner_about_text">வெப் ரிபைண்டர் என்பது விளம்பரங்கள், டிராக்கர்கள் மற்றும் தீப்பொருள் டொமைன்களைத் தடுக்க அனுமதிக்கும் உள்ளடக்க வடிகட்டுதல் கூறாகும். வெப் ரிபைண்டர் இயக்கப்பட்டிருந்தால், இணையத்தில் உலாவும் போது குறைவான இடையூறுகளையே எதிர்கொள்வீர்கள். உங்கள் வலை உலாவி பொதுவாக வேகமாக இயங்குவதுடன், விளம்பரங்களைப் பதிவிறக்கப் பயன்படுத்தப்படும் பேண்ட்வித்தும் மிச்சமாகும், அத்துடன் டிராக்கர்கள் மற்றும் தீப்பொருள் டொமைன்களுக்கு எதிரான பாதுகாப்பும் கிடைக்கும்.</string>
+  <string name="webrefiner_ads">விளம்பரம்</string>
+  <string name="webrefiner_ads_plural">விளம்பரங்கள்</string>
+  <string name="webrefiner_malware">தீப்பொருள்</string>
+  <string name="webrefiner_one_message">%s தடைசெய்யப்பட்டது.</string>
+  <string name="webrefiner_three_message">%1$s, %2$s மற்றும் %3$s ஆகியவற்றைத் தடுத்துள்ளோம்.</string>
+  <string name="webrefiner_trackers">ட்ராக்கர்</string>
+  <string name="webrefiner_trackers_plural">ட்ராக்கர்கள்</string>
+  <string name="webrefiner_two_message">%1$s மற்றும் %2$s ஆகியவற்றைத் தடுத்துள்ளோம்.</string>
+  <string name="website_settings_category_disabled">முடக்கப்பட்டது</string>
+  <string name="website_settings_category_enabled">இயக்கப்பட்டுள்ளது</string>
+  <string name="website_settings_security_title">பாதுகாப்புத் தகவல்கள்</string>
+  <string name="website_settings_webdefender_brief_message">%1$s இணைக்கப்பட்ட டொமைன்களுடன் டிராக்செய்யக்கூடிய தகவல்கள் பகிரப்படாது.</string>
+  <string name="website_settings_webdefender_cookie">குக்கீ சேமிப்பகம்</string>
+  <string name="website_settings_webdefender_disabled">மூன்றாம் தரப்பு டிராக்கிங் டொமைன்களுக்கு எதிரான பாதுகாப்பு உங்களுக்கு இல்லை.</string>
+  <string name="website_settings_webdefender_disabled_count">%1$s மூன்றாம் தரப்பு டிராக்கிங் டொமைன்களுக்கு எதிரான பாதுகாப்பு உங்களுக்கு இல்லை.</string>
+  <string name="website_settings_webdefender_enabled">வெப் டிஃபென்டர் இயக்கப்பட்டது</string>
+  <string name="website_settings_webdefender_fingerprint">கைரேகை</string>
+  <string name="website_settings_webdefender_font_enum">எழுத்துரு மதிப்பீடு</string>
+  <string name="website_settings_webdefender_html5">HTML5 சேமிப்பகம்</string>
+  <string name="website_settings_webdefender_privacy_meter_title">தனியுரிமை மீட்டர்</string>
+  <string name="website_settings_webdefender_tracking_list">இணைக்கப்பட்ட டொமைன் அமைப்புகள்:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">கண்டறியப்படவில்லை</string>
+  <string name="website_settings_webdefender_tracking_vectors">இணைக்கப்பட்ட டொமைன்களில் டிராக்கிங் வெக்டார்கள்:</string>
+  <string name="website_settings_webdefender_vector_allow">அனுமதி</string>
+  <string name="website_settings_webdefender_vector_not_connect">இணைக்க வேண்டாம்</string>
+  <string name="website_settings_webdefender_vector_strip">வெக்டார்களை அகற்றி, இணைக்கவும்</string>
+  <string name="website_settings_webdefender_vector_system_default">எனக்காகத் தீர்மானி</string>
+  <string name="website_settings_webrefiner_disabled">உள்ளடக்கத்தைத் தடுத்தல் முடக்கப்பட்டது</string>
+  <string name="website_settings_webrefiner_enabled">உள்ளடக்கத்தைத் தடுத்தல் இயக்கப்பட்டது</string>
+</resources>

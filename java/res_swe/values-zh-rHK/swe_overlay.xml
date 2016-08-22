@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="common_google_play_services_api_unavailable_text">"</string>
+  <string name="common_google_play_services_enable_text">"您必須啟用「Google Play 服務」，才能執行 </string>
+  <string name="common_google_play_services_install_button">"取得 Google Play 服務"</string>
+  <string name="common_google_play_services_install_text_phone">"您的手機未安裝「Google Play 服務」，安裝後才能執行 </string>
+  <string name="common_google_play_services_install_text_tablet">"您的平板電腦未安裝「Google Play 服務」，安裝後才能執行 </string>
+  <string name="common_google_play_services_install_title">"取得 Google Play 服務"</string>
+  <string name="common_google_play_services_invalid_account_text">"這個裝置上沒有您指定的帳戶，請選擇其他帳戶。"</string>
+  <string name="common_google_play_services_invalid_account_title">"無效的帳戶"</string>
+  <string name="common_google_play_services_network_error_text">"要連接 Google Play 服務，必需數據連線。"</string>
+  <string name="common_google_play_services_unknown_issue">"Google Play 服務出現不明問題。"</string>
+  <string name="common_google_play_services_unsupported_text">"</string>
+  <string name="common_google_play_services_update_text">"您必須更新「Google Play 服務」，才能執行 </string>
+  <string name="common_google_play_services_updating_text">"您的「Google Play 服務」目前正在更新，完成後才能執行 </string>
+  <string name="common_google_play_services_updating_title">"「Google Play 服務」正在更新"</string>
+  <string name="common_open_on_phone">"在手機中開啟"</string>
+  <string name="common_signin_button_text_long">"登入 Google"</string>
+</resources>

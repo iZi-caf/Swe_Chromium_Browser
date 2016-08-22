@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Lancer le navigateur</string>
+  <string name="account_management_add_account_title">"Ajouter compte pour %1$s"</string>
+  <string name="account_management_title">"Comptes"</string>
+  <string name="added_to_homescreen">"%1$s a été ajouté à votre écran d\'accueil."</string>
+  <string name="android_permission_off">Activer l\&amp;apos;autorisation pour le navigateur dans &lt;link&gt;Paramètres Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Activer les autorisations pour le navigateur dans &lt;link&gt;Paramètres Android&lt;/link&gt;.</string>
+  <string name="app_name">Navigateur</string>
+  <string name="background_audio_reload_tip_text">Permet au contenu vidéo de continuer à lire le fichier audio lorsqu\&amp;apos;une page Web n\&amp;apos;est pas au premier plan.</string>
+  <string name="background_audio_title">Fichier audio d\&amp;apos;arrière-plan</string>
+  <string name="block_screen_observers_summary">Autoriser ou bloquer la capture d\&amp;apos;écran par le navigateur à partir d\&amp;apos;autres applications</string>
+  <string name="block_screen_observers_title">Observateur d\&amp;apos;écran de blocage</string>
+  <string name="can_not_clear_browsing_history_toast">"L\'historique de navigation des comptes pour enfants ne peut être effacé."</string>
+  <string name="clear_cache_title">"Vider le cache"</string>
+  <string name="clear_cookies_and_site_data_title">"Effacer les cookies et les données du site"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Vous ne serez pas déconnecté de votre &lt;link&gt;compte Google&lt;/link&gt;."</string>
+  <string name="clear_data_delete">"Effacer"</string>
+  <string name="common_google_play_services_enable_button">"Activer services Google Play"</string>
+  <string name="common_google_play_services_install_button">"Installer services Google Play"</string>
+  <string name="common_google_play_services_invalid_account_title">"Compte erroné"</string>
+  <string name="common_google_play_services_unknown_issue">"Problème inconnu avec les services Google Play."</string>
+  <string name="common_signin_button_text">"Connexion"</string>
+  <string name="data_reduction_description">"Lorsque cette fonctionnalité est activée, les pages consultées dans Chrome sont d\'abord compressées via les serveurs Google avant d\'être téléchargées, à l\'exception des pages SSL et des pages de navigation privée."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Connexion lente détectée"</string>
+  <string name="data_reduction_promo_summary">"Consommez moins de données grâce à l\'optimisation des pages par Google. Les pages HTTPS et celles visitées en mode navigation privée ne seront ni optimisées ni vues par Google."</string>
+  <string name="do_not_track_description">"Si vous interdisez le suivi, une demande sera incluse dans le trafic lié à votre navigation. Les résultats obtenus dépendent de la réponse du site (s\'il répond ou non) et de la manière dont il interprète la demande.
+
+Par exemple, certains sites Web peuvent répondre à cette demande en diffusant des annonces qui ne sont pas déterminées en fonction des autres sites Web que vous avez consultés. Toutefois, nombre d\'entre eux recueillent et utilisent vos données de navigation afin, par exemple, d\'améliorer la sécurité ou d\'afficher du contenu, des services, des annonces et des recommandations, ou encore pour générer des rapports statistiques."</string>
+  <string name="do_not_track_title">"Interdire le suivi"</string>
+  <string name="font_size">"Mise à l\'échelle texte"</string>
+  <string name="fre_send_report_check">Contribuez à l\&amp;apos;amélioration du navigateur en communiquant vos statistiques d\&amp;apos;utilisation et vos rapports d\&amp;apos;incidents.</string>
+  <string name="fre_tos_and_privacy">En utilisant cette application, vous acceptez les &lt;link1&gt;Conditions d\&amp;apos;utilisation&lt;/link1&gt; et la &lt;link2&gt;Déclaration de confidentialité&lt;/link2&gt; du navigateur.</string>
+  <string name="fre_welcome">Bienvenue sur le navigateur</string>
+  <string name="fullscreen_api_notification">"Le site s\'affiche en plein écran.
+Appuyez sur le bouton \"Retour\" pour quitter ce mode."</string>
+  <string name="fullscreen_permission_title">"Plein écran"</string>
+  <string name="infobar_missing_camera_permission_text">Le navigateur doit accéder à la caméra pour la partager avec ce site.</string>
+  <string name="infobar_missing_location_permission_text">Le navigateur doit accéder à la localisation pour la partager avec ce site.</string>
+  <string name="infobar_missing_microphone_permission_text">Le navigateur doit accéder au microphone pour le partager avec ce site.</string>
+  <string name="infobar_missing_multiple_permissions_text">Le navigateur doit accéder aux autorisations pour les partager avec ce site.</string>
+  <string name="kids_account">"Ce compte appartient à un enfant."</string>
+  <string name="menu_load_live_page_for_offline_page">Version en ligne</string>
+  <string name="menu_open_in_chrome">Ouvrir dans le navigateur</string>
+  <string name="most_visited">Les plus fréquents</string>
+  <string name="native_startup_failed">Échec du navigateur au démarrage en raison d\&amp;apos;une erreur inattendue.</string>
+  <string name="network_predictions_title">"Prélecture des ressources de pages"</string>
+  <string name="new_tab_incognito_header">"Vous êtes passé en mode navigation privée"</string>
+  <string name="night_mode_reload_tip_text">Utilisez le mode Nuit pour que la navigation fatigue moins vos yeux dans l\&amp;apos;obscurité.</string>
+  <string name="night_mode_title">Mode Nuit</string>
+  <string name="passwords_auto_signin_description">"Connexion automatique aux sites Web à l\'aide des identifiants enregistrés. Lorsque la fonctionnalité est désactivée, vous êtes invité à effectuer la validation avant chaque connexion à un site Web."</string>
+  <string name="powered_by_chrome_message">Généré par Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Les améliorations du mode Économie d\&amp;apos;énergie vont être activées.</string>
+  <string name="powersave_mode_opt_out_confirmation">Les améliorations du mode Économie d\&amp;apos;énergie vont être désactivées.</string>
+  <string name="powersave_mode_tip_text">Les paramètres du mode Économie d\&amp;apos;énergie peuvent avoir une incidence sur l\&amp;apos;expérience utilisateur afin d\&amp;apos;optimiser l\&amp;apos;autonomie de la batterie pour votre navigateur</string>
+  <string name="powersave_mode_title">Mode Économie d\&amp;apos;énergie</string>
+  <string name="powersave_mode_turn_off_title">Désactiver le mode Économie d\&amp;apos;énergie</string>
+  <string name="powersave_mode_turn_on_title">Activer le mode Économie d\&amp;apos;énergie</string>
+  <string name="prefs_about_chrome">À propos</string>
+  <string name="privacy_notice_title">Déclaration de confidentialité relative au navigateur</string>
+  <string name="sad_tab_suggestions">"Si vous rencontrez souvent ce problème, essayez les &lt;link&gt;suggestions&lt;/link&gt; suivantes."</string>
+  <string name="sign_in_to_chrome">"Connectez-vous à Chrome"</string>
+  <string name="signout_message">"Les données stockées sur cet appareil et dans votre compte Google seront conservées. Toutefois, les nouvelles données ou les modifications apportées aux données ne seront pas synchronisées entre ces deux emplacements."</string>
+  <string name="signout_title">"Se déconnecter de Chrome"</string>
+  <string name="ssl_error">Le site dispose d\&amp;apos;un certificat SSL non valide</string>
+  <string name="ssl_secure">Le certificat SSL du site est valide. La communication est chiffrée et l\&amp;apos;identité est vérifiée</string>
+  <string name="ssl_warning">Le certificat SSL du site contient des avertissements</string>
+  <string name="sync_custom_passphrase">"Seul quelqu\'un connaissant votre mot de passe peut lire vos données chiffrées. Votre mot de passe n\'est ni transmis à Google, ni stocké. En cas d\'oubli, vous devrez réinitialiser la synchronisation."</string>
+  <string name="sync_passphrase_reset_instructions">"Si vous avez oublié votre phrase secrète, interrompez la synchronisation, puis reconfigurez-la via &lt;link&gt;Google Dashboard&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Tout chiffrer à l\'aide d\'une phrase secrète"</string>
+  <string name="tabs_and_apps_settings_description">"Affichez vos onglets ainsi que d\'autres applications récemment utilisées sur l\'écran \"Aperçu\" de votre téléphone."</string>
+  <string name="terms_of_service_title">Conditions d\&amp;apos;utilisation du navigateur</string>
+  <string name="tooltip_favicon_change_search_engine">Appuyez ici pour modifier le moteur de recherche.</string>
+  <string name="tooltip_favicon_change_site_settings">Appuyez ici pour modifier les préférences pour le site Web actuel, notamment le filtrage du contenu.</string>
+  <string name="tooltip_favicon_content_blocking_info">Le filtrage du contenu est actif. Appuyez ici pour plus d\&amp;apos;informations.</string>
+  <string name="tooltip_favicon_site_integrity_check">Le filtrage du contenu est actif. En cas de problèmes sur ce site web, appuyez sur cette icône et essayez de désactiver le filtrage du contenu.</string>
+  <string name="translate_options_source_hint">"Langue de la page : ^1"</string>
+  <string name="translate_options_target_hint">"Langue cible : ^1"</string>
+  <string name="unsupported_number_of_windows">Nombre d\&amp;apos;instances du navigateur non pris en charge.</string>
+  <string name="web_defender_about_text">Le Protecteur d\&amp;apos;expérience Web utilise l\&amp;apos;intelligence artificielle pour empêcher les traqueurs tiers (notamment les annonceurs) de recueillir des informations sur les sites Web que vous visitez et les informations permettant une identification personnelle. Si un observateur est intercepté alors qu\&amp;apos;il suit vos activités sur différents sites Web, le Protecteur d\&amp;apos;expérience Web empêche automatiquement cet observateur de charger plus de contenu dans votre navigateur.</string>
+  <string name="web_refiner_about_text">L&amp;apos;Optimiseur d\&amp;apos;expérience Web filtre le contenu et vous permet de bloquer les publicités, les traqueurs et les domaines qui abritent des logiciels malveillants. Lorsque l&amp;apos;Optimiseur d\&amp;apos;expérience Web est activé, vous subirez moins de désagréments en navigant sur Internet. Votre navigateur Web sera généralement plus rapide, vous utiliserez moins de bande passante en téléchargeant des pubs et vous serez protégé des traqueurs et des domaines qui abritent des logiciels malveillants.</string>
+  <string name="webrefiner_ads">publicité</string>
+  <string name="webrefiner_ads_plural">publicités</string>
+  <string name="webrefiner_malware">logiciel malveillant</string>
+  <string name="webrefiner_one_message">%s a été bloqué.</string>
+  <string name="webrefiner_three_message">%1$s, %2$s, et %3$s ont été bloqués.</string>
+  <string name="webrefiner_trackers">traqueur</string>
+  <string name="webrefiner_trackers_plural">traqueurs</string>
+  <string name="webrefiner_two_message">%1$s et %2$s ont été bloqués.</string>
+  <string name="website_settings_category_disabled">Désactivé</string>
+  <string name="website_settings_category_enabled">Activé</string>
+  <string name="website_settings_fullscreen">"Plein écran"</string>
+  <string name="website_settings_security_title">Informations de sécurité</string>
+  <string name="website_settings_webdefender_brief_message">Les informations traçables ne seront pas communiquées aux domaines connectés à %1$s.</string>
+  <string name="website_settings_webdefender_cookie">Stockage des cookies</string>
+  <string name="website_settings_webdefender_disabled">Vous n\&amp;apos;êtes pas protégé contre les domaines de suivi tiers.</string>
+  <string name="website_settings_webdefender_disabled_count">Vous n\&amp;apos;êtes pas protégé contre les domaines de suivi tiers %1$s.</string>
+  <string name="website_settings_webdefender_enabled">Le Protecteur d\&amp;apos;expérience Web est activé</string>
+  <string name="website_settings_webdefender_fingerprint">Création d\&amp;apos;empreinte numérique</string>
+  <string name="website_settings_webdefender_font_enum">Énumération des polices</string>
+  <string name="website_settings_webdefender_html5">Stockage des données HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Compteur de confidentialité</string>
+  <string name="website_settings_webdefender_tracking_list">Paramètres de domaine connecté :</string>
+  <string name="website_settings_webdefender_tracking_not_detected">non détecté</string>
+  <string name="website_settings_webdefender_tracking_vectors">Vecteurs de suivi sur les domaines connectés :</string>
+  <string name="website_settings_webdefender_vector_allow">Autoriser</string>
+  <string name="website_settings_webdefender_vector_not_connect">Ne pas se connecter</string>
+  <string name="website_settings_webdefender_vector_strip">Bloquer les vecteurs et se connecter</string>
+  <string name="website_settings_webdefender_vector_system_default">Décider à ma place</string>
+  <string name="website_settings_webrefiner_disabled">Le blocage de contenu est désactivé</string>
+  <string name="website_settings_webrefiner_enabled">Le blocage de contenu est activé</string>
+</resources>

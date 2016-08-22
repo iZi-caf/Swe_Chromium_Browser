@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">启动浏览器</string>
+  <string name="accessibility_toolbar_btn_home">"家庭"</string>
+  <string name="account_management_add_account_title">"为%1$s添加帐户"</string>
+  <string name="account_management_title">"帐户"</string>
+  <string name="added_to_homescreen">"%1$s 已添加到您的主屏幕"</string>
+  <string name="android_permission_off">在 &lt;link&gt;Android 设置&lt;/link&gt;中打开浏览器权限。</string>
+  <string name="android_permission_off_plural">在 &lt;link&gt;Android 设置&lt;/link&gt;中打开浏览器权限。</string>
+  <string name="app_name">浏览器</string>
+  <string name="background_audio_reload_tip_text">允许视频内容在网页不位于前台时继续播放音频。</string>
+  <string name="background_audio_title">后台音频</string>
+  <string name="block_screen_observers_summary">允许或阻止从其他应用程序捕捉浏览器屏幕</string>
+  <string name="block_screen_observers_title">阻止屏幕观察程序</string>
+  <string name="can_not_clear_browsing_history_toast">"未成年人帐户无法清除浏览记录"</string>
+  <string name="clear_cache_title">"缓存"</string>
+  <string name="clear_cookies_and_site_data_title">"Cookie 和网站数据"</string>
+  <string name="clear_cookies_no_sign_out_summary">"您不会因此而退出自己的 &lt;link&gt;Google 帐户&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"清除"</string>
+  <string name="common_google_play_services_api_unavailable_text">"运行</string>
+  <string name="common_google_play_services_enable_button">"启用Google Play服务"</string>
+  <string name="common_google_play_services_enable_title">"启用Google Play服务"</string>
+  <string name="common_google_play_services_install_button">"获取Google Play服务"</string>
+  <string name="common_google_play_services_install_title">"获取Google Play服务"</string>
+  <string name="common_google_play_services_invalid_account_text">"此设备上不存在指定的帐户，请选择其他帐户。"</string>
+  <string name="common_google_play_services_invalid_account_title">"无效帐户"</string>
+  <string name="common_google_play_services_network_error_text">"您必须有数据网络连接才能接入Google Play服务。"</string>
+  <string name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+  <string name="common_google_play_services_sign_in_failed_text">"登录该帐户时出错。请选择其他帐户。"</string>
+  <string name="common_google_play_services_unknown_issue">"Google Play服务出现未知问题。"</string>
+  <string name="common_google_play_services_unsupported_text">"要运行</string>
+  <string name="common_google_play_services_unsupported_title">"Google Play服务"</string>
+  <string name="common_google_play_services_update_title">"更新Google Play服务"</string>
+  <string name="common_signin_button_text_long">"使用Google帐户登录"</string>
+  <string name="data_reduction_description">"此功能处于开启状态时，Chrome 会在加载您要访问的网页之前使用 Google 服务器对其进行压缩。采用 SSL 加密的网页和以隐身模式浏览的网页不在此列。"</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"检测到网速很慢。"</string>
+  <string name="data_reduction_promo_summary">"使用 Google 对您访问的网页进行优化，借此节省数据流量。Google 将不会优化（也看不到）您以 HTTPS 或隐身模式访问的网页。"</string>
+  <string name="do_not_track_description">"如果您启用了“不跟踪”，您的浏览流量中将会包含一个请求。这样做的后果取决于网站是否回应该请求以及如何解读该请求。
+
+例如，某些网站在收到该请求后，可能会向您展示广告（这些广告并不是根据您访问过的其他网站展示的）。许多网站仍会出于一些目的收集并使用您的浏览数据，例如，为了提高安全性，为了提供相关内容、广告和推荐内容，以及为了生成报告统计信息。"</string>
+  <string name="do_not_track_title">"“不跟踪”"</string>
+  <string name="fre_send_report_check">通过报告使用统计数据和崩溃报告来帮助优化浏览器。</string>
+  <string name="fre_tos_and_privacy">使用此应用程序即表示您同意浏览器的&lt;LINK1&gt;服务条款&lt;/LINK1&gt;和&lt;LINK2&gt;隐私政策&lt;/LINK2&gt;。</string>
+  <string name="fre_welcome">欢迎使用浏览器</string>
+  <string name="fullscreen_api_notification">"此网站已进入全屏模式。
+点击返回按钮即可退出该模式。"</string>
+  <string name="fullscreen_permission_title">"全屏"</string>
+  <string name="infobar_missing_camera_permission_text">浏览器需要摄像头访问权限才能与此站点进行共享。</string>
+  <string name="infobar_missing_location_permission_text">浏览器需要位置访问权限才能与此站点进行共享。</string>
+  <string name="infobar_missing_microphone_permission_text">浏览器需要麦克风访问权限才能与此站点进行共享。</string>
+  <string name="infobar_missing_multiple_permissions_text">浏览器需要访问权限才能与此站点进行共享。</string>
+  <string name="kids_account">"这是未成年人帐户"</string>
+  <string name="menu_load_live_page_for_offline_page">上线</string>
+  <string name="menu_open_in_chrome">在浏览器中打开</string>
+  <string name="most_visited">访问次数最多</string>
+  <string name="native_startup_failed">浏览器在启动过程中出现意外错误。</string>
+  <string name="network_predictions_title">"预提取网页资源"</string>
+  <string name="new_tab_incognito_header">"您已进入隐身模式。"</string>
+  <string name="night_mode_reload_tip_text">夜间模式让您可在昏暗条件下轻松进行浏览。</string>
+  <string name="night_mode_title">夜间模式</string>
+  <string name="old_talkback_title">"您需要将“话语提示”更新到更高版本。"</string>
+  <string name="passwords_auto_signin_description">"使用存储的凭据自动登录网站。当该功能处于停用状态时，系统会在您每次登录网站之前要求您进行验证。"</string>
+  <string name="powered_by_chrome_message">由 Chromium 提供支持</string>
+  <string name="powersave_mode_opt_in_confirmation">省电功能将会打开。</string>
+  <string name="powersave_mode_opt_out_confirmation">省电功能将会关闭。</string>
+  <string name="powersave_mode_tip_text">省电模式设置用于延长浏览器的使用时间，它可能会影响用户体验</string>
+  <string name="powersave_mode_title">省电模式</string>
+  <string name="powersave_mode_turn_off_title">禁用省电模式</string>
+  <string name="powersave_mode_turn_on_title">启用省电模式</string>
+  <string name="prefs_about_chrome">关于</string>
+  <string name="privacy_notice_title">浏览器隐私政策</string>
+  <string name="sad_tab_suggestions">"如果您频繁遇到此问题，请尝试按这些&lt;link&gt;建议&lt;/link&gt;操作。"</string>
+  <string name="sign_in_to_chrome">"登录 Chrome"</string>
+  <string name="signout_message">"此设备中以及您的 Google 帐户中存储的数据都会保留在原位置。但是，新的数据或您对数据进行的更改将不会在此设备和您的 Google 帐户之间同步。"</string>
+  <string name="signout_title">"退出 Chrome"</string>
+  <string name="ssl_error">站点具有无效 SSL 证书</string>
+  <string name="ssl_secure">站点的 SSL 证书有效。通信将被加密，并会验证身份</string>
+  <string name="ssl_warning">站点的 SSL 证书发出警告</string>
+  <string name="sync_custom_passphrase">"只有知道您密码的人才能读取您已加密的数据；系统不会将该密码发送给 Google，Google 也不会存储该密码。如果您忘记了自己的密码，则需要重置同步设置。"</string>
+  <string name="sync_passphrase_reset_instructions">"如果您忘记了密码，请通过 &lt;link&gt;Google 信息中心&lt;/link&gt;停止并重置同步设置。"</string>
+  <string name="sync_passphrase_type_custom">"使用密码加密所有同步数据"</string>
+  <string name="tabs_and_apps_settings_description">"您目前打开的标签页和最近用过的其他应用都会显示在您手机的“概览”屏幕上。"</string>
+  <string name="terms_of_service_title">浏览器服务条款</string>
+  <string name="tooltip_favicon_change_search_engine">轻触此处以更改搜索引擎。</string>
+  <string name="tooltip_favicon_change_site_settings">轻触此处以更改当前网站的首选项，包括内容过滤。</string>
+  <string name="tooltip_favicon_content_blocking_info">内容过滤已激活。轻触此处以了解更多信息。</string>
+  <string name="tooltip_favicon_site_integrity_check">内容过滤已激活。如果此网站出现任何问题，请轻触此图标并尝试禁用内容过滤。</string>
+  <string name="translate_options_source_hint">"网页语言：^1"</string>
+  <string name="translate_options_target_hint">"翻译语言：^1"</string>
+  <string name="unsupported_number_of_windows">不受支持的浏览器实例编号。</string>
+  <string name="web_defender_about_text">Web 防护程序使用计算机智能来防止第三方跟踪程序（包括广告商）收集您所访问的网站的相关信息以及个人身份信息。如果发现有观察程序在多个网站中跟踪您的活动，Web 防护程序将自动阻止该观察程序将更多内容加载到您的浏览器。</string>
+  <string name="web_refiner_about_text">Web 优化器是一种内容过滤组件，可帮助您阻止广告、跟踪程序和恶意软件域。如果已启用 Web 优化器，您在浏览互联网时遭遇的麻烦将较少。您的 Web 浏览器通常会以更快速度运行，在下载广告上浪费的带宽也会减少，并且您将免受跟踪程序和恶意软件域的危害。</string>
+  <string name="webrefiner_ads">广告</string>
+  <string name="webrefiner_ads_plural">广告</string>
+  <string name="webrefiner_malware">恶意软件</string>
+  <string name="webrefiner_one_message">我们已阻止 %s。</string>
+  <string name="webrefiner_three_message">我们已阻止 %1$s、%2$s 和 %3$s。</string>
+  <string name="webrefiner_trackers">跟踪程序</string>
+  <string name="webrefiner_trackers_plural">跟踪程序</string>
+  <string name="webrefiner_two_message">我们已阻止 %1$s 和 %2$s。</string>
+  <string name="website_settings_category_disabled">已禁用</string>
+  <string name="website_settings_category_enabled">已启用</string>
+  <string name="website_settings_fullscreen">"全屏"</string>
+  <string name="website_settings_security_title">安全信息</string>
+  <string name="website_settings_webdefender_brief_message">可跟踪信息将不会泄露到 %1$s 连接的域。</string>
+  <string name="website_settings_webdefender_cookie">Cookie 存储</string>
+  <string name="website_settings_webdefender_disabled">您未受到保护，可能会遭受第三方跟踪域的危害。</string>
+  <string name="website_settings_webdefender_disabled_count">您未受到保护，可能会遭受 %1$s 第三方跟踪域的危害。</string>
+  <string name="website_settings_webdefender_enabled">Web 防护程序已启用</string>
+  <string name="website_settings_webdefender_fingerprint">指纹创建</string>
+  <string name="website_settings_webdefender_font_enum">字体枚举</string>
+  <string name="website_settings_webdefender_html5">HTML5 存储</string>
+  <string name="website_settings_webdefender_privacy_meter_title">隐私监察程序</string>
+  <string name="website_settings_webdefender_tracking_list">已连接域设置：</string>
+  <string name="website_settings_webdefender_tracking_not_detected">未检测到</string>
+  <string name="website_settings_webdefender_tracking_vectors">跟踪已连接域上的矢量：</string>
+  <string name="website_settings_webdefender_vector_allow">允许</string>
+  <string name="website_settings_webdefender_vector_not_connect">不连接</string>
+  <string name="website_settings_webdefender_vector_strip">提取矢量并连接</string>
+  <string name="website_settings_webdefender_vector_system_default">为我做决定</string>
+  <string name="website_settings_webrefiner_disabled">已禁用内容阻止功能</string>
+  <string name="website_settings_webrefiner_enabled">已启用内容阻止功能</string>
+</resources>

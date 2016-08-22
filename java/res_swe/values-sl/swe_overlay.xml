@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Zaženi brskalnik</string>
+  <string name="account_management_add_account_title">"Dodaj račun za %1$s"</string>
+  <string name="account_management_title">"Računi"</string>
+  <string name="added_to_homescreen">"Domena %1$s je bila dodana na začetni zaslon"</string>
+  <string name="android_permission_off">Vklopi dovoljenje za brskalnik v možnosti &lt;link&gt;Nastavitve sistema Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Vklopi dovoljenja za brskalnik v možnosti &lt;link&gt;Nastavitve sistema Android&lt;/link&gt;.</string>
+  <string name="app_name">Brskalnik</string>
+  <string name="background_audio_reload_tip_text">Omogoči nadaljevanje predvajanja zvoka videovsebine, ko v ospredju ni spletne strani.</string>
+  <string name="background_audio_title">Zvočna podlaga</string>
+  <string name="block_screen_observers_summary">Dovoli ali blokiraj zajemanje zaslona brskalnika iz drugih aplikacij.</string>
+  <string name="block_screen_observers_title">Blokada opazovalcev zaslona</string>
+  <string name="can_not_clear_browsing_history_toast">"Z računom za otroke ni mogoče izbrisati zgodovine brskanja"</string>
+  <string name="clear_cache_title">"Predpomnilnik"</string>
+  <string name="clear_cookies_and_site_data_title">"Piškotki, podatki spletnega mesta"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Iz &lt;link&gt;Google Računov&lt;/link&gt; ne boste odjavljeni"</string>
+  <string name="clear_data_delete">"Počisti"</string>
+  <string name="common_google_play_services_enable_button">"Omogočite storitve Google Play"</string>
+  <string name="common_google_play_services_enable_title">"Omogočite storitve Google Play"</string>
+  <string name="common_google_play_services_install_button">"Namestite storitve Google Play"</string>
+  <string name="common_google_play_services_install_title">"Namestite storitve Google Play"</string>
+  <string name="common_google_play_services_invalid_account_text">"V tej napravi ne obstaja navedeni račun. Izberite drugega."</string>
+  <string name="common_google_play_services_network_error_text">"Za povezavo s storitvami Google Play potrebujete internetno povezavo."</string>
+  <string name="common_google_play_services_network_error_title">"Omrežna napaka"</string>
+  <string name="common_google_play_services_unknown_issue">"Neznana težava s storitvami Google Play."</string>
+  <string name="common_google_play_services_update_title">"Posodobite storitve Google Play"</string>
+  <string name="common_signin_button_text_long">"Prijavite se v Google"</string>
+  <string name="data_reduction_description">"Ko je ta funkcija vklopljena, Chrome strani, ki jih obiščete, pred prenosom stisne z uporabo Googlovih strežnikov. To ne velja za strani, ki uporabljajo povezavo SSL ali jih obiščete v načinu brez beleženja zgodovine."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Zaznana je počasna povezava."</string>
+  <string name="data_reduction_promo_summary">"Porabite manj podatkov, tako da uporabite Google za optimizacijo strani, ki jih obiščete. Google ne optimizira in ne vidi strani, odprtih prek protokola HTTPS ali v načinu brez beleženja zgodovine."</string>
+  <string name="do_not_track_description">"Če omogočite možnost »Ne sledi«, bo zahteva vključena v vaš promet brskanja. Učinek je odvisen od odziva spletnega mesta na zahtevo in od tega, kako si zahtevo razlaga.
+
+Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažejo oglase, ki ne temeljijo na drugih spletnih mestih, ki ste jih obiskali. Veliko spletnih mest bo še vedno zbiralo in uporabljalo vaše podatke o brskanju, na primer za izboljšanje varnosti, zagotavljanje vsebine, oglasov in priporočil na spletnih mestih ter za pridobivanje statističnih podatkov za poročanje."</string>
+  <string name="do_not_track_title">"»Ne sledi«"</string>
+  <string name="fre_send_report_check">Pomagajte izboljšati brskalnik s svojimi poročili glede statistika o uporabi in poročili o zrušitvi.</string>
+  <string name="fre_tos_and_privacy">Če uporabljate to aplikacijo, se strinjate s &lt;LINK1&gt;Pogoji storitve&lt;/LINK1&gt; in &lt;LINK2&gt;Obvestilom o zasebnosti&lt;/LINK2&gt; brskalnika.</string>
+  <string name="fre_welcome">Dobrodošli v brskalniku</string>
+  <string name="fullscreen_api_notification">"To spletno mesto je v celozaslonskem načinu.
+Če ga želite zapreti, pritisnite gumb za nazaj."</string>
+  <string name="fullscreen_permission_title">"Celozaslonsko"</string>
+  <string name="infobar_missing_camera_permission_text">Brskalnik potrebuje dostop do fotoaparata, da ga deli s tem mestom.</string>
+  <string name="infobar_missing_location_permission_text">Brskalnik potrebuje dostop do lokacije, da jo deli s tem mestom.</string>
+  <string name="infobar_missing_microphone_permission_text">Brskalnik potrebuje dostop do mikrofona, da ga deli s tem mestom.</string>
+  <string name="infobar_missing_multiple_permissions_text">Brskalnik potrebuje dostop do dovoljenj, da jih deli s tem mestom.</string>
+  <string name="kids_account">"To je račun otroka"</string>
+  <string name="menu_load_live_page_for_offline_page">Objavi</string>
+  <string name="menu_open_in_chrome">Odpri v brskalniku</string>
+  <string name="most_visited">Najpogostejši</string>
+  <string name="native_startup_failed">Brskalnik se ni zagnal zaradi nepričakovane napake.</string>
+  <string name="network_predictions_title">"Vnaprejšnji prenos sredstev strani"</string>
+  <string name="new_tab_incognito_header">"Zdaj se vaše brskanje ne shranjuje v zgodovino."</string>
+  <string name="night_mode_reload_tip_text">Uporabite nočni način za manj utrujene oči med brskanjem v temi.</string>
+  <string name="night_mode_title">Nočni način</string>
+  <string name="passwords_auto_signin_description">"Samodejna prijava v spletna mesta z uporabo shranjenih poverilnic. Ko je ta funkcija izklopljena, bo pri vsaki prijavi v spletno mesto potrebno preverjanje."</string>
+  <string name="powered_by_chrome_message">Omogoča Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Vklopljene bodo izboljšave varčevanja z energijo.</string>
+  <string name="powersave_mode_opt_out_confirmation">Izklopljene bodo izboljšave varčevanja z energijo.</string>
+  <string name="powersave_mode_tip_text">Nastavitev varčevanja z energijo lahko vpliva na uporabniško izkušnjo, da izboljša življenjsko dobo baterije vašega brskalnika.</string>
+  <string name="powersave_mode_title">Način varčevanja z energijo</string>
+  <string name="powersave_mode_turn_off_title">Onemogoči način varčevanja z energijo</string>
+  <string name="powersave_mode_turn_on_title">Omogoči način varčevanja z energijo</string>
+  <string name="prefs_about_chrome">O programu</string>
+  <string name="privacy_notice_title">Obvestilo o zasebnosti brskalnika</string>
+  <string name="sad_tab_suggestions">"Če se to pogosto pokaže, poskusite te &lt;link&gt;predloge&lt;/link&gt;."</string>
+  <string name="sign_in_to_chrome">"Prijava v Google Chrome"</string>
+  <string name="signout_message">"Podatki, shranjeni v tej napravi, in podatki v Google Računu bodo ostali na obeh mestih, pri čemer novi ali spremenjeni podatki ne bodo sinhronizirani z njima."</string>
+  <string name="signout_title">"Odjava iz Google Chroma"</string>
+  <string name="ssl_error">Mesto ima neveljavno potrdilo SSL.</string>
+  <string name="ssl_secure">Potrdilo SSL spletnega mesta ni veljavno. Komunikacija poteka šifrirano in identiteta se preveri.</string>
+  <string name="ssl_warning">Potrdilo SSL za spletno mesto vsebuje opozorila.</string>
+  <string name="sync_custom_passphrase">"Šifrirane podatke lahko bere samo oseba, ki ima geslo. Google ne prejme ali hrani tega gesla. Če ga pozabite, morate ponastaviti sinhronizacijo."</string>
+  <string name="sync_passphrase_reset_instructions">"Če ste pozabili geslo, na &lt;link&gt;Google Nadzorni plošči&lt;/link&gt; ustavite in ponastavite sinhronizacijo."</string>
+  <string name="sync_passphrase_type_custom">"Šifriranje z geslom"</string>
+  <string name="tabs_and_apps_settings_description">"Oglejte si zavihke z drugimi nedavnimi aplikacijami na zaslonu za pregled v telefonu."</string>
+  <string name="terms_of_service_title">Pogoji storitve brskalnika</string>
+  <string name="tooltip_favicon_change_search_engine">Za spreminjanje iskalnika pritisnite tukaj.</string>
+  <string name="tooltip_favicon_change_site_settings">Za spreminjanje nastavitev za trenutno spletno mesto, vključno s filtriranjem vsebine, pritisnite tukaj.</string>
+  <string name="tooltip_favicon_content_blocking_info">Filtriranje vsebine je vklopljeno. Za več informacij pritisnite tukaj.</string>
+  <string name="tooltip_favicon_site_integrity_check">Filtriranje vsebine je vklopljeno. Če so na spletnem mestu težave, se dotaknite te ikone in onemogočite filtriranje vsebine.</string>
+  <string name="translate_options_source_hint">"Jezik strani: ^1"</string>
+  <string name="translate_options_target_hint">"Jezik prevoda: ^1"</string>
+  <string name="unsupported_number_of_windows">Nepodprto število primerkov brskalnika.</string>
+  <string name="web_defender_about_text">Web Defender uporablja strojno inteligenco, da sledilnikom drugih proizvajalcev (vključno z oglaševalci) preprečuje zbiranje informacij o spletnih mestih, ki ste jih obiskali, ter osebnih identifikacijskih podatkov. Če je zaznano, da opazovalec sledi vašim dejavnostim na več spletnih mestih, Web Defender zadevnemu opazovalcu samodejno blokira nalaganje vsebine v vaš brskalnik.</string>
+  <string name="web_refiner_about_text">Web Refiner je komponenta za filtriranje vsebine, s katero lahko blokirate domene z oglasi, sledilniki in zlonamerno programsko opremo. Če je Web Refiner omogočen, boste naleteli na manj nevšečnosti med krmarjenjem po Internetu. Vaš spletni brskalnik bo splošno deloval hitreje, porabili boste manj pasovne širine zaradi prenašanja oglasov in zaščiteni boste pred domenami s sledilniki in zlonamerno programsko opremo.</string>
+  <string name="webrefiner_ads">oglas</string>
+  <string name="webrefiner_ads_plural">oglasi</string>
+  <string name="webrefiner_malware">zlonamerna programska oprema</string>
+  <string name="webrefiner_one_message">Blokirali smo %s.</string>
+  <string name="webrefiner_three_message">Blokirali smo %1$s, %2$s in %3$s.</string>
+  <string name="webrefiner_trackers">sledilnik</string>
+  <string name="webrefiner_trackers_plural">sledilniki</string>
+  <string name="webrefiner_two_message">Blokirali smo %1$s in %2$s.</string>
+  <string name="website_settings_category_disabled">Onemogočeno</string>
+  <string name="website_settings_category_enabled">Omogočeno</string>
+  <string name="website_settings_fullscreen">"Celozaslonsko"</string>
+  <string name="website_settings_security_title">Varnostne informacije</string>
+  <string name="website_settings_webdefender_brief_message">Sledljive informacije ne bodo razkrite toliko povezanim domenam: %1$s.</string>
+  <string name="website_settings_webdefender_cookie">Shranjevanje piškotkov</string>
+  <string name="website_settings_webdefender_disabled">Niste zaščiteni pred sledilnimi domenami drugih proizvajalcev.</string>
+  <string name="website_settings_webdefender_disabled_count">Niste zaščiteni pred toliko sledilnimi domenami drugih proizvajalcev: %1$s.</string>
+  <string name="website_settings_webdefender_enabled">Web Defender je vklopljen.</string>
+  <string name="website_settings_webdefender_fingerprint">Prstni odtisi</string>
+  <string name="website_settings_webdefender_font_enum">Seznam pisav</string>
+  <string name="website_settings_webdefender_html5">Shramba HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Merilo zasebnosti</string>
+  <string name="website_settings_webdefender_tracking_list">Nastavitve povezane domene:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">nezaznano</string>
+  <string name="website_settings_webdefender_tracking_vectors">Sledilni vektorji v povezanih domenah:</string>
+  <string name="website_settings_webdefender_vector_allow">Dovoli</string>
+  <string name="website_settings_webdefender_vector_not_connect">Ne poveži</string>
+  <string name="website_settings_webdefender_vector_strip">Odstrani vektorje in vzpostavi povezavo</string>
+  <string name="website_settings_webdefender_vector_system_default">Odloči namesto mene</string>
+  <string name="website_settings_webrefiner_disabled">Blokiranje vsebine je onemogočeno</string>
+  <string name="website_settings_webrefiner_enabled">Blokiranje vsebine je omogočeno</string>
+</resources>

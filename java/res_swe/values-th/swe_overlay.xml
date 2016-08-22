@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">เปิดใช้งานบราวเซอร์</string>
+  <string name="account_management_add_account_title">"เพิ่มบัญชีสำหรับ %1$s"</string>
+  <string name="account_management_title">"บัญชี"</string>
+  <string name="added_to_homescreen">"เพิ่ม %1$s ไปยังหน้าจอหลักแล้ว"</string>
+  <string name="android_permission_off">เปิดการอนุญาตสำหรับบราวเซอร์ใน&lt;link&gt;การตั้งค่า Android&lt;/link&gt;</string>
+  <string name="android_permission_off_plural">เปิดการอนุญาตสำหรับบราวเซอร์ใน&lt;link&gt;การตั้งค่า Android&lt;/link&gt;</string>
+  <string name="app_name">บราวเซอร์</string>
+  <string name="background_audio_reload_tip_text">อนุญาตให้เนื้อหาวิดีโอเล่นเสียงต่อไปเมื่อเว็บเพจไม่ได้อยู่เบื้องหน้า</string>
+  <string name="background_audio_title">เสียงพื้นหลัง</string>
+  <string name="block_screen_observers_summary">อนุญาตหรือบล็อกการบันทึกภาพหน้าจอบราวเซอร์จากแอปพลิเคชันอื่นๆ</string>
+  <string name="block_screen_observers_title">ตัวเฝ้าดูหน้าจอบล็อก</string>
+  <string name="can_not_clear_browsing_history_toast">"ไม่สามารถล้างประวัติการเข้าชมด้วยบัญชีของเด็ก"</string>
+  <string name="clear_cache_title">"แคช"</string>
+  <string name="clear_cookies_and_site_data_title">"คุกกี้ ข้อมูลเว็บไซต์"</string>
+  <string name="clear_cookies_no_sign_out_summary">"คุณจะไม่ออกจากระบบ&lt;link&gt;บัญชี Google&lt;/link&gt; โดยอัตโนมัติ"</string>
+  <string name="clear_data_delete">"ล้าง"</string>
+  <string name="common_google_play_services_enable_button">"เปิดใช้งานบริการ Google Play"</string>
+  <string name="common_google_play_services_enable_title">"เปิดใช้งานบริการ Google Play"</string>
+  <string name="common_google_play_services_install_button">"รับบริการ Google Play"</string>
+  <string name="common_google_play_services_install_title">"รับบริการ Google Play"</string>
+  <string name="common_google_play_services_network_error_text">"ต้องมีการเขื่อมต่อข้อมูลเพื่อเชื่อมต่อกับบริการ Google Play"</string>
+  <string name="common_google_play_services_unknown_issue">"ปัญหาที่ไม่รู้จักของบริการ Google Play"</string>
+  <string name="common_signin_button_text">"ลงชื่อใช้"</string>
+  <string name="data_reduction_description">"เมื่อคุณลักษณะนี้เปิดอยู่ Chrome จะใช้เซิร์ฟเวอร์ของ Google ในการบีบอัดหน้าเว็บที่คุณเข้าชมก่อนที่จะดาวน์โหลดหน้าเว็บนั้น แต่จะไม่รวมถึงหน้า SSL และหน้าที่ไม่ระบุตัวตน"</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"ตรวจพบการเชื่อมต่อที่ช้า"</string>
+  <string name="data_reduction_promo_summary">"ประหยัดการใช้อินเทอร์เน็ตโดยให้ Google เพิ่มประสิทธิภาพหน้าที่คุณเข้าชม หน้าต่างๆ ที่เข้าถึงผ่าน HTTPS หรือโหมดไม่ระบุตัวตนจะไม่สามารถเพิ่มประสิทธิภาพได้ และ Google ไม่สามารถมองเห็นได้"</string>
+  <string name="do_not_track_description">"การเปิดใช้ \"ไม่ติดตาม\" หมายความว่าจะมีการรวมคำขอไว้กับการเข้าชมของคุณ ผลกระทบทั้งหมดขึ้นอยู่กับว่าเว็บไซต์ตอบสนองต่อคำขอไหม และวิธีตีความคำขอ
+
+ตัวอย่างเช่น บางเว็บไซต์อาจตอบสนองต่อคำขอนี้โดยแสดงให้คุณเห็นโฆษณาที่ไม่ได้อิงอยู่กับเว็บไซต์อื่นๆ ที่คุณเข้าชม เว็บไซต์จำนวนมากจะยังคงรวบรวมและใช้ข้อมูลการท่องเว็บของคุณเพื่อปรับปรุงความปลอดภัย เพื่อแสดงเนื้อหา โฆษณา และคำแนะนำเกี่ยวกับเว็บไซต์ของตน และเพื่อสร้างสถิติในการรายงาน เป็นต้น"</string>
+  <string name="do_not_track_title">"\"ไม่ติดตาม\""</string>
+  <string name="fre_send_report_check">ช่วยทำให้บราวเซอร์ดีขึ้นโดยรายงานสถิติการใช้งานและรายงานความผิดพลาด</string>
+  <string name="fre_tos_and_privacy">การใช้งานแอปพลิเคชันนี้ ถือว่าคุณได้ยอมรับ&lt;LINK1&gt;เงื่อนไขการบริการ&lt;/LINK1&gt;และ&lt;LINK2&gt;นโยบายความเป็นส่วนตัว&lt;/LINK2&gt;ของบราวเซอร์แล้ว</string>
+  <string name="fre_welcome">ยินดีต้อนรับสู่บราวเซอร์</string>
+  <string name="fullscreen_api_notification">"เว็บไซต์นี้ได้เข้าสู่การแสดงเต็มหน้าจอ
+โปรดกดปุ่มกลับเพื่อออก"</string>
+  <string name="fullscreen_permission_title">"เต็มหน้าจอ"</string>
+  <string name="infobar_missing_camera_permission_text">บราวเซอร์ต้องการเข้าถึงกล้องเพื่อแบ่งปันกล้องกับเว็บไซต์นี้</string>
+  <string name="infobar_missing_location_permission_text">บราวเซอร์ต้องการเข้าถึงตำแหน่งเพื่อแบ่งปันตำแหน่งกับเว็บไซต์นี้</string>
+  <string name="infobar_missing_microphone_permission_text">บราวเซอร์ต้องการเข้าถึงไมโครโฟนเพื่อแบ่งปันไมโครโฟนกับเว็บไซต์นี้</string>
+  <string name="infobar_missing_multiple_permissions_text">บราวเซอร์ต้องการเข้าถึงการอนุญาตเพื่อแบ่งปันการอนุญาตนั้นกับเว็บไซต์นี้</string>
+  <string name="kids_account">"นี่เป็นบัญชีของเด็ก"</string>
+  <string name="menu_load_live_page_for_offline_page">ถ่ายทอดสด</string>
+  <string name="menu_open_in_chrome">เปิดในบราวเซอร์</string>
+  <string name="most_visited">บ่อยที่สุด</string>
+  <string name="native_startup_failed">บราวเซอร์ล้มเหลวขณะเริ่มใช้งานเนื่องจากข้อผิดพลาดที่ไม่คาดคิด</string>
+  <string name="network_predictions_title">"ดึงทรัพยากรของหน้าล่วงหน้า"</string>
+  <string name="new_tab_incognito_header">"คุณเข้าสู่โหมดไม่ระบุตัวตนแล้ว"</string>
+  <string name="night_mode_reload_tip_text">เปิดโหมดกลางคืนเพื่อให้การใช้งานในตอนกลางคืนดีต่อสายตาคุณมากขึ้น</string>
+  <string name="night_mode_title">โหมดกลางคืน</string>
+  <string name="passwords_auto_signin_description">"ลงชื่อเข้าใช้เว็บไซต์โดยอัตโนมัติโดยใช้ข้อมูลรับรองที่เก็บไว้ เมื่อคุณลักษณะนี้ปิดอยู่ ระบบจะขอให้คุณยืนยันทุกครั้งก่อนที่จะลงชื่อเข้าใช้เว็บไซต์"</string>
+  <string name="powered_by_chrome_message">ขับเคลื่อนด้วย Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">การปรับปรุงการประหยัดพลังงานจะถูกเปิด</string>
+  <string name="powersave_mode_opt_out_confirmation">การปรับปรุงการประหยัดพลังงานจะถูกปิด</string>
+  <string name="powersave_mode_tip_text">การตั้งค่าโหมดประหยัดพลังงานอาจส่งผลต่อการใช้งานของผู้ใช้เพื่อขยายอายุการใช้งานของแบตเตอรี่สำหรับบราวเซอร์ของคุณ</string>
+  <string name="powersave_mode_title">โหมดประหยัดพลังงาน</string>
+  <string name="powersave_mode_turn_off_title">ปิดใช้งานโหมดประหยัดพลังงาน</string>
+  <string name="powersave_mode_turn_on_title">เปิดใช้งานโหมดประหยัดพลังงาน</string>
+  <string name="prefs_about_chrome">เกี่ยวกับ</string>
+  <string name="privacy_notice_title">ประกาศความเป็นส่วนตัวของบราวเซอร์</string>
+  <string name="sad_tab_suggestions">"หากคุณเห็นข้อความนี้บ่อยๆ โปรดลองทำตาม&lt;link&gt;คำแนะนำ&lt;/link&gt;เหล่านี้"</string>
+  <string name="sign_in_to_chrome">"ลงชื่อเข้าใช้ Chrome"</string>
+  <string name="signout_message">"ข้อมูลที่จัดเก็บไว้ในอุปกรณ์นี้และข้อมูลที่จัดเก็บในบัญชี Google ของคุณจะยังคงอยู่ทั้ง 2 ที่ แต่จะไม่มีการซิงค์ข้อมูลใหม่หรือการเปลี่ยนแปลงที่คุณทำระหว่างที่เก็บข้อมูลทั้ง 2 แห่งนี้"</string>
+  <string name="signout_title">"ออกจากระบบ Chrome"</string>
+  <string name="ssl_error">เว็บไซต์มีใบรับรอง SSL ที่ไม่ถูกต้อง</string>
+  <string name="ssl_secure">ใบรับรอง SSL ของเว็บไซต์ถูกต้อง การสื่อสารจะถูกเข้ารหัสและจะได้รับการยืนยันตัวตน</string>
+  <string name="ssl_warning">มีการแจ้งเตือนใบรับรอง SSL ของเว็บไซต์</string>
+  <string name="sync_custom_passphrase">"เฉพาะผู้ที่มีรหัสผ่านของคุณเท่านั้นจึงจะสามารถอ่านข้อมูลที่เข้ารหัสของคุณได้ Google จะไม่ส่งหรือจัดเก็บรหัสผ่านนี้ หากคุณลืมรหัสผ่าน คุณจะต้องรีเซ็ตการซิงค์"</string>
+  <string name="sync_passphrase_reset_instructions">"หากคุณลืมรหัสผ่าน ให้หยุดและรีเซ็ตการซิงค์ผ่าน &lt;link&gt;Google แดชบอร์ด&lt;/link&gt;"</string>
+  <string name="sync_passphrase_type_custom">"เข้ารหัสทั้งหมดด้วยรหัสผ่าน"</string>
+  <string name="tabs_and_apps_settings_description">"ดูแท็บด้วยแอปล่าสุดอื่นๆ บนหน้าจอภาพรวมของโทรศัพท์"</string>
+  <string name="terms_of_service_title">เงื่อนไขการบริการของบราวเซอร์</string>
+  <string name="tooltip_favicon_change_search_engine">แตะที่นี่เพื่อเปลี่ยนเครื่องมือค้นหา</string>
+  <string name="tooltip_favicon_change_site_settings">แตะที่นี่เพื่อเปลี่ยนการกำหนดค่าสำหรับเว็บไซต์ปัจจุบัน รวมถึงการกรองเนื้อหา</string>
+  <string name="tooltip_favicon_content_blocking_info">การกรองเนื้อหาเปิดใช้งานอยู่ แตะที่นี่สำหรับข้อมูลเพิ่มเติม</string>
+  <string name="tooltip_favicon_site_integrity_check">การกรองเนื้อหาเปิดใช้งานอยู่ หากพบปัญหาบนเว็บไซต์นี้ โปรดแตะที่ไอคอนนี้และลองปิดการกรองเนื้อหา</string>
+  <string name="translate_options_source_hint">"ภาษาหน้าเว็บ: ^1"</string>
+  <string name="translate_options_target_hint">"ภาษาที่แปล: ^1"</string>
+  <string name="unsupported_number_of_windows">อินสแตนซ์ของบราวเซอร์จำนวนหนึ่งไม่สนับสนุน</string>
+  <string name="web_defender_about_text">ตัวปกป้องเว็บไซต์จะใช้ระบบของเครื่องเพื่อป้องกันตัวติดตามของบุคคลที่สาม (รวมถึงผู้โฆษณา) ไม่ให้เก็บรวบรวมข้อมูลที่เกี่ยวกับเว็บไซต์ที่คุณเยี่ยมชมและข้อมูลส่วนบุคคลที่สามารถระบุตัวตนได้ หากระบบจับได้ว่ามีตัวติดตามกิจกรรมของคุณในเว็บไซต์ต่างๆ ตัวปกป้องเว็บไซต์จะทำการบล็อกตัวติดตามดังกล่าวจากการโหลดเนื้อหาเพิ่มเติมลงในบราวเซอร์ของคุณโดยอัตโนมัติ</string>
+  <string name="web_refiner_about_text">ตัวปรับปรุงเว็บไซต์คือส่วนประกอบด้านการกรองเนื้อหาที่ช่วยคุณในการบล็อกโดเมนโฆษณา ตัวติดตามและมัลแวร์ เมื่อเปิดใช้งานตัวปรับปรุงเว็บไซต์ คุณจะได้รับการรบกวนน้อยลงเมื่อใช้อินเตอร์เน็ต เว็บบราวเซอร์ของคุณจะทำงานได้รวดเร็วขึ้น คุณจะสูญเสียแบนด์วิธจากการดาวน์โหลดโฆษณาน้อยลง และคุณจะได้รับการป้องกันจากโดเมนตัวติดตามและมัลแวร์</string>
+  <string name="webrefiner_ads">โฆษณา</string>
+  <string name="webrefiner_ads_plural">โฆษณา</string>
+  <string name="webrefiner_malware">มัลแวร์</string>
+  <string name="webrefiner_one_message">เราได้บล็อก %s</string>
+  <string name="webrefiner_three_message">เราได้บล็อก %1$s %2$s และ %3$s</string>
+  <string name="webrefiner_trackers">ตัวติดตาม</string>
+  <string name="webrefiner_trackers_plural">ตัวติดตาม</string>
+  <string name="webrefiner_two_message">เราได้บล็อก %1$s และ %2$s แล้ว</string>
+  <string name="website_settings_category_disabled">ปิดใช้งานแล้ว</string>
+  <string name="website_settings_category_enabled">เปิดใช้งานแล้ว</string>
+  <string name="website_settings_fullscreen">"เต็มหน้าจอ"</string>
+  <string name="website_settings_security_title">ข้อมูลความปลอดภัย</string>
+  <string name="website_settings_webdefender_brief_message">ข้อมูลที่ติดตามได้จะไม่รั่วไหลไปยังโดเมน %1$s ที่เชื่อมต่อ</string>
+  <string name="website_settings_webdefender_cookie">พื้นที่จัดเก็บคุกกี้</string>
+  <string name="website_settings_webdefender_disabled">คุณไม่ได้รับการปกป้องจากโดเมนการติดตามของบุคคลที่สาม</string>
+  <string name="website_settings_webdefender_disabled_count">คุณไม่ได้รับการปกป้องจาก %1$s โดเมนการติดตามของบุคคลที่สาม</string>
+  <string name="website_settings_webdefender_enabled">ตัวปกป้องเว็บไซต์เปิดใช้งานอยู่</string>
+  <string name="website_settings_webdefender_fingerprint">การใช้ลายนิ้วมือ</string>
+  <string name="website_settings_webdefender_font_enum">การกระจายแบบอักษร</string>
+  <string name="website_settings_webdefender_html5">ที่จัดเก็บ HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">มาตรวัดความเป็นส่วนตัว</string>
+  <string name="website_settings_webdefender_tracking_list">การตั้งค่าโดเมนที่เชื่อมต่อ:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">ไม่พบ</string>
+  <string name="website_settings_webdefender_tracking_vectors">เวกเตอร์การติดตามบนโดเมนที่เชื่อมต่อ:</string>
+  <string name="website_settings_webdefender_vector_allow">อนุญาต</string>
+  <string name="website_settings_webdefender_vector_not_connect">ไม่ได้เชื่อมต่อ</string>
+  <string name="website_settings_webdefender_vector_strip">ปลดเวกเตอร์และเชื่อมต่อ</string>
+  <string name="website_settings_webdefender_vector_system_default">ตัดสินใจให้ฉัน</string>
+  <string name="website_settings_webrefiner_disabled">ปิดใช้งานการบล็อกเนื้อหาแล้ว</string>
+  <string name="website_settings_webrefiner_enabled">เปิดใช้งานการบล็อกเนื้อหาแล้ว</string>
+</resources>

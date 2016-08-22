@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">लॉन्च ब्राउझर</string>
+  <string name="android_permission_off">&lt;link&gt;Android सेटिंग्ज&lt;/link&gt; मध्ये ब्राउझरसाठी परवानगी चालू करा.</string>
+  <string name="android_permission_off_plural"> &lt;link&gt;Android सेटिंग्ज&lt;/link&gt; मध्ये ब्राउझरसाठी परवानगी चालू करा.</string>
+  <string name="app_name">ब्राउझर</string>
+  <string name="background_audio_reload_tip_text">वेबपृष्ठ अग्रभागामध्ये नसताना ऑडिओ प्ले करणे सुरू ठेवण्यासाठी व्हिडिओ सामग्री सक्षम करते.</string>
+  <string name="background_audio_title">पार्श्वभूमी ऑडिओ</string>
+  <string name="block_screen_observers_summary">अन्य अनुप्रयोगांमधून ब्राउझर स्क्रीन कॅप्चर करण्याला अनुमती द्या किंवा त्याला अवरोधित करा</string>
+  <string name="block_screen_observers_title">अवरोधित स्क्रीन निरक्षणास आली</string>
+  <string name="fre_send_report_check">वापर आकडेवारी आणि क्रॅश अहवालांचा अहवाल देऊन ब्राउझर अधिक चांगले करण्यात मदत करा.</string>
+  <string name="fre_tos_and_privacy">हा अनुप्रयोग वापरून , आपण ब्राउझरच्या &lt;LINK1&gt;सेवा अटी&lt;/LINK1&gt; आणि &lt;LINK2&gt;गोपनीयता सूचने&lt;/LINK2&gt;शी सहमत आहात.</string>
+  <string name="fre_welcome">ब्राउझरमध्ये आपले स्वागत आहे</string>
+  <string name="infobar_missing_camera_permission_text">ब्राउझरला या साइटसह ते शेअर करण्यासाठी कॅमेरा ऍक्सेस असणे गरजेचे आहे.</string>
+  <string name="infobar_missing_location_permission_text">ब्राउझरला या साइटसह ते शेअर करण्यासाठी स्थान ऍक्सेस असणे गरजेचे आहे.</string>
+  <string name="infobar_missing_microphone_permission_text">ब्राउझरला या साइटसह ते शेअर करण्यासाठी मायक्रोफोन ऍक्सेस असणे गरजेचे आहे.</string>
+  <string name="infobar_missing_multiple_permissions_text">ब्राउझरला या साइटसह ते शेअर करण्यासाठी परवानगी ऍक्सेस असणे गरजेचे आहे.</string>
+  <string name="menu_load_live_page_for_offline_page">थेट जा</string>
+  <string name="menu_open_in_chrome">ब्राउझरमध्ये उघडा</string>
+  <string name="most_visited">सर्वात वारंवार</string>
+  <string name="native_startup_failed">अनपेक्षित त्रुटीसह प्रारंभ दरम्यान ब्राउझर अयशस्वी.</string>
+  <string name="night_mode_reload_tip_text">काळोखामध्ये आपल्यासाठी ब्राउझिंग सोईस्कर करण्यासाठी रात्र मोड वापरा.</string>
+  <string name="night_mode_title">रात्र मोड</string>
+  <string name="powered_by_chrome_message">क्रोमियम द्वारा संचालित</string>
+  <string name="powersave_mode_opt_in_confirmation">पॉवर सेव्हिंग सुधारणा चालू केल्या जातील.</string>
+  <string name="powersave_mode_opt_out_confirmation">पॉवर सेव्हिंग सुधारणा बंद केल्या जातील.</string>
+  <string name="powersave_mode_tip_text">पॉवर सेव्हिंग मोड सेटिंग आपल्या ब्राउझरचे बॅटरी आयुष्य सुधारण्यासाठी प्रयोत्याच्या अनुभवावर संभाव्य परिणाम करेल</string>
+  <string name="powersave_mode_title">पॉवर सेव्हिंग मोड</string>
+  <string name="powersave_mode_turn_off_title">पॉवर-सेव्हिंग मोड अक्षम करा</string>
+  <string name="powersave_mode_turn_on_title">पॉवर-सेव्हिंग मोड सक्षम करा</string>
+  <string name="prefs_about_chrome">याविषयी</string>
+  <string name="privacy_notice_title">ब्राउझर गोपनीयता सूचना</string>
+  <string name="ssl_error">साइटमध्ये अवैध SSL प्रमाणपत्र आहे</string>
+  <string name="ssl_secure">साइटचे SSL प्रमाणपत्र वैध आहे. संभाषण एन्क्रिप्ट केले आहे आणि ओळखेची पडताळणी केली आहे</string>
+  <string name="ssl_warning">साइटच्या SSL प्रमाणपत्राला चेतावणी दिली आहे</string>
+  <string name="terms_of_service_title">ब्राऊझरच्या सेवा अटी</string>
+  <string name="tooltip_favicon_change_search_engine">शोध इंजिन बदलण्यासाठी येथे स्पर्श करा.</string>
+  <string name="tooltip_favicon_change_site_settings">सामग्री फिल्टरिंगसह, सद्य वेबसाइटसाठी प्राधान्ये बदलण्यासाठी येथे स्पर्श करा.</string>
+  <string name="tooltip_favicon_content_blocking_info">सामग्री फिल्टरिंग सक्रिय आहे. अधिक माहितीसाठी येथे स्पर्श करा.</string>
+  <string name="tooltip_favicon_site_integrity_check">सामग्री फिल्टरिंग सक्रिय आहे. या वेबसाइटवर समस्या असल्यास, या आयकॉनला स्पर्श करा आणि सामग्री फिल्टरिंग अक्षम करण्याचा प्रयत्न करा.</string>
+  <string name="unsupported_number_of_windows">अनेक असमर्थित ब्राउझर उदाहरणे.</string>
+  <string name="web_defender_about_text">आपण भेट दिलेल्या वेबसाइट्सविषयीची माहिती आणि व्यक्तिगत ओळखण्यायोग्य माहिती गोळा करण्यापासून तृतीय-पक्षीय ट्रॅकर्स (जाहिरातदारांसह) प्रतिबंधित करण्यासाठी वेब डिफेंडर मशिन गुप्तचराचा वापर करतो. निरीक्षकाला अनेक वेबसाइट्सवर आपल्या क्रिया ट्रॅक करताना पकडल्यास, वेब डिफेंडर आपल्या ब्राउझरमधून आणखी सामग्री लोड करण्यापासून त्या निरक्षक़ाला स्वयंचलितपणे अवरोधित करतो.</string>
+  <string name="web_refiner_about_text">वेब डिफेंडर हा असा सामग्री- फिल्टरिंग घटक आहे जो आपल्याला जाहिराती, ट्रॅकर्स आणि मालवेअर डोमेन्सला अवरोधित करण्याची अनुमती देतो. वेब रिफाइनर सक्षम करून, इंटरनेट नेव्हिगेट करताना आपल्याला कमी त्रास होईल. आपले वेब ब्राऊझर साधारणपणे जलद चालेल, आपण जाहिराती डाउनलोडिंग करताना कमी बॅन्डविड्थ वाया घालवाल आणि आपण ट्रॅकर्स आणि मालवेअर डोमेन्समधून संरक्षित रहाल.</string>
+  <string name="webrefiner_ads">जाहिरात</string>
+  <string name="webrefiner_ads_plural">जाहिराती</string>
+  <string name="webrefiner_malware">मालवेअर </string>
+  <string name="webrefiner_one_message">आम्ही %s अवरोधित केले.</string>
+  <string name="webrefiner_three_message">आम्ही %1$s, %2$s आणि %3$s अवरोधित केले.</string>
+  <string name="webrefiner_trackers">ट्रॅकर</string>
+  <string name="webrefiner_trackers_plural">ट्रॅकर्स</string>
+  <string name="webrefiner_two_message">आम्ही %1$s आणि %2$s अवरोधित केले.</string>
+  <string name="website_settings_category_disabled">अक्षम केले</string>
+  <string name="website_settings_category_enabled">सक्षम केले</string>
+  <string name="website_settings_security_title">सुरक्षितता माहिती</string>
+  <string name="website_settings_webdefender_brief_message">शोध लागण्यासारखी माहिती %1$s कनेक्ट केलेल्या डोमेन्सवर लीक केली जाणार नाही.</string>
+  <string name="website_settings_webdefender_cookie">कुकी संग्रह</string>
+  <string name="website_settings_webdefender_disabled">आपण तृतीय पक्षीय ट्रॅकिंग डोमेन्सपासून सुरक्षित नाही. </string>
+  <string name="website_settings_webdefender_disabled_count">आपण %1$s तृतीय पक्षीय ट्रॅकिंग डोमेन्सविरूद्ध सुरक्षित नाही.</string>
+  <string name="website_settings_webdefender_enabled">वेब डिफेंडर सक्षम आहे</string>
+  <string name="website_settings_webdefender_fingerprint">फिंगरप्रिंटिंग</string>
+  <string name="website_settings_webdefender_font_enum">फॉन्ट गणना</string>
+  <string name="website_settings_webdefender_html5">HTML5 संग्रह</string>
+  <string name="website_settings_webdefender_privacy_meter_title">गोपनीयता मीटर</string>
+  <string name="website_settings_webdefender_tracking_list">कनेक्ट केलेल्या डोमेन सेटिंग्स:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">आढळले नाही</string>
+  <string name="website_settings_webdefender_tracking_vectors">कनेक्ट केलेल्या डोमेन्सवर व्हेक्टर्स ट्रॅक करणे:</string>
+  <string name="website_settings_webdefender_vector_allow">अनुमती द्या</string>
+  <string name="website_settings_webdefender_vector_not_connect">कनेक्ट करू नका</string>
+  <string name="website_settings_webdefender_vector_strip">स्ट्रिप व्हेक्टर्स आणि कनेक्ट करा</string>
+  <string name="website_settings_webdefender_vector_system_default">माझ्यासाठी निर्णय</string>
+  <string name="website_settings_webrefiner_disabled">सामग्री अवरोधन अक्षम आहे</string>
+  <string name="website_settings_webrefiner_enabled">सामग्री अवरोधन सक्षम केले</string>
+</resources>

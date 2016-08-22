@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">బ్రౌజర్‌ని లాంచ్ చేయి</string>
+  <string name="android_permission_off">&lt;link&gt;Android సెట్టింగ్‌ల&lt;/link&gt;లో బ్రౌజర్ కోసం అనుమతిని ఆన్ చేయండి.</string>
+  <string name="android_permission_off_plural">&lt;link&gt;Android సెట్టింగ్‌ల&lt;/link&gt;లో బ్రౌజర్ కోసం అనుమతులను ఆన్ చేయండి.</string>
+  <string name="app_name">బ్రౌజర్</string>
+  <string name="background_audio_reload_tip_text">వెబ్‌పేజీ నేపథ్యంలో లేనప్పుడు ఆడియోని ప్లే చేస్తూ ఉండటానికి వీడియో కంటెంట్‌ని ప్రారంభిస్తుంది.</string>
+  <string name="background_audio_title">నేపథ్య ఆడియో</string>
+  <string name="block_screen_observers_summary">ఇతర అప్లికేషన్‌లు బ్రౌజర్ స్క్రీన్‌ని సంగ్రహించడాన్ని అనుమతించు లేదా నిరోధించు</string>
+  <string name="block_screen_observers_title">స్క్రీన్ పరిశీలకులను నిరోధించు</string>
+  <string name="fre_send_report_check">ఉపయోగ గణాంకాలు మరియు క్రాష్ నివేదికలు నివేదించడం ద్వారా బ్రౌజర్‌ని ఉత్తమంగా చేయడంలో సహాయం చేస్తుంది.</string>
+  <string name="fre_tos_and_privacy">ఈ అప్లికేషన్‌ని ఉపయోగించడం ద్వారా, మీరు బ్రౌజర్ యొక్క &lt;LINK1&gt;సేవా నిబంధనలు&lt;/LINK1&gt; మరియు &lt;LINK2&gt;గోప్యతా నోటీసు&lt;/LINK2&gt;కు అంగీకరిస్తున్నారు.</string>
+  <string name="fre_welcome">బ్రౌజర్‌కు స్వాగతం</string>
+  <string name="infobar_missing_camera_permission_text">ఈ సైట్‌తో దీన్ని భాగస్వామ్యం చేయడానికి బ్రౌజర్‌కు కెమెరా ప్రాప్యత అవసరం.</string>
+  <string name="infobar_missing_location_permission_text">ఈ సైట్‌తో దీన్ని భాగస్వామ్యం చేయడానికి బ్రౌజర్‌కు స్థానం ప్రాప్యత అవసరం.</string>
+  <string name="infobar_missing_microphone_permission_text">ఈ సైట్‌తో దీన్ని భాగస్వామ్యం చేయడానికి బ్రౌజర్‌కు మైక్రోఫోన్ ప్రాప్యత అవసరం.</string>
+  <string name="infobar_missing_multiple_permissions_text">ఈ సైట్‌తో దీన్ని భాగస్వామ్యం చేయడానికి బ్రౌజర్‌కు అనుమతుల ప్రాప్యత అవసరం.</string>
+  <string name="menu_load_live_page_for_offline_page">ప్రత్యక్ష ప్రసారం చేయి</string>
+  <string name="menu_open_in_chrome">బ్రౌజర్‌లో తెరువు</string>
+  <string name="most_visited">మరింత తరచుగా</string>
+  <string name="native_startup_failed">ఊహించని దోషం కారణంగా ప్రారంభం సమయంలో బ్రౌజర్ విఫలమైంది.</string>
+  <string name="night_mode_reload_tip_text">చీకటిలో మీ కళ్లతో సులభంగా బ్రౌజింగ్ చేయడానికి రాత్రి మోడ్‌ని ఉపయోగించండి.</string>
+  <string name="night_mode_title">రాత్రి మోడ్</string>
+  <string name="powered_by_chrome_message">Chromium ద్వారా ఆధారితం</string>
+  <string name="powersave_mode_opt_in_confirmation">శక్తి ఆదా మెరుగుదలలు ఆన్ చేయబడతాయి.</string>
+  <string name="powersave_mode_opt_out_confirmation">శక్తి ఆదా మెరుగుదలలు ఆఫ్ చేయబడతాయి.</string>
+  <string name="powersave_mode_tip_text">శక్తి ఆదా మోడ్ సెట్టింగ్ మీ బ్రౌజర్ బ్యాటరీ జీవితాన్ని మెరుగుపరచడానికి వినియోగదారు అనుభవాన్ని సంభావ్యంగా ప్రభావితం చేస్తుంది</string>
+  <string name="powersave_mode_title">శక్తి ఆదా మోడ్</string>
+  <string name="powersave_mode_turn_off_title">శక్తి ఆదా మోడ్‌ను నిలిపివేయి</string>
+  <string name="powersave_mode_turn_on_title">శక్తి ఆదా మోడ్‌ని ప్రారంభించు</string>
+  <string name="prefs_about_chrome">పరిచయం</string>
+  <string name="privacy_notice_title">బ్రౌజర్ గోప్యతా నోటీసు</string>
+  <string name="ssl_error">సైట్ చెల్లని SSL సర్టిఫికేట్‌ను కలిగి ఉంది</string>
+  <string name="ssl_secure">సైట్ యొక్క SSL సర్టిఫికేట్ చెల్లదు. కమ్యూనికేషన్ ఎన్‌క్రిప్ట్ చేయబడింది మరియు గుర్తింపు ధృవీకరించబడింది</string>
+  <string name="ssl_warning">సైట్ యొక్క SSL సర్టిఫికేట్ హెచ్చరికలను కలిగి ఉంది</string>
+  <string name="terms_of_service_title">బ్రౌజర్ సేవా నిబంధనలు</string>
+  <string name="tooltip_favicon_change_search_engine">శోధన ఇంజిన్‌ని మార్చడానికి ఇక్కడ తాకండి.</string>
+  <string name="tooltip_favicon_change_site_settings">కంటెంట్ ఫిల్టరింగ్‌తో సహా, ప్రస్తుత వెబ్‌సైట్ కోసం ప్రాధాన్యతలను మార్చడానికి ఇక్కడ తాకండి.</string>
+  <string name="tooltip_favicon_content_blocking_info">కంటెంట్ ఫిల్టరింగ్ సక్రియంగా ఉంది. మరింత సమాచారం కోసం ఇక్కడ తాకండి.</string>
+  <string name="tooltip_favicon_site_integrity_check">కంటెంట్ ఫిల్టరింగ్ సక్రియంగా ఉంది. ఈ వెబ్‌సైట్‌లో ఏవైనా సమస్యలు ఉంటే, ఈ చిహ్నాన్ని తాకి, కంటెంట్ ఫిల్టరింగ్‌ని నిలిపివేసి ప్రయత్నించండి.</string>
+  <string name="unsupported_number_of_windows">మద్దతులేని బ్రౌజర్ పర్యాయాల సంఖ్య.</string>
+  <string name="web_defender_about_text">వెబ్ డిఫెండర్ మీరు సందర్శించే వెబ్‌సైట్‌లు మరియు వ్యక్తిగతంగా గుర్తించగలిగే సమాచారం గురించి సమాచారాన్ని సేకరించకుండా మూడవ పక్షం ట్రాకర్‌లను నిరోధించడానికి మెషీన్ జ్ఞానాన్ని ఉపయోగిస్తుంది. పరిశీలకుడు అనేక వెబ్‌సైట్‌లలో మీ బ్రౌజర్‌ని ట్రాక్ చేస్తూ ఉంటే, వెబ్ డిఫైండర్ మీ బ్రౌజర్‌కు ఎటువంటి కంటెంట్‌ని లోడ్ చేయకుండా ఆ పరిశీలకుడిని స్వయంచాలకంగా నిరోధిస్తుంది.</string>
+  <string name="web_refiner_about_text">వెబ్ రిఫైనర్ అనేది ప్రకటనలు, ట్రాకర్‌లు మరియు మాల్వేర్ డిమైన్‌లను నిరోధించడానికి మిమ్మల్ని అనుమతించే కంటెంట్ ఫిల్టరింగ్ భాగం. వెబ్ రిఫైనర్‌ని ప్రారంభించడం వల్ల, మీరు ఇంటర్నెట్‌లో నావిగేట్ చేసినప్పుడు కొంత చికాకుని పొందవచ్చు. సాధారణంగా మీ వెబ్ బ్రౌజర్ వేగంగా అమలు అవుతుంది, మీరు ప్రకటనలను డౌన్‌లోడ్ చేయడం వల్ల తక్కువ బ్యాడ్‌విడ్త్‌ని ఖర్చు చేస్తారు మరియు ట్రాకర్‌లు మరియు మాల్వేర్ డొమైన్‌ల నుండి మీరు రక్షించబడతారు.</string>
+  <string name="webrefiner_ads">ప్రకటన</string>
+  <string name="webrefiner_ads_plural">ప్రకటనలు</string>
+  <string name="webrefiner_malware">మాల్వేర్</string>
+  <string name="webrefiner_one_message">మేము %sని నిరోధించాము.</string>
+  <string name="webrefiner_three_message">మేము %1$s, %2$s మరియు %3$sని నిరోధించాము.</string>
+  <string name="webrefiner_trackers">ట్రాకర్</string>
+  <string name="webrefiner_trackers_plural">ట్రాకర్‌లు</string>
+  <string name="webrefiner_two_message">మేము %1$s మరియు %2$sని నిరోధించాము.</string>
+  <string name="website_settings_category_disabled">నిలిపివేయబడింది</string>
+  <string name="website_settings_category_enabled">ప్రారంభించబడింది</string>
+  <string name="website_settings_security_title">భద్రతా సమాచారం</string>
+  <string name="website_settings_webdefender_brief_message">%1$s కనెక్ట్ చేసిన పరికరాలకు గుర్తించగల సమాచారం బహిర్గతం చేయబడదు.</string>
+  <string name="website_settings_webdefender_cookie">కుక్కీ నిల్వ</string>
+  <string name="website_settings_webdefender_disabled">మీరు మూడవ పక్షం డొమైన్‌ల నుండి రక్షించబడరు.</string>
+  <string name="website_settings_webdefender_disabled_count">మీరు %1$s మూడవ పక్షం ట్రాకింగ్ డొమైన్‌ల నుండి రక్షించబడరు.</string>
+  <string name="website_settings_webdefender_enabled">వెబ్ డిఫెండర్ ప్రారంభించబడింది</string>
+  <string name="website_settings_webdefender_fingerprint">వేలిముద్రలు</string>
+  <string name="website_settings_webdefender_font_enum">ఫాంట్ గణన</string>
+  <string name="website_settings_webdefender_html5">HTML5 నిల్వ</string>
+  <string name="website_settings_webdefender_privacy_meter_title">గోప్యతా మీటర్</string>
+  <string name="website_settings_webdefender_tracking_list">కనెక్ట్ చేసిన డొమైన్ సెట్టింగ్‌లు:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">కనుగొనబడలేదు</string>
+  <string name="website_settings_webdefender_tracking_vectors">కనెక్ట్ చేసిన పరికరాల్లో వెక్టార్‌లను ట్రాకింగ్ చేయడం:</string>
+  <string name="website_settings_webdefender_vector_allow">అనుమతించు</string>
+  <string name="website_settings_webdefender_vector_not_connect">కనెక్ట్ చేయలేరు</string>
+  <string name="website_settings_webdefender_vector_strip">వెక్టార్‌లను తీసివేసి, కనెక్ట్ చేయండి</string>
+  <string name="website_settings_webdefender_vector_system_default">నా కోసం నిర్ణయించు</string>
+  <string name="website_settings_webrefiner_disabled">కంటెంట్ నిరోధం నిలిపివేయబడింది</string>
+  <string name="website_settings_webrefiner_enabled">కంటెంట్ నిరోధం ప్రారంభించబడింది</string>
+</resources>

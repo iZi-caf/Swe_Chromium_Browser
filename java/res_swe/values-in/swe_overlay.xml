@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Luncurkan Browser</string>
+  <string name="account_management_add_account_title">"Tambah akun untuk %1$s"</string>
+  <string name="account_management_title">"Akun"</string>
+  <string name="added_to_homescreen">"%1$s ditambahkan ke Layar utama Anda"</string>
+  <string name="android_permission_off">Aktifkan izin untuk Browser di &lt;link&gt;Setelan Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Aktifkan izin untuk Browser di &lt;link&gt;Setelan Android&lt;/link&gt;.</string>
+  <string name="app_name">Browser</string>
+  <string name="background_audio_reload_tip_text">Mengaktifkan konten video agar terus memutar audio saat halaman web tidak berada di latar depan.</string>
+  <string name="background_audio_title">Audio latar belakang</string>
+  <string name="block_screen_observers_summary">Izinkan atau blokir pengambilan gambar layar browser dari aplikasi lain</string>
+  <string name="block_screen_observers_title">Blokir pengamat layar</string>
+  <string name="can_not_clear_browsing_history_toast">"Riwayat penjelajahan tidak dapat dihapus menggunakan akun untuk anak"</string>
+  <string name="clear_cache_title">"Cache"</string>
+  <string name="clear_cookies_and_site_data_title">"Cookie, data situs"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Anda tidak akan keluar dari &lt;link&gt;Akun Google&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"Hapus"</string>
+  <string name="common_google_play_services_network_error_text">"Sambungan data diperlukan untuk tersambung ke layanan Google Play."</string>
+  <string name="common_google_play_services_unknown_issue">"Masalah tidak diketahui pada layanan Google Play."</string>
+  <string name="data_reduction_description">"Saat fitur ini diaktifkan, Chrome akan menggunakan server Google untuk mengompresi laman yang Anda kunjungi sebelum mengunduhnya. Laman penyamaran dan SSL tidak akan disertakan."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Sambungan lambat terdeteksi."</string>
+  <string name="data_reduction_promo_summary">"Hemat data menggunakan Google untuk mengoptimalkan laman yang Anda kunjungi. Laman yang diakses dengan HTTPS atau Penyamaran tidak akan dioptimalkan atau dilihat oleh Google."</string>
+  <string name="do_not_track_description">"Mengaktifkan ‘Jangan Lacak’ berarti sebuah permintaan akan disertakan dalam lalu lintas penjelajahan Anda. Pengaruh apa pun tergantung pada apakah situs web menanggapi permintaan atau tidak, dan bagaimana permintaan diinterpretasikan.
+
+Contohnya, beberapa situs web mungkin menanggapi permintaan ini dengan menayangkan iklan yang bukan berdasarkan situs web yang Anda kunjungi kepada Anda. Banyak situs web masih akan mengumpulkan dan menggunakan data penjelajahan Anda - misalnya untuk meningkatkan keamanan, menyediakan konten, iklan, dan saran di situs web mereka, serta untuk membuat statistik laporan."</string>
+  <string name="do_not_track_title">"‘Jangan Lacak’"</string>
+  <string name="force_enable_zoom_title">"Memaksa pengaktifan pembesaran/pengecilan"</string>
+  <string name="fre_send_report_check">Bantu jadikan Browser lebih baik dengan melaporkan statistik penggunaan dan laporan crash.</string>
+  <string name="fre_tos_and_privacy">Dengan menggunakan aplikasi ini, Anda menyetujui &lt;LINK1&gt;Ketentuan Layanan&lt;/LINK1&gt; dan &lt;LINK2&gt;Pemberitahuan Privasi&lt;/LINK2&gt; Browser.</string>
+  <string name="fre_welcome">Selamat datang di Browser</string>
+  <string name="fullscreen_api_notification">"Situs ini masuk ke mode layar penuh.
+Tekan tombol kembali untuk keluar."</string>
+  <string name="fullscreen_permission_title">"Layar Penuh"</string>
+  <string name="infobar_missing_camera_permission_text">Browser perlu akses kamera untuk berbagi kamera dengan situs ini.</string>
+  <string name="infobar_missing_location_permission_text">Browser perlu akses lokasi untuk berbagi lokasi dengan situs ini.</string>
+  <string name="infobar_missing_microphone_permission_text">Browser perlu akses mikrofon untuk berbagi mikrofon dengan situs ini.</string>
+  <string name="infobar_missing_multiple_permissions_text">Browser perlu akses izin untuk berbagi izin dengan situs ini.</string>
+  <string name="kids_account">"Ini adalah akun anak"</string>
+  <string name="menu_load_live_page_for_offline_page">Buka halaman online</string>
+  <string name="menu_open_in_chrome">Buka di Browser</string>
+  <string name="most_visited">Paling Sering</string>
+  <string name="native_startup_failed">Browser gagal saat memulai dengan kesalahan tidak terduga.</string>
+  <string name="navigation_error_summary">"Tampilkan saran saat alamat web tidak dapat menyelesaikan masalah atau sambungan tidak dapat dibuat"</string>
+  <string name="network_predictions_title">"Ambil sumber daya laman lebih dahulu"</string>
+  <string name="new_tab_incognito_header">"Anda dalam mode penyamaran."</string>
+  <string name="night_mode_reload_tip_text">Gunakan Mode malam agar lebih nyaman melakukan browsing pada pencahayaan rendah.</string>
+  <string name="night_mode_title">Mode malam</string>
+  <string name="passwords_auto_signin_description">"Secara otomatis masuk ke situs web menggunakan kredensial yang tersimpan. Saat fitur dinonaktifkan, Anda akan diminta untuk verifikasi setiap saat sebelum masuk ke situs web."</string>
+  <string name="powered_by_chrome_message">Didukung oleh Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Peningkatan untuk hemat daya akan diaktifkan.</string>
+  <string name="powersave_mode_opt_out_confirmation">Peningkatan untuk hemat daya akan dinonaktifkan.</string>
+  <string name="powersave_mode_tip_text">Setelan mode hemat daya akan berpotensi memengaruhi pengalaman pengguna untuk meningkatkan daya tahan baterai untuk browser Anda</string>
+  <string name="powersave_mode_title">Mode hemat daya</string>
+  <string name="powersave_mode_turn_off_title">Nonaktifkan mode hemat daya</string>
+  <string name="powersave_mode_turn_on_title">Aktifkan mode hemat daya</string>
+  <string name="prefs_about_chrome">Tentang</string>
+  <string name="privacy_notice_title">Kebijakan Privasi Browser</string>
+  <string name="sad_tab_suggestions">"Jika ini sering terjadi, coba &lt;link&gt;saran-saran yang ada di sini&lt;/link&gt;."</string>
+  <string name="sign_in_to_chrome">"Masuk ke Chrome"</string>
+  <string name="signout_message">"Data yang tersimpan di perangkat ini, serta data yang tersimpan di Akun Google, akan tetap berada di tempatnya masing-masing. Namun, data baru atau perubahan yang dibuat pada data tidak akan disinkronkan di antara keduanya."</string>
+  <string name="signout_title">"Keluar dari Chrome"</string>
+  <string name="ssl_error">Situs memiliki sertifikat SSL yang tidak valid</string>
+  <string name="ssl_secure">Sertifikat SSL situs valid. Komunikasi dienkripsi dan identitas sudah diverifikasi</string>
+  <string name="ssl_warning">Sertifikat SSL situs memiliki peringatan</string>
+  <string name="sync_custom_passphrase">"Hanya seseorang yang memiliki frasa sandi Anda yang dapat membaca data terenkripsi Anda. Frasa sandi ini tidak dikirim atau disimpan oleh Google. Jika Anda lupa frasa sandi, Anda harus menyetel ulang sinkronisasi."</string>
+  <string name="sync_enter_custom_passphrase_hint_confirm">"Konfirmasikan frasa sandi"</string>
+  <string name="sync_passphrase_reset_instructions">"Jika lupa sandi Anda, berhenti dan setel ulang Sinkronisasi melalui &lt;link&gt;Dasbor Google&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Enkripsi semua dengan frasa sandi"</string>
+  <string name="tabs_and_apps_settings_description">"Lihat tab dengan aplikasi baru-baru ini lainnya di layar Ikhtisar ponsel."</string>
+  <string name="terms_of_service_title">Ketentuan Layanan Browser</string>
+  <string name="tooltip_favicon_change_search_engine">Sentuh di sini untuk mengubah mesin pencari.</string>
+  <string name="tooltip_favicon_change_site_settings">Sentuh di sini untuk mengubah preferensi untuk situs web saat ini, termasuk pemfilteran konten.</string>
+  <string name="tooltip_favicon_content_blocking_info">Pemfilteran konten aktif. Sentuh di sini untuk informasi selengkapnya.</string>
+  <string name="tooltip_favicon_site_integrity_check">Pemfilteran konten aktif. Jika ada masalah pada situs web ini, sentuh ikon ini dan coba nonaktifkan pemfilteran konten.</string>
+  <string name="translate_options_source_hint">"Bahasa Laman: ^1"</string>
+  <string name="translate_options_target_hint">"Bahasa Terjemahan: ^1"</string>
+  <string name="unsupported_number_of_windows">Beberapa Browser tidak didukung.</string>
+  <string name="web_defender_about_text">Penjaga Web menggunakan kecerdasan mesin untuk mencegah pelacak pihak ketiga (termasuk para pengiklan) untuk mengumpulkan informasi tentang situs web yang Anda kunjungi dan informasi yang bersifat pribadi. Jika pengamat tertangkap sedang melacak aktivitas Anda di beberapa situs web, Penjaga Web secara otomatis akan memblokir pengamat tersebut sehingga tidak dapat memuat konten lain ke browser Anda.</string>
+  <string name="web_refiner_about_text">Penyaring Web adalah komponen pemfilteran konten yang memungkinkan Anda memblokir domain iklan, pelacak, dan malware. Dengan mengaktifkan Penyaring Web, Anda tidak akan banyak mengalami kejengkelan saat berselancar di Internet. Browser web Anda biasanya akan berjalan lebih cepat, Anda tidak akan menghabiskan bandwidth untuk mengunduh iklan, dan Anda akan terlindung dari domain pelacak dan malware.</string>
+  <string name="webrefiner_ads">iklan</string>
+  <string name="webrefiner_ads_plural">iklan</string>
+  <string name="webrefiner_malware">malware</string>
+  <string name="webrefiner_one_message">Kami memblokir %s.</string>
+  <string name="webrefiner_three_message">Kami memblokir %1$s, %2$s, dan %3$s.</string>
+  <string name="webrefiner_trackers">pelacak</string>
+  <string name="webrefiner_trackers_plural">pelacak</string>
+  <string name="webrefiner_two_message">Kami memblokir %1$s dan %2$s.</string>
+  <string name="website_settings_category_disabled">Dinonaktifkan</string>
+  <string name="website_settings_category_enabled">Diaktifkan</string>
+  <string name="website_settings_fullscreen">"Layar Penuh"</string>
+  <string name="website_settings_security_title">Informasi Keamanan</string>
+  <string name="website_settings_webdefender_brief_message">Informasi yang dapat dilacak tidak akan dibocorkan ke domain %1$s yang tersambung.</string>
+  <string name="website_settings_webdefender_cookie">Penyimpanan Cookie</string>
+  <string name="website_settings_webdefender_disabled">Anda tidak terlindung dari domain pelacakan pihak ketiga.</string>
+  <string name="website_settings_webdefender_disabled_count">Anda tidak terlindung dari %1$s domain pelacakan pihak ketiga.</string>
+  <string name="website_settings_webdefender_enabled">Penjaga Web diaktifkan</string>
+  <string name="website_settings_webdefender_fingerprint">Pembuatan sidik jari</string>
+  <string name="website_settings_webdefender_font_enum">Enumerasi Font</string>
+  <string name="website_settings_webdefender_html5">Penyimpanan HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Pengukur Privasi</string>
+  <string name="website_settings_webdefender_tracking_list">Setelan domain tersambung:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">tidak terdeteksi</string>
+  <string name="website_settings_webdefender_tracking_vectors">Vektor pelacakan di domain tersambung:</string>
+  <string name="website_settings_webdefender_vector_allow">Izinkan</string>
+  <string name="website_settings_webdefender_vector_not_connect">Jangan sambungkan</string>
+  <string name="website_settings_webdefender_vector_strip">Kosongkan vektor dan sambungkan</string>
+  <string name="website_settings_webdefender_vector_system_default">Putuskan untuk saya</string>
+  <string name="website_settings_webrefiner_disabled">Pemblokiran konten dinonaktifkan</string>
+  <string name="website_settings_webrefiner_enabled">Pemblokiran konten diaktifkan</string>
+</resources>

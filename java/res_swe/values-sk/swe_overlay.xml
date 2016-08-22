@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">"Spustiť Chrome"</string>
+  <string name="account_management_add_account_title">"Pridať účet pre: %1$s"</string>
+  <string name="account_management_title">"Účty"</string>
+  <string name="added_to_homescreen">"Doména %1$s bola pridaná na domovskú stránku"</string>
+  <string name="android_permission_off">"Zapnite povolenie pre Chrome v &lt;link&gt;nastaveniach Androidu&lt;/link&gt;."</string>
+  <string name="android_permission_off_plural">"Zapnite povolenia pre Chrome v &lt;link&gt;nastaveniach Androidu&lt;/link&gt;."</string>
+  <string name="can_not_clear_browsing_history_toast">"Históriu prehliadania nemôžete vymazať prostredníctvom účtu pre deti"</string>
+  <string name="clear_browsing_data_title">"Vymazať údaje prehliadania"</string>
+  <string name="clear_cache_title">"Vyrovnávacia pamäť"</string>
+  <string name="clear_cookies_and_site_data_title">"Súbory cookie, údaje stránok"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Nebudete odhlásený/-á zo svojich &lt;link&gt;účtov Google&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"Vymazať"</string>
+  <string name="common_google_play_services_invalid_account_text">"Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet."</string>
+  <string name="common_google_play_services_network_error_text">"Pripojenie k službám Google Play si vyžaduje dátové pripojenie."</string>
+  <string name="common_google_play_services_unknown_issue">"Neznámy problém so službami Google Play."</string>
+  <string name="common_google_play_services_update_title">"Aktualizovať služby Google Play"</string>
+  <string name="common_open_on_phone">"Otvoriť na telefóne"</string>
+  <string name="data_reduction_description">"Keď je táto funkcia zapnutá, Chrome navštívené stránky pred stiahnutím komprimuje pomocou serverov Google. Funkcia nemá vplyv na stránky používajúce protokol SSL a stránky navštívené v režime Inkognito."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Bolo zistené pomalé pripojenie"</string>
+  <string name="data_reduction_promo_summary">"Využite službu Google na optimalizáciu navštívených stránok a miňte menej dát. Google neoptimalizuje ani neuvidí stránky, ku ktorým pristupujete prostredníctvom protokolu HTTPS alebo v režime inkognito."</string>
+  <string name="do_not_track_description">"Ak povolíte možnosť Nesledovať, k odosielaným údajom prehliadania sa pridá žiadosť. Akýkoľvek účinok závisí od toho, či budú webové stránky na žiadosť reagovať, a od interpretácie žiadosti.
+
+Niektoré webové stránky môžu napríklad na túto žiadosť reagovať tak, že vám zobrazia reklamy, ktoré nie sú založené na ostatných webových stránkach, ktoré ste navštívili. Mnoho webových stránok bude stále zhromažďovať a používať vaše údaje prehliadania, napríklad na zlepšenie zabezpečenia, poskytovanie obsahu, reklám a odporúčaní na svojich webových stránkach a na generovanie štatistiky prehľadov."</string>
+  <string name="do_not_track_title">"„Nesledovať“"</string>
+  <string name="fre_send_report_check">"Odosielanie štatistík používania a prehľadu chýb pomôže Googlu zlepšiť Chrome."</string>
+  <string name="fre_tos_and_privacy">"Používaním tejto aplikácie vyjadrujete súhlas so &lt;LINK1&gt;zmluvnými podmienkami&lt;/LINK1&gt; a &lt;LINK2&gt;upozornením o ochrane osobných údajov&lt;/LINK2&gt; prehliadača Chrome."</string>
+  <string name="fre_welcome">"Víta vás prehliadač Chrome"</string>
+  <string name="fullscreen_api_notification">"Web sa zobrazuje na celej obrazovke.
+Toto zobrazenie ukončíte pomocou tlačidla Späť."</string>
+  <string name="fullscreen_permission_title">"Celá obrazovka"</string>
+  <string name="infobar_missing_camera_permission_text">"Na zdieľanie obsahu s týmito stránkami vyžaduje Chrome prístup k fotoaparátu."</string>
+  <string name="infobar_missing_location_permission_text">"Na to, aby Chrome mohol s týmito webovými stránkami zdieľať polohu, musí mať k nej prístup."</string>
+  <string name="infobar_missing_microphone_permission_text">"Na to, aby Chrome mohol s týmito webovými stránkami zdieľať mikrofón, musí mať k nemu prístup."</string>
+  <string name="infobar_missing_multiple_permissions_text">"Na to, aby Chrome mohol s týmito webovými stránkami zdieľať povolenia, musí mať k ním prístup."</string>
+  <string name="kids_account">"Toto je detský účet"</string>
+  <string name="menu_open_in_chrome">"Otvoriť v prehliadači Chrome"</string>
+  <string name="native_startup_failed">"Prehliadač Chrome sa nepodarilo spustiť, pretože sa vyskytla neočakávaná chyba"</string>
+  <string name="network_predictions_title">"Predbežné načítanie zdrojov stránky"</string>
+  <string name="new_tab_incognito_header">"Ste v režime inkognito."</string>
+  <string name="night_mode_reload_tip_text">"Night mode setting change will take effect for the current webpage(s) after reload"</string>
+  <string name="passwords_auto_signin_description">"Povolí automatické prihlasovanie na webové stránky pomocou uložených poverení. Ak je funkcia vypnutá, zobrazí sa výzva na overenie vždy pred prihlásením na webové stránky."</string>
+  <string name="powered_by_chrome_message">"Používa technológiu prehliadača Chrome"</string>
+  <string name="prefs_about_chrome">"Informácie o Google Chrome"</string>
+  <string name="prefs_privacy">"Súkromie"</string>
+  <string name="privacy_notice_title">"Upozornenie o ochrane osobných údajov prehliadača Chrome"</string>
+  <string name="sad_tab_suggestions">"Ak sa vám táto stránka zobrazuje často, skúste použiť tieto &lt;link&gt;návrhy&lt;/link&gt;."</string>
+  <string name="sign_in_to_chrome">"Prihlásenie do prehliadača Chrome"</string>
+  <string name="signout_message">"Údaje uložené na tomto zariadení aj údaje uložené v účte Google zostanú na oboch miestach. Nové údaje ani zmeny súčasných údajov sa už však medzi týmito miestami synchronizovať nebudú."</string>
+  <string name="signout_title">"Odhlásenie z prehliadača Chrome"</string>
+  <string name="sync_custom_passphrase">"Šifrované údaje si môže prečítať len osoba, ktorá pozná vašu prístupovú frázu. Táto prístupová fráza sa spoločnosti Google neodosiela ani ju neuchováva. Ak ju zabudnete, musíte obnoviť synchronizáciu."</string>
+  <string name="sync_passphrase_reset_instructions">"Ak ste zabudli svoju prístupovú frázu, zastavte a obnovte synchronizáciu pomocou služby &lt;link&gt;Google Dashboard&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Šifrovať všetko prístupovou frázou"</string>
+  <string name="tabs_and_apps_settings_description">"Zobrazte si svoje karty spolu s ostatnými nedávnymi aplikáciami na telefóne na obrazovke Prehľad."</string>
+  <string name="terms_of_service_title">"Zmluvné podmienky prehliadača Chrome"</string>
+  <string name="translate_options_source_hint">"Jazyk stránky: ^1"</string>
+  <string name="translate_options_target_hint">"Jazyk prekladu: ^1"</string>
+  <string name="unsupported_number_of_windows">"Nepodporovaný počet inštancií prehliadača Chrome."</string>
+  <string name="website_settings_fullscreen">"Celá obrazovka"</string>
+</resources>

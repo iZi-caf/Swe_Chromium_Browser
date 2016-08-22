@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">ब्राउज़र लॉन्च करें</string>
+  <string name="account_management_add_account_title">"%1$s का खाता जोड़ें"</string>
+  <string name="account_management_title">"खाते"</string>
+  <string name="added_to_homescreen">"%1$s को आपकी होमस्‍क्रीन पर जोड़ा गया"</string>
+  <string name="android_permission_off">&lt;link&gt;Android सेटिंग्स&lt;/link&gt; में ब्राउज़र के लिए अनुमति चालू करें.</string>
+  <string name="android_permission_off_plural">&lt;link&gt;Android सेटिंग्स&lt;/link&gt; में ब्राउज़र के लिए अनुमतियाँ चालू करें.</string>
+  <string name="app_name">ब्राउज़र</string>
+  <string name="background_audio_reload_tip_text">वेबपेज फोरग्राउंड में नहीं होने पर ऑडियो चलाना जारी रखने के लिए वीडियो सामग्री को सक्षम बनाता है.</string>
+  <string name="background_audio_title">बैकग्राउंड ऑडियो</string>
+  <string name="block_screen_observers_summary">अन्य ऐप्लिकेशंस से ब्राउज़र स्क्रीन कैप्चरिंग की अनुमति दें या उसे अवरुद्ध करें</string>
+  <string name="block_screen_observers_title">स्क्रीन प्रेक्षक अवरुद्ध करें</string>
+  <string name="can_not_clear_browsing_history_toast">"ब्राउज़िंग इतिहास को बच्‍चों के खातों से साफ़ नहीं किया जा सकता"</string>
+  <string name="clear_cache_title">"संचय"</string>
+  <string name="clear_cookies_and_site_data_title">"कुकी, साइट डेटा"</string>
+  <string name="clear_cookies_no_sign_out_summary">"आप अपने &lt;link&gt;Google खातों&lt;/link&gt; से प्रस्‍थान नहीं करेंगे"</string>
+  <string name="clear_data_delete">"साफ़ करें"</string>
+  <string name="common_google_play_services_enable_title">"Google Play सेवाएं सक्षम करें"</string>
+  <string name="common_google_play_services_install_button">"Google Play सेवाएं पाएं"</string>
+  <string name="common_google_play_services_install_title">"Google Play सेवाएं पाएं"</string>
+  <string name="common_google_play_services_unknown_issue">"Google Play सेवाओं के साथ अज्ञात समस्या."</string>
+  <string name="common_google_play_services_update_button">"नई जानकारी पाएं"</string>
+  <string name="common_google_play_services_update_title">"Google Play सेवाएं से नई जानकारी"</string>
+  <string name="common_signin_button_text_long">"Google से प्रवेश करें"</string>
+  <string name="data_reduction_description">"इस सुविधा के चालू होने पर, Chrome आपके द्वारा देखे जाने वाले पृष्ठों को डाउनलोड करने से पहले संपीड़ित करने के लिए Google सर्वर का उपयोग करेगा. SSL और गुप्त पृष्ठों को शामिल नहीं किया जाएगा."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"धीमे कनेक्शन का पता चला."</string>
+  <string name="data_reduction_promo_summary">"आप जो पृष्‍ठ देखते हैं उन्‍हें ऑप्‍टिमाइज़ करने के लिए Google का उपयोग करके कम डेटा खर्च करें. HTTPS या गुप्त मोड से ऐक्‍सेस किए गए पृष्ठों को Google द्वारा ऑप्‍टिमाइज़ या देखा नहीं जाएगा."</string>
+  <string name="do_not_track_description">"‘ट्रैक न करें’ सक्षम करने का अर्थ है कि आपके ब्राउज़िंग ट्रैफ़िक के साथ कोई अनुरोध शामिल किया जाएगा. कोई भी प्रभाव इस बात पर निर्भर करता है कि वेबसाइट अनुरोध का प्रतिसाद देती है या नहीं, और अनुरोध को किस तरह समझा जाता है.
+
+उदाहरण के लिए, कुछ वेबसाइटें इस अनुरोध का प्रतिसाद आपको ऐसे विज्ञापन दिखाकर दे सकती हैं जो आपके द्वारा देखी गई अन्य वेबसाइटों पर आधारित नहीं हैं. कई वेबसाइटें अब भी आपके ब्राउज़िंग डेटा को संग्रहीत करेंगी और उसका उपयोग करेंगी - उदाहरण के लिए सुरक्षा को बेहतर बनाने के लिए, अपनी वेबसाइट पर सामग्री, विज्ञापन और अनुशंसाएं प्रदान करने के लिए और रिपोर्टिंग के आकंड़े जेनरेट करने के लिए."</string>
+  <string name="do_not_track_title">"‘नज़र ना रखें’"</string>
+  <string name="fre_send_report_check">उपयोग आंकड़ों और क्रैश रिपोर्ट्स की रिपोर्ट भेजकर ब्राउज़र को बेहतर बनाने में मदद करें.</string>
+  <string name="fre_tos_and_privacy">इस ऐप्लिकेशन का उपयोग करके, आप ब्राउज़र की &lt;LINK1&gt;सेवा की शर्तों&lt;/LINK1&gt; और &lt;LINK2&gt;गोपनीयता सूचना&lt;/LINK2&gt; से सहमत होते हैं.</string>
+  <string name="fre_welcome">ब्राउज़र में आपका स्वागत है</string>
+  <string name="fullscreen_api_notification">"यह साइट पूर्णस्‍क्रीन में चली गई है.
+बाहर निकलने के लिए वापस जाएं बटन दबाएं."</string>
+  <string name="fullscreen_permission_title">"पूर्णस्‍क्रीन"</string>
+  <string name="infobar_missing_camera_permission_text">ब्राउज़र को इस साइट के साथ कैमरा ऐक्सेस साझा करने के लिए इसकी आवश्यकता है.</string>
+  <string name="infobar_missing_location_permission_text">ब्राउज़र को इस साइट के साथ स्थान ऐक्सेस साझा करने के लिए इसकी आवश्यकता होती है.</string>
+  <string name="infobar_missing_microphone_permission_text">ब्राउज़र को इस साइट के साथ माइक्रोफ़ोन ऐक्सेस साझा करने के लिए इसकी आवश्यकता है.</string>
+  <string name="infobar_missing_multiple_permissions_text">ब्राउज़र को इस साइट के साथ अनुमतियाँ ऐक्सेस साझा करने के लिए इनकी आवश्यकता है.</string>
+  <string name="kids_account">"यह बच्चे का खाता है"</string>
+  <string name="menu_load_live_page_for_offline_page">लाइव हो जाएँ</string>
+  <string name="menu_open_in_chrome">ब्राउज़र में खोलें</string>
+  <string name="most_visited">सबसे अधिक बार</string>
+  <string name="native_startup_failed">स्टार्टअप के दौरान एक अनपेक्षित त्रुटि के कारण ब्राउज़र विफल हुआ.</string>
+  <string name="network_predictions_title">"पृष्‍ठ संसाधनों को प्रीफ़ेच करें"</string>
+  <string name="new_tab_incognito_header">"आप गुप्त मोड में चले गए हैं."</string>
+  <string name="night_mode_reload_tip_text">अंधेरे में अपनी आँखों पर ज़ोर दिए बिना ब्राउज़िंग आसान बनाने के लिए रात्रि मोड का उपयोग करें.</string>
+  <string name="night_mode_title">रात्रि मोड</string>
+  <string name="passwords_auto_signin_description">"संग्रहीत प्रमाणिकताओं का उपयोग करके वेबसाइटों में अपने आप प्रवेश करें. सुविधा के बंद होने पर, किसी वेबसाइट में प्रवेश करने से पहले आपसे हर बार सत्‍यापन के लिए कहा जाएगा."</string>
+  <string name="powered_by_chrome_message">Chromium द्वारा संचालित</string>
+  <string name="powersave_mode_opt_in_confirmation">पॉवर बचत सुधार चालू किए जाएँगे.</string>
+  <string name="powersave_mode_opt_out_confirmation">पॉवर बचत सुधार बंद किए जाएँगे.</string>
+  <string name="powersave_mode_tip_text">पॉवर बचत मोड सेटिंग आपके ब्राउज़र हेतु बैटरी लाइफ़ को बेहतर बनाने के लिए उपयोगकर्ता अनुभव को संभावित रूप से प्रभावित करेगी</string>
+  <string name="powersave_mode_title">पॉवर बचत मोड</string>
+  <string name="powersave_mode_turn_off_title">पॉवर-बचत मोड अक्षम करें</string>
+  <string name="powersave_mode_turn_on_title">पॉवर-बचत मोड सक्षम करें</string>
+  <string name="prefs_about_chrome">इसके बारे में</string>
+  <string name="privacy_notice_title">ब्राउज़र गोपनीयता सूचना</string>
+  <string name="sad_tab_suggestions">"यदि आपको यह बार-बार दिखाई दे रहा हो, तो इन &lt;link&gt;सुझावों&lt;/link&gt; को आज़माएं."</string>
+  <string name="sign_in_to_chrome">"Chrome में प्रवेश करें"</string>
+  <string name="signout_message">"इस डिवाइस पर संग्रहीत डेटा के साथ ही आपके Google खाते में संग्रहीत डेटा दोनों स्थानों में बना रहेगा. हालांकि, नया डेटा या आपके द्वारा अपने डेटा में किए जाने वाले बदलाव उनके बीच समन्वयित नहीं किए जाएंगे."</string>
+  <string name="signout_title">"Chrome से प्रस्थान करें"</string>
+  <string name="ssl_error">साइट में एक अमान्य SSL प्रमाणपत्र है</string>
+  <string name="ssl_secure">साइट का SSL प्रमाणपत्र मान्य है. संचार एन्क्रिप्ट किया गया है और पहचान सत्यापित की गई है</string>
+  <string name="ssl_warning">साइट के SSL प्रमाणपत्र में चेतावनियाँ हैं</string>
+  <string name="sync_custom_passphrase">"जिसके पास आपका पासफ़्रेज़ होगा वही आपका एन्क्रिप्ट डेटा पढ़ सकता है. यह पासफ़्रेज़ Google को नहीं भेजा जाता न ही संग्रहीत किया जाता है. यदि आप पासफ़्रेज़ भूल गए हैं, तो आपको समन्वयन रीसेट करना होगा."</string>
+  <string name="sync_passphrase_reset_instructions">"यदि‍ आप अपना पासफ्रेज़ भूल गए हैं, तो रूकें और  &lt;link&gt;Google डैशबोर्ड&lt;/link&gt; के द्वारा समन्‍वयन रीसेट करें."</string>
+  <string name="sync_passphrase_type_custom">"पासफ़्रेज़ से सभी एन्क्रिप्ट करें"</string>
+  <string name="tabs_and_apps_settings_description">"अपने फ़ोन की अवलोकन स्‍क्रीन पर हाल ही के अन्‍य ऐप्स के साथ अपने टैब देखें."</string>
+  <string name="terms_of_service_title">ब्राउज़र की सेवा की शर्तें</string>
+  <string name="tooltip_favicon_change_search_engine">खोज इंजन बदलने के लिए यहाँ स्पर्श करें.</string>
+  <string name="tooltip_favicon_change_site_settings">सामग्री फ़िल्टरिंग सहित वर्तमान वेबसाइट हेतु प्राथमिकताएँ बदलने के लिए यहाँ स्पर्श करें.</string>
+  <string name="tooltip_favicon_content_blocking_info">सामग्री फ़िल्टरिंग सक्रिय है. अधिक जानकारी के लिए यहाँ स्पर्श करें.</string>
+  <string name="tooltip_favicon_site_integrity_check">सामग्री फ़िल्टरिंग सक्रिय है. यदि इस वेबसाइट में समस्याएँ हैं, तो इस आइकन को स्पर्श करें और सामग्री फ़िल्टरिंग अक्षम करने का प्रयास करें.</string>
+  <string name="translate_options_source_hint">"पृष्ठ की भाषा: ^1"</string>
+  <string name="translate_options_target_hint">"अनुवाद की भाषा: ^1"</string>
+  <string name="unsupported_number_of_windows">ब्राउज़र असमर्थित होने के कई उदाहरण.</string>
+  <string name="web_defender_about_text">वेब डिफ़ेंडर (विज्ञापनों सहित) तृतीय पक्ष ट्रैकर्स को आपके द्वारा देखी गई वेबसाइट्स के बारे में जानकारी और व्यक्तिगत रूप से पहचान करने योग्य जानकारी एकत्रित करने से रोकने के लिए मशीन इंटेलीजेंस का उपयोग करता है. यदि कोई प्रेक्षक कई वेबसाइट्स पर आपकी गतिविधियाँ ट्रैक करता पाया जाता है, तो वेब डिफ़ेंडर आपके ब्राउज़र में कोई भी और सामग्री लोड करने से उस प्रेक्षक को स्वचालित रूप से अवरुद्ध करता है.</string>
+  <string name="web_refiner_about_text">वेब रिफ़ाइनर एक सामग्री-फ़िल्टरिंग घटक है, जो आपको विज्ञापन, ट्रैकर्स और मालवेयर डोमेंस अवरुद्ध करने की अनुमति देता है. वेब रिफ़ाइनर सक्षम होने पर, आपको इंटरनेट पर नेविगेट करते समय कुछ दिक्कतों का सामना करना होगा. आपका वेब ब्राउज़र सामान्य रूप से तेज़ चलेगा, विज्ञापन डाउनलोड करने में आप कम बैंडविड्थ व्यर्थ करेंगे और आपको ट्रैकर्स और मालवेयर डोमेंस से सुरक्षित किया जाएगा.</string>
+  <string name="webrefiner_ads">विज्ञापन</string>
+  <string name="webrefiner_ads_plural">विज्ञापन</string>
+  <string name="webrefiner_malware">मालवेयर</string>
+  <string name="webrefiner_one_message">हमने %s अवरुद्ध किया.</string>
+  <string name="webrefiner_three_message">हमने %1$s, %2$s और %3$s अवरुद्ध किया.</string>
+  <string name="webrefiner_trackers">ट्रैकर</string>
+  <string name="webrefiner_trackers_plural">ट्रैकर्स</string>
+  <string name="webrefiner_two_message">हमने %1$s और %2$s अवरुद्ध किया.</string>
+  <string name="website_settings_category_disabled">अक्षम</string>
+  <string name="website_settings_category_enabled">सक्षम</string>
+  <string name="website_settings_fullscreen">"पूर्णस्‍क्रीन"</string>
+  <string name="website_settings_security_title">सुरक्षा जानकारी</string>
+  <string name="website_settings_webdefender_brief_message">ट्रेस करने योग्य जानकारी %1$s कनेक्ट किए गए डोमेंस को प्रकट नहीं की जाएगी.</string>
+  <string name="website_settings_webdefender_cookie">कुकीज़ स्टोरेज</string>
+  <string name="website_settings_webdefender_disabled">आप तृतीय पक्ष ट्रैकिंग डोमेंस से सुरक्षित नहीं हैं.</string>
+  <string name="website_settings_webdefender_disabled_count">आप %1$s तृतीय पक्ष ट्रैकिंग डोमेंस से सुरक्षित नहीं हैं.</string>
+  <string name="website_settings_webdefender_enabled">वेब डिफ़ेंडर सक्षम है</string>
+  <string name="website_settings_webdefender_fingerprint">फ़िंगरप्रिंटिंग</string>
+  <string name="website_settings_webdefender_font_enum">फ़ॉन्ट एनुमरेशन</string>
+  <string name="website_settings_webdefender_html5">HTML5 स्टोरेज</string>
+  <string name="website_settings_webdefender_privacy_meter_title">गोपनीयता मीटर</string>
+  <string name="website_settings_webdefender_tracking_list">कनेक्टेड डोमेन सेटिंग्स:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">नहीं पता चला</string>
+  <string name="website_settings_webdefender_tracking_vectors">कनेक्ट किए गए डोमेंस पर वेक्टर्स ट्रैक करना:</string>
+  <string name="website_settings_webdefender_vector_allow">अनुमति दें</string>
+  <string name="website_settings_webdefender_vector_not_connect">कनेक्ट न करें</string>
+  <string name="website_settings_webdefender_vector_strip">वेक्टर्स स्ट्रिप करें और कनेक्ट करें</string>
+  <string name="website_settings_webdefender_vector_system_default">मेरे लिए निर्णय लें</string>
+  <string name="website_settings_webrefiner_disabled">सामग्री अवरुद्ध करना अक्षम है</string>
+  <string name="website_settings_webrefiner_enabled">सामग्री अवरुद्ध करना सक्षम है</string>
+</resources>

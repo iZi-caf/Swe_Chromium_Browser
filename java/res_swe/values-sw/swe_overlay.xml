@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Copyright (c) 2016, The Linux Foundation. All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are
+    met:
+        * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
+        * Neither the name of The Linux Foundation nor the names of its
+          contributors may be used to endorse or promote products derived
+          from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+    BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+<resources>
+  <string name="accessibility_bookmark_widget_thumb_launch_chrome">Zindua Kivinjari</string>
+  <string name="account_management_add_account_title">"Ongeza akaunti ya %1$s"</string>
+  <string name="account_management_title">"Akaunti"</string>
+  <string name="added_to_homescreen">"%1$s kiliongezwa kwenye skrini yako ya Kwanza"</string>
+  <string name="android_permission_off">Washa ruhusa ya Kivinjari katika &lt;link&gt;Mipangilio ya Android&lt;/link&gt;.</string>
+  <string name="android_permission_off_plural">Washa ruhusa za Kivinjari katika &lt;link&gt;Mipangilio ya Android&lt;/link&gt;.</string>
+  <string name="app_name">Kivinjari</string>
+  <string name="background_audio_reload_tip_text">Wezesha maudhui ya video kuendelea kucheza sauti wakati ukurasa wa wavuti hauko katika mandhari ya mbele.</string>
+  <string name="background_audio_title">Sauti ya mandhari ya nyuma</string>
+  <string name="block_screen_observers_summary">Ruhusu au zuia unasaji wa skrini ya kivinjari kutoka programu zingine</string>
+  <string name="block_screen_observers_title">Zuia vifuatiliaji vya skrini</string>
+  <string name="can_not_clear_browsing_history_toast">"Historia ya kuvinjari haiwezi kufutwa kwenye akaunti za watoto"</string>
+  <string name="clear_cache_title">"Akiba"</string>
+  <string name="clear_cookies_and_site_data_title">"Vidakuzi na data ya tovuti"</string>
+  <string name="clear_cookies_no_sign_out_summary">"Hutaondolewa katika &lt;link&gt;Akaunti zako za Google&lt;/link&gt;"</string>
+  <string name="clear_data_delete">"Futa"</string>
+  <string name="common_google_play_services_enable_button">"Wezesha huduma za Google Play"</string>
+  <string name="common_google_play_services_enable_title">"Wezesha huduma za Google Play"</string>
+  <string name="common_google_play_services_invalid_account_title">"Akaunti Batili"</string>
+  <string name="common_google_play_services_notification_ticker">"Hitilafu kwenye huduma za Google Play"</string>
+  <string name="common_google_play_services_sign_in_failed_text">"Hitilafu wakati wa kuingia katika akaunti iliyobainishwa. Tafadhali chagua akaunti tofauti."</string>
+  <string name="common_google_play_services_unknown_issue">"Suala lisilojulikana na huduma za Google Play."</string>
+  <string name="common_signin_button_text">"Ingia"</string>
+  <string name="common_signin_button_text_long">"Ingia ukitumia Google"</string>
+  <string name="contextual_search_no_thanks_button">"La, asante"</string>
+  <string name="copy_to_clipboard_failure_message">"Ilishindwa kunakiliwa kwenda kwenye ubao klipu."</string>
+  <string name="data_reduction_description">"Kipengele hiki kikiwashwa, Chrome itatumia seva za Google kushindilia kurasa unazotembelea kabla ya kuzipakua. Kurasa za SSL na za hali fiche hazitajumuishwa."</string>
+  <string name="data_reduction_lo_fi_snackbar_message">"Kasi ya chini ya muunganisho imegunduliwa."</string>
+  <string name="data_reduction_promo_summary">"Tumia gharama kidogo ya data kwa kutumia Google kuboresha kurasa unazotembelea. Kurasa zilizofikiwa kwa HTTPS au Hali Fiche hazitaboreshwa au kuonekana na Google."</string>
+  <string name="do_not_track_description">"Kuwasha ‘Usifuatilie’ kunamaanisha kuwa ombi litajumuishwa pamoja na maelezo yako mengine ya kuvinjari. Athari yoyote itategemea ikiwa tovuti inajibu ombi, na namna ombi litakavyofasiriwa.
+
+Kwa mfano, baadhi ya tovuti zinaweza kujibu ombi hili kwa kukuonyesha matangazo ambayo hayalingani na tovuti nyingine ulizotembelea. Tovuti nyingi bado zitakusanya na kutumia data yako ya kuvinjari - kwa mfano ili kuboresha usalama, kutoa maudhui, matangazo na mapendekezo kwenye tovuti zao, na kuzalisha takwimu za kuripoti."</string>
+  <string name="do_not_track_title">"‘Usifuatilie’"</string>
+  <string name="fre_send_report_check">Saidia kuboresha Kivinjari kwa kuripoti takwimu za matumizi na ripoti za kukwama.</string>
+  <string name="fre_skip_text">"La, asante"</string>
+  <string name="fre_tos_and_privacy">Kwa kutumia programu hii, unakubaliana na &lt;LINK1&gt;Masharti ya Huduma&lt;/LINK1&gt; na &lt;LINK2&gt;Notisi ya Sera&lt;/LINK2&gt; ya Kivinjari.</string>
+  <string name="fre_welcome">Karibu kwenye Kivinjari</string>
+  <string name="fullscreen_api_notification">"Tovuti hii inaonekana kwenye skrini nzima.
+Gonga kitufe cha nyuma ili uondoke."</string>
+  <string name="fullscreen_permission_title">"Skrini nzima"</string>
+  <string name="infobar_missing_camera_permission_text">Kivinjari kinahitaji ufikiaji wa kamera ili kuishirikisha na tovuti hii.</string>
+  <string name="infobar_missing_location_permission_text">Kivinjari kinahitaji ufikiaji wa eneo ili kulishirikisha na tovuti hii.</string>
+  <string name="infobar_missing_microphone_permission_text">Kivinjari kinahitaji ufikiaji wa mikrofoni ili kuishirikisha na tovuti hii.</string>
+  <string name="infobar_missing_multiple_permissions_text">Kivinjari kinahitaji ufikiaji wa ruhusa ili kuzishirikisha na tovuti hii.</string>
+  <string name="kids_account">"Hii ni akaunti ya mtoto"</string>
+  <string name="menu_load_live_page_for_offline_page">Zindua</string>
+  <string name="menu_open_in_chrome">Fungua katika Kivinjari</string>
+  <string name="most_visited">Za Mara kwa Mara Zaidi</string>
+  <string name="most_visited_placeholder_title">"Hapana cha kuangalia hapa... bado"</string>
+  <string name="native_startup_failed">Kivinjari hakikufaulu wakati wa uzinduzi kwa sababu ya hitilafu isiyojulikana.</string>
+  <string name="network_predictions_title">"Leta rasilimali za ukurasa mapema"</string>
+  <string name="new_tab_incognito_header">"Unavinjari katika hali fiche."</string>
+  <string name="night_mode_reload_tip_text">Tumia Modi ya Usiku kuimarisha uvinjari gizani.</string>
+  <string name="night_mode_title">Modi ya usiku</string>
+  <string name="passwords_auto_signin_description">"Ingia katika akaunti kiotomatiki kwa kutumia kitambulisho kilichohifadhiwa. Kipengele kikiwa kimezimwa, utaombwa kuthibitisha kila wakati kabla ya kuingia katika tovuti."</string>
+  <string name="policy_dialog_message">"Akaunti hii inasimamiwa na %1$s.
+
+Unaingia katika akaunti kwa kutumia akaunti inayosimamiwa na kumpa msimamizi wa akaunti udhibiti wa wasifu wako kwenye Chrome. Data yako ya Chrome itatumika kwenye akaunti hii kabisa. Kujiondoa kwenye akaunti hii kutafuta data yako ya Chrome iliyopo."</string>
+  <string name="policy_dialog_proceed">"Kubali na uingie katika akaunti"</string>
+  <string name="powered_by_chrome_message">Inaendeshwa na Chromium</string>
+  <string name="powersave_mode_opt_in_confirmation">Uboreshaji wa kuhifadhi nishati utawashwa.</string>
+  <string name="powersave_mode_opt_out_confirmation">Uboreshaji wa kuhifadhi nishati utazimwa.</string>
+  <string name="powersave_mode_tip_text">Mpangilio wa modi ya kuhifadhi nishati unaweza kuathiri tajiriba ya mtumiaji ili kuboresha maisha ya betri kwa kivinjari chako</string>
+  <string name="powersave_mode_title">Modi ya kuhifadhi nishati</string>
+  <string name="powersave_mode_turn_off_title">Lemaza Modi ya Kuhifadhi Nishati</string>
+  <string name="powersave_mode_turn_on_title">Wezesha Modi ya Kuhifadhi Nishati</string>
+  <string name="prefs_about_chrome">Kuhusu</string>
+  <string name="privacy_notice_title">Notisi ya Faragha ya Kivinjari</string>
+  <string name="sad_tab_suggestions">"Ikiwa unaona hili kila mara, jaribu &lt;link&gt;mapendekezo haya&lt;/link&gt;."</string>
+  <string name="sign_in_to_chrome">"Ingia katika Chrome"</string>
+  <string name="signout_message">"Data iliyohifadhiwa kwenye kifaa hiki pamoja na data iliyohifadhiwa katika Akaunti yako ya Google itasalia katika sehemu zote mbili. Hata hivyo, data au mabadiliko mapya utakayofanya kwenye data yako hayatasawazishwa."</string>
+  <string name="signout_title">"Ondoka kwenye Chrome"</string>
+  <string name="ssl_error">Tovuti ina cheti kisicho halali cha SSL</string>
+  <string name="ssl_secure">Cheti cha tovuti cha SSL ni halali. Mawasiliano yamefichamishwa na utambulisho umethibitishwa</string>
+  <string name="ssl_warning">Cheti cha tovuti cha SSL kina onyo</string>
+  <string name="sync_custom_passphrase">"Ni mtu aliye na kaulisiri yako pekee ndiye anayeweza kusoma data yako iliyosimbwa kwa njia fiche. Kaulisiri haitumwi kwa au kuhifadhiwa na Google. Ukisahau kaulisiri yako, utahitaji kuweka upya usawazishaji."</string>
+  <string name="sync_passphrase_reset_instructions">"Kama umesahau kaulisiri yako, simamisha na uweke upya Usawazishaji kupitia &lt;link&gt;Dashibodi ya Google&lt;/link&gt;."</string>
+  <string name="sync_passphrase_type_custom">"Simba yote kwa njia fiche kwa kaulisiri"</string>
+  <string name="tabs_and_apps_settings_description">"Angalia vichupo vyako pamoja na programu nyingine za hivi majuzi kwenye skrini ya simu ya Muhtasari."</string>
+  <string name="terms_of_service_title">Masharti ya Huduma ya Kivinjari</string>
+  <string name="tooltip_favicon_change_search_engine">Gusa hapa ili ubadilishe injini-tafuti.</string>
+  <string name="tooltip_favicon_change_site_settings">Gusa hapa ili ubadilishe mapendeleo ya tovuti ya sasa, ikiwa ni pamoja na uchujaji wa maudhui.</string>
+  <string name="tooltip_favicon_content_blocking_info">Uchujaji wa maudhui umeamilishwa. Gusa hapa kwa maelezo zaidi.</string>
+  <string name="tooltip_favicon_site_integrity_check">Uchujaji wa maudhui umeamilishwa. Ikiwa kuna matatizo kwenye tovuti hii, gusa ikoni hii na ujaribu kulemaza uchujaji wa maudhui.</string>
+  <string name="translate_options_source_hint">"Lugha ya Ukurasa: ^1"</string>
+  <string name="translate_options_target_hint">"Lugha ya Kutafsiria: ^1"</string>
+  <string name="unsupported_number_of_windows">Idadi ya matumizi ya Kivinjari yasiyo kubaliwa.</string>
+  <string name="web_defender_about_text">Ulinzi wa Wavuti hutumia akili ya mashine kuzuia vifuatiliaji vya watu wa tatu (ikiwa ni pamoja na watangazaji) visikusanye taarifa kuhusu tovuti unazotembelea na taarifa inayoweza kukutambulisha wewe binafsi. Ikiwa mfuatiliaji atapatikana akifuatilia shughuli zako katika tovuti kadhaa, Ulinzi wa Wavuti utakizuia kufuatiliaji hicho kiotomatiki kisipakie maudhui zaidi kwenye kviinjari chako.</string>
+  <string name="web_refiner_about_text">Kiboresha Wavuti ni kipengele kinachochuja maudhui kinachokuruhusu kuzuia matangazo, vifuatiliaji na vikoa vya programu asidi. Uboreshaji wa Wavuti ukiwezeshwa, utapata usumbufu mchache wakati unavinjari Wavuti. Kivinjari chako cha wavuti kutaendeshwa kwa kasi, utapoteza upana-bendi mchache kupakua matangazo, na utalindwa kutokana na vifuatiliaji na vikoa vya programu hasidi.</string>
+  <string name="webrefiner_ads">tangazo</string>
+  <string name="webrefiner_ads_plural">matangazo</string>
+  <string name="webrefiner_malware">programu hasidi</string>
+  <string name="webrefiner_one_message">Tumezuia %s.</string>
+  <string name="webrefiner_three_message">Tumezuia %1$s, %2$s na %3$s.</string>
+  <string name="webrefiner_trackers">kifuatiliaji</string>
+  <string name="webrefiner_trackers_plural">vifuatiliaji</string>
+  <string name="webrefiner_two_message">Tumezuia %1$s na %2$s.</string>
+  <string name="website_settings_category_disabled">Imelemazwa</string>
+  <string name="website_settings_category_enabled">Imewezeshwa</string>
+  <string name="website_settings_fullscreen">"Skrini nzima"</string>
+  <string name="website_settings_security_title">Taarifa ya Usalama</string>
+  <string name="website_settings_webdefender_brief_message">Taarifa inayoweza kufuatiliwa haitafichuliwa kwenye vikoa %1$s vilivyounganishwa.</string>
+  <string name="website_settings_webdefender_cookie">Hifadhi ya Kidakuzi</string>
+  <string name="website_settings_webdefender_disabled">Hujalindwa dhidi ya vikoa vya ufuatiliaji vya watu wa tatu.</string>
+  <string name="website_settings_webdefender_disabled_count">Hujalindwa dhidi ya vikoa %1$s vya ufuatiliaji vya watu wa tatu.</string>
+  <string name="website_settings_webdefender_enabled">Ulinzi wa Wavuti umewezeshwa</string>
+  <string name="website_settings_webdefender_fingerprint">Uchukuaji wa Alama za Vidole</string>
+  <string name="website_settings_webdefender_font_enum">Hesabu la Fonti</string>
+  <string name="website_settings_webdefender_html5">Hifadhi ya HTML5</string>
+  <string name="website_settings_webdefender_privacy_meter_title">Mita ya Faragha</string>
+  <string name="website_settings_webdefender_tracking_list">Mipangilio ya kikoa kilichounganishwa:</string>
+  <string name="website_settings_webdefender_tracking_not_detected">haijagunduliwa</string>
+  <string name="website_settings_webdefender_tracking_vectors">Vipengele vya ufuatiliaji kwenye vikoa vilivounganishwa:</string>
+  <string name="website_settings_webdefender_vector_allow">Ruhusu</string>
+  <string name="website_settings_webdefender_vector_not_connect">Usiunganishe</string>
+  <string name="website_settings_webdefender_vector_strip">Ondoa vipengele na uunganishe</string>
+  <string name="website_settings_webdefender_vector_system_default">Nifanyie uamuzi</string>
+  <string name="website_settings_webrefiner_disabled">Uzuiaji wa maudhui umezuiwa</string>
+  <string name="website_settings_webrefiner_enabled">Uzuiaji wa maudhui umewezeshwa</string>
+</resources>
