@@ -10,6 +10,11 @@
             "keyword": "bing.com",
             "searchUrl": "http://www.bing.com/search?q={searchTerms}",
             "faviconUrl": "http://www.bing.com/s/favicon.ico"
+        }, {
+            "name": "DuckDuckGo",
+            "keyword": "duckduckgo.com",
+            "searchUrl": "https://duckduckgo.com/?q=={searchTerms}",
+            "faviconUrl": "https://duckduckgo.com/favicon.ico"
         }],
         "default": 0
     }
