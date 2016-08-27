@@ -7,21 +7,42 @@
       "category"        : "MALWARE_DOMAINS",
       "format"          : "WebRefiner 1.0",
       "url"             : "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
-      "expiration"      : "1 days"
+      "expiration"      : "2 days"
     },
     {
       "name"            : "Privacy Filter",
       "category"        : "TRACKERS",
       "format"          : "WebRefiner 1.0",
-      "url"             : "https://easylist-downloads.adblockplus.org/easyprivacy.txt",
-      "expiration"      : "4 days"
+      "url"             : "none",
+      "expiration"      : "2 days"
     },
     {
       "name"            : "Ad Filter",
       "category"        : "ADS",
       "format"          : "WebRefiner 1.0",
-      "url"             : "https://easylist-downloads.adblockplus.org/easylist.txt",
-      "expiration"      : "4 days"
+      "url"             : "https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt",
+      "expiration"      : "2 days"
+    },
+    {
+      "name"            : "Anti Adblock Filter",
+      "category"        : "ADS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Adware Filter",
+      "category"        : "ADS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist-downloads.adblockplus.org/adwarefilters.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Regional Ad Filter",
+      "category"        : "ADS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist-downloads.adblockplus.org/bitblock.txt",
+      "expiration"      : "5 days"
     }
   ]
 }
