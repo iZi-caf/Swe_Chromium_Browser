@@ -10,10 +10,8 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.RecyclerView.ViewHolder;
 import android.view.ViewGroup;
 
-import org.chromium.base.CommandLine;
 import org.chromium.base.ContextUtils;
 import org.chromium.base.metrics.RecordUserAction;
-import org.chromium.chrome.browser.ChromeSwitches;
 import org.chromium.chrome.browser.signin.SigninAccessPoint;
 import org.chromium.chrome.browser.signin.SigninAndSyncView;
 import org.chromium.chrome.browser.signin.SigninManager;
@@ -132,9 +130,7 @@ class BookmarkPromoHeader implements AndroidSyncSettingsObserver,
                 && mSignInManager.isSignInAllowed()
                 && !wasSigninPromoDeclined()
                 && ContextUtils.getAppSharedPreferences().getInt(
-                        PREF_SIGNIN_PROMO_SHOW_COUNT, 0) < MAX_SIGNIN_PROMO_SHOW_COUNT
-                && CommandLine.getInstance()
-                .hasSwitch(ChromeSwitches.ENABLE_SUPPRESSED_CHROMIUM_FEATURES);
+                        PREF_SIGNIN_PROMO_SHOW_COUNT, 0) < MAX_SIGNIN_PROMO_SHOW_COUNT;
         if (oldIsShowing != mShouldShow && notifyUI) {
             mShowingChangeListener.onPromoHeaderShowingChanged(mShouldShow);
         }

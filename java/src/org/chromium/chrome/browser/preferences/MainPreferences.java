@@ -12,7 +12,6 @@ import android.preference.PreferenceFragment;
 
 import org.chromium.base.CommandLine;
 import org.chromium.chrome.R;
-import org.chromium.chrome.browser.ChromeSwitches;
 import org.chromium.chrome.browser.PasswordUIView;
 import org.chromium.chrome.browser.autofill.PersonalDataManager;
 import org.chromium.chrome.browser.net.spdyproxy.DataReductionProxySettings;
@@ -145,13 +144,8 @@ public class MainPreferences extends PreferenceFragment implements SignInStateOb
 
     private void setupSignInPref() {
         mSignInPreference = (SignInPreference) findPreference(PREF_SIGN_IN);
-        if (!CommandLine.getInstance()
-                .hasSwitch(ChromeSwitches.ENABLE_SUPPRESSED_CHROMIUM_FEATURES)) {
-            getPreferenceScreen().removePreference(mSignInPreference);
-        } else {
-            mSignInPreference.registerForUpdates();
-            mSignInPreference.setEnabled(true);
-        }
+        mSignInPreference.registerForUpdates();
+        mSignInPreference.setEnabled(true);
     }
 
     private void clearSignInPref() {
